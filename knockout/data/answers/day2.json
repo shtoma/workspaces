@@ -1,0 +1,1302 @@
+[
+  {
+    "questionId": "724",
+    "question": "Because of the ——- tides draining water from the channel, all shipping lanes will be closed until 3:00 when conditions reverse.",
+    "option": [
+      "(A) fall",
+      "(B) falling",
+      "(C) fallen",
+      "(D) fell"
+    ],
+    "translation": "TOEIC文法問題　第1200問（英語音声付）",
+    "answer": "【問題文訳】「海峡から水が流出する引き潮によって、状況がもどる3時まで船の航路はすべて閉鎖されることになる」",
+    "explanation": "B"
+  },
+  {
+    "questionId": "726",
+    "question": "In the case that there are only a few sheets of typing paper ——-, someone in the office needs to place an order and also buy a small supply at a nearby retail store.",
+    "option": [
+      "(A) leaving",
+      "(B) left",
+      "(C) have left",
+      "(D) is left"
+    ],
+    "translation": "【問題文訳】「タイプ用紙があと数枚しか残っていない場合は、オフィスの誰かが注文し、かつ近所の小売店から少し買ってくること」",
+    "answer": "B",
+    "explanation": "【解説】文頭のIn the case that …は「もし…になったら、…の場合には」という意味であとには節（文の形）が続く。there are以降の文（節）にはすでにareという動詞があるので、述部になり得る形のうち分詞以外は不適切である。つまり、(C)のhave leftと(D)のis leftは使えない。そして、タイプ用紙は「残される側」になるので、leavingではなく(B)のleftが適切である。"
+  },
+  {
+    "questionId": "728",
+    "question": "This morning’s internal e-mail from management announced that there was a problem ——- the whole company.",
+    "option": [
+      "(A) to affect",
+      "(B) affected",
+      "(C) affecting",
+      "(D) affects"
+    ],
+    "translation": "【問題文訳】「今朝の経営陣からの社内メールで、会社全体に影響を与えるかもしれない問題が発生したと発表があった」",
+    "answer": "C",
+    "explanation": "【解説】文の構文を考えよう。文頭からmanagementまでが主語で、announcedが述語動詞。that以降は目的語になる名詞節である。a problemがthere wasの文の主語に相当し、空所以降がthe whole companyを伴ってa problemを修飾している形である。a problemは「影響を与える側」に当たるので、現在分詞のaffectingが適切である。よって(C)が正解。"
+  },
+  {
+    "questionId": "730",
+    "question": "If any materials ——- on your card are overdue, they must be returned before your card can be used to borrow additional library materials.",
+    "option": [
+      "(A) check out",
+      "(B) to check out",
+      "(C) checking out",
+      "(D) checked out"
+    ],
+    "translation": "【問題文訳】「カードで借り出されている資料の返却期限が過ぎている場合は、カードを使ってさらに図書資料を借り出す前に返却してください」",
+    "answer": "D",
+    "explanation": "【解説】前半のif節の中の構造を確認しよう。コンマの前にare overdue（期限を過ぎている）があるので、これが述部になる。つまり、any materialsから空所の語句を含んでcardまでが主語。したがって、前の名詞を後ろから「後置修飾」で修飾するのがよい。materialは「借りられる」側なので、受け身の意味を表す過去分詞のchecked outが適切である。(D)が正解。"
+  },
+  {
+    "questionId": "732",
+    "question": "After this next trip, the company’s top negotiator will have been to Paris three times, ——- to acquire a French company with an appropriate product line.",
+    "option": [
+      "(A) tries",
+      "(B) tried",
+      "(C) to try",
+      "(D) trying"
+    ],
+    "translation": "【問題文訳】「今度の出張で、その会社の最高交渉人はパリに行くのが3度目になるが、適切な製品ラインを持つフランス企業の買収を試みている」",
+    "answer": "D",
+    "explanation": "【解説】文頭のAfter this next tripは「時間」を表す修飾語句。そして、the company’s top negotiatorが主語の文が続いている。timesまでは完全な文になっているので、空所以降は再び修飾語句となる。「…しようとして」という意味になる分詞構文が適切である。よって(D)のtryingが正解。"
+  },
+  {
+    "questionId": "734",
+    "question": "Airline ticket prices are figured ——- upon demand and variables such as fuel charges.",
+    "option": [
+      "(A) basing",
+      "(B) to base",
+      "(C) based",
+      "(D) to be based"
+    ],
+    "translation": "【問題文訳】「航空券の値段は、需要と燃料費のように変動するものに基づいて計算される」",
+    "answer": "C",
+    "explanation": "【解説】空所までの文の意味を考えると、「航空料金が計算される元となるもの」が不足していることが判断される。「航空料金」は「計算される側」に当たるので、受動態の意味を持つ過去分詞が適切である。過去分詞が使われているのは(C)のbasedと(D)のto be basedである。「過去分詞の後置修飾」で(C)のbasedが適切である。(D)のto be basedのように不定詞は、「今後…すべき」という意味合いになるので、この文のように、料金の元になる要素を従えることはできない。"
+  },
+  {
+    "questionId": "736",
+    "question": "Two security guards stood at opposite points on the grounds, ——- for anything that might come their way.",
+    "option": [
+      "(A) waited",
+      "(B) waiting",
+      "(C) to wait",
+      "(D) wait"
+    ],
+    "translation": "【問題文訳】「2人の警備員がそのグラウンドの反対側に立ち、彼らのほうに来るかもしれない者を待った」",
+    "answer": "B",
+    "explanation": "【解説】文頭からgroundsまでが完全な「文」を形成していることに気付くこと。つまり、(A)のwaitedを使う場合は、接続詞のandを使ってつなぐ必要がある。よって(A)は間違い。同じ理由から、(D)のwaitも間違い。さらに、waitは時制も合っていない。(B)のwaitingが「待ちながら」という意味の「分詞構文」になり、文法的にも意味的にも合う。(C)のto waitでは「待つために待っていた」という意味になり、文全体で考えるとおかしい。"
+  },
+  {
+    "questionId": "738",
+    "question": "Be sure to repeat the order ——- by the customer, as mistakes are frequent at the drive through window.",
+    "option": [
+      "(A) given",
+      "(B) giving",
+      "(C) gives",
+      "(D) to give"
+    ],
+    "translation": "【問題文訳】「ドライブスルーの窓口でよく間違いが起きていますから、お客様から受けた注文を必ず繰り返してください」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のthe orderとgiveの意味の関係を考える。orderは「与えられる側」である。また、空所のあとにby the customerがあるので、受動態を表す過去分詞が適している。(A)のgivenが正解。"
+  },
+  {
+    "questionId": "740",
+    "question": "Sign the application at each place ——- with an X and write today’s date at the bottom of Page 2.",
+    "option": [
+      "(A) marking",
+      "(B) to mark",
+      "(C) marked",
+      "(D) marks"
+    ],
+    "translation": "【問題文訳】「申込書のX印が付いた箇所にそれぞれ署名をし、2ページ目の下部に今日の日付を書いてください」",
+    "answer": "C",
+    "explanation": "【解説】命令文が、andをはさんで2つ並んでいる形である。なので、前半だけで考えても構わない。空所の前のeach placeとあとのan Xとの関係を考える。申込書の中で、each placeは「Xという印が付けられている側」になる。したがって、過去分詞である(C)のmarkedが適切である。"
+  },
+  {
+    "questionId": "742",
+    "question": "Customers started to notice prices ——- up slowly month by month as various supplies grew scarce.",
+    "option": [
+      "(A) to creep",
+      "(B) crept",
+      "(C) being crept",
+      "(D) creeping"
+    ],
+    "translation": "【問題文訳】「多くの商品の供給が少なくなり値段が毎月少しずつ上がって来ていることに、客は気付き始めた」",
+    "answer": "C",
+    "explanation": "【解説】空所の前のpricesとcreep up（這い上がる）の関係を考える。それから、noticeという動詞の用法もポイント。noticeは知覚動詞で＜notice＋目的語＋動詞の原形または現在分詞＞の形になる。これに該当するのは(C)のbeing creptと(D)のcreepingである。そして、値段は「自分で上がる側」に当たるので、creepingのほうが適切である。"
+  },
+  {
+    "questionId": "744",
+    "question": "—– I can get the flights I want, I will be staying for at least ten days in order to visit all the major customers in the area.",
+    "option": [
+      "(A) To provide",
+      "(B) To be providing",
+      "(C) Provided",
+      "(D) Being provided"
+    ],
+    "translation": "【問題文訳】「希望通りの航空便が取れれば、その地区の全ての大口顧客を訪問するために少なくとも10日は滞在する予定です」",
+    "answer": "C",
+    "explanation": "【解説】2つの節の内容から「…したら、…することを条件として」と順接を表す接続詞が考えられる。(C)のProvidedが「もし～ならば」という意味で、ifと同じように接続詞として使われる。"
+  },
+  {
+    "questionId": "746",
+    "question": "Many people, especially children, misunderstand the amount of work ——- in caring for a pet.",
+    "option": [
+      "(A) to involve",
+      "(B) involving",
+      "(C) involved",
+      "(D) involves"
+    ],
+    "translation": "【問題文訳】「多くの人たち、特に子供は、ペットを飼う大変さを甘く考えている」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとにinがあることがポイント。そして、workとinvolveの関係を考える。involveは他動詞なので、通常は、あとに目的語が直接続く。ここではinが続いているので、元来はinvolveに続くのはworkである。つまり、workが「される側」になっている。なので、受け身の意味を表す過去分詞にするのが適切で、(C)のinvolvedが正解。"
+  },
+  {
+    "questionId": "748",
+    "question": "The new office’s ——- cost leaves a surplus of just under five percent in the annual budget.",
+    "option": [
+      "(A) estimating",
+      "(B) estimated",
+      "(C) estimates",
+      "(D) to estimate"
+    ],
+    "translation": "【問題文訳】「その新しい事務所の経費見積もりによると、年度予算内に5％を下回るだけの余剰金が残る」",
+    "answer": "B",
+    "explanation": "【解説】空所に当てはまるのは、costを修飾して意味を成す語または語句でなければならない。costは「見積もられる側」に当たるものであるから、過去分詞のestimatedが適切である。したがって(B)が正解。"
+  },
+  {
+    "questionId": "750",
+    "question": "——– in January, this branch intends to try an abbreviated 10 a.m. to 4 p.m. schedule as a cost-cutting measure.",
+    "option": [
+      "(A) To originate",
+      "(B) Having started",
+      "(C) Beginning",
+      "(D) Commenced"
+    ],
+    "translation": "【問題文訳】「1月より、当支社では経費削減策として、午前10時から午後4時までの短縮業務を試行します」",
+    "answer": "C",
+    "explanation": "【解説】Beginning in January（分詞構文）が、「1月を始めとして」という意味になり、正しい。よって(C)が正解。日本語では「…から始まる」だからといって、beginning from…としないこと。(A)のoriginateもinを続けることができるが、「…を由来とする」という意味なので、おかしい。(B)と(D)は過去分詞になっているので、文法的に不適切である。"
+  },
+  {
+    "questionId": "752",
+    "question": "The water ——- the street turned out to be from a broken underground pipe that had been installed nearly 60 years earlier.",
+    "option": [
+      "(A) fills",
+      "(B) filling",
+      "(C) filled",
+      "(D) to fill"
+    ],
+    "translation": "【問題文訳】「道路に溢れている水は、60年近く前に設置された地下の水道管の破裂によるものだと判明した」",
+    "answer": "B",
+    "explanation": "【解説】空所の前のThe waterとあとのthe streetの関係と、fillという動詞の意味と用法を考えて判断する。「水は道路に溢れる側」である。なので、「現在分詞の後置修飾」で(B)のfillingを使い、The water filling the streetとするのがよい。「道路を満たした水」という意味になる。よって、(B)が正解。"
+  },
+  {
+    "questionId": "755",
+    "question": "Due to the ——– tide, ships had insufficient clearance to pass under the bridge.",
+    "option": [
+      "(A) rise",
+      "(B) rising",
+      "(C) risen",
+      "(D) rose"
+    ],
+    "translation": "【問題文訳】「高潮のため、船が橋の下を通過する十分な余地がなかった」",
+    "answer": "B",
+    "explanation": "【解説】空所の前に定冠詞のthe、あとに「潮（の干満）」という意味の名詞がきているので、空所には、この名詞を修飾する形容詞に相当する語句が当てはまる。(A)のriseは現在形なので、名詞を修飾することはできない。(B)のrisingか(C)のrisenで迷うところだが、文意から考えて、「上昇している」という意味になる(B)が正解。(C)では「上昇された」という意味になり、意味が通じない。潮は自ら上昇するものである。"
+  },
+  {
+    "questionId": "757",
+    "question": "The secretary was flattered and surprised by the gift from her boss, ——- on the first anniversary of her employment.",
+    "option": [
+      "(A) to deliver",
+      "(B) delivering",
+      "(C) been delivered",
+      "(D) delivered"
+    ],
+    "translation": "【問題文訳】「秘書は上司から贈り物をもらって、うれしいと同時に驚いた。それは彼女の雇用後1周年の記念日に配られた」",
+    "answer": "D",
+    "explanation": "【解説】空所に入るdeliverの派生形が、文の中の何を指しているのかを考える。「1周年記念の日に」という意味の語句が続いているので、「上司からの贈り物」と考えるのが適切であろう。そうすると、贈り物は「贈られる側」になるので、受動態を表す過去分詞である(D)のdeliveredが適切である。"
+  },
+  {
+    "questionId": "759",
+    "question": "The financial report must be presented in five minutes at the start of the meeting, ——- a clear written statement projected on the screen a necessity.",
+    "option": [
+      "(A) having made",
+      "(B) make",
+      "(C) to make",
+      "(D) making"
+    ],
+    "translation": "【問題文訳】「会計報告書は会議開始の5分後に提示し、はっきりと書かれた文書としてスクリーンに投影させることが不可欠である」",
+    "answer": "D",
+    "explanation": "【解説】文頭からmeeting（空所の前）までが完全な文の形になっていることを見て取ろう。つまり、空所以降は分詞構文になって、主節を修飾していると考えられる。分詞構文になるのは(A)のhaving madeと(D)のmakingである。having madeは時制が1つ前のことを表すので、同時進行中の会議を述べているこの文では使えない。よって(D)が正解である。"
+  },
+  {
+    "questionId": "761",
+    "question": "Bob and Carol had enough money ——- between the two of them that they could cover the down payment on a new house.",
+    "option": [
+      "(A) saved",
+      "(B) saving",
+      "(C) having been saved",
+      "(D) to save"
+    ],
+    "translation": "【問題文訳】「ボブとキャロルは2人で貯金し、新しい家の頭金として使える十分な金を持っていた」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のmoneyとsaveの関係を考える。お金は「貯金される側」になるので、受動態の意味を表す過去分詞を使う。よって(A)のsavedが適切である。(C)のhaving been savedも受動態の意味であるが、haveが使役動詞で、目的語がenough moneyなので、意味がおかしい。"
+  },
+  {
+    "questionId": "763",
+    "question": "City health inspectors arrive in 10 minutes when a restaurant receives a phone call ——- an inspection.",
+    "option": [
+      "(A) to announce",
+      "(B) will announce",
+      "(C) announce",
+      "(D) announcing"
+    ],
+    "translation": "【問題文訳】「市の保健検査官は、レストランが査察を知らせる電話を受けてから10分後に到着する」",
+    "answer": "D",
+    "explanation": "【解説】空所の前にa phone callという名詞句があり、さらに、空所のあとにan inspectionという名詞句が続いているので、語句を伴って前の名詞を修飾する「分詞の後置修飾」だと考えられる。そして、a phone callは「アナウンスする側」になるので、能動的な意味を表す現在分詞のannouncingが適切である。よって(D)が正解。"
+  },
+  {
+    "questionId": "765",
+    "question": "The accounting department supervisor wants all quarterly reports ——- in by the 14th at the latest.",
+    "option": [
+      "(A) turn",
+      "(B) turned",
+      "(C) to turn",
+      "(D) turning"
+    ],
+    "translation": "【問題文訳】「経理部の部長はすべての四半期報告書を遅くとも14日までに提出するようにと言っている」",
+    "answer": "B",
+    "explanation": "【解説】空所の前に注目。wantという動詞があり、あとにall quarterly reportsという目的語がある。wantは使役動詞の一種で、＜want＋目的語＋to不定詞あるいは動詞の過去分詞＞の形になる。ここでは、目的語のall quarterly reportsは「提出される側」になるので、受動態の意味を持つ過去分詞が適切である。したがって(B)のturnedが正解。"
+  },
+  {
+    "questionId": "767",
+    "question": "Customers ——- in opening checking accounts should see either Mr. Winter or Ms. Potter.",
+    "option": [
+      "(A) interesting",
+      "(B) interest",
+      "(C) interested",
+      "(D) being interested"
+    ],
+    "translation": "【問題文訳】「当座預金口座の開設をご希望のお客様は、ウィンターかポッターのどちらかがお目にかかります」",
+    "answer": "C",
+    "explanation": "【解説】interestという動詞は「興味を抱かせる」という動詞なので、「興味を持つ」という意味にする場合は過去分詞になる。空所の前のCustomersは「興味を持つ側」なので、過去分詞が適切である。よって(C)のinterestedが正解。(D)も受動態の意味だが、進行形は「…しつつある」ということで、この文に当てはめると「開設に希望を持とうとしている」ということになり、やや時制が合わない。"
+  },
+  {
+    "questionId": "769",
+    "question": "All branches of the bank have signs on doors ——— the facility will open at nine o’clock.",
+    "option": [
+      "(A) to state",
+      "(B) state",
+      "(C) having stated",
+      "(D) stating"
+    ],
+    "translation": "【問題文訳】「その銀行の全支店のドアに9時に開店いたしますという掲示が貼ってある」",
+    "answer": "D",
+    "explanation": "【解説】空所に入る動詞の動作主を間違えないこと。空所の直前のdoorsではない。signs（掲示）である。掲示は、空所に続く内容を「伝えるもの」なので、能動態の意味を表す現在分詞のstatingが適切である。したがって(D)が正解。"
+  },
+  {
+    "questionId": "771",
+    "question": "City residents should be sure not to be late for the tax ——- deadline at midnight on March 15th.",
+    "option": [
+      "(A) filing",
+      "(B) file",
+      "(C) being filed",
+      "(D) to file"
+    ],
+    "translation": "【問題文訳】「市民は3月15日の深夜の確定申告の締め切りに遅れないようにすべきだ」",
+    "answer": "A",
+    "explanation": "【解説】やや紛らわしい問題である。空所のあとの意味をよく考えよう。空所に入る語は、空所に続く語句を伴って前の語のtaxを修飾する「後置修飾」ではない。この空所の語はtaxとdeadlineを結びつける役割をしている。「tax filingをするため期限」ということである。こうした慣用表現などにも慣れておこう。"
+  },
+  {
+    "questionId": "773",
+    "question": "The weather bulletin was rebroadcast frequently ——- residents of the danger of landslide.",
+    "option": [
+      "(A) warn",
+      "(B) being warned",
+      "(C) to warn",
+      "(D) been warned"
+    ],
+    "translation": "【問題文訳】「気象情報では地すべりの危険のある地区の住人に再三の注意を呼びかけた」",
+    "answer": "C",
+    "explanation": "【解説】空所の前の意味とあとの意味の関連をよく考えよう。ここでは「住民たちに注意を促すために」と考えるのがよい。つまり、副詞的用法の不定詞である。よって(C)のto warnが適することになる。weather bulletinは「注意を促す側」なので、受動態の(B)や(D)は適さない。(A)のwarnでは文法的に間違いである。"
+  },
+  {
+    "questionId": "775",
+    "question": "The firm is ——- using that model of security camera, because we have replaced it with one with superior capabilities.",
+    "option": [
+      "(A) no longer",
+      "(B) much longer",
+      "(C) any longer",
+      "(D) too long"
+    ],
+    "translation": "【問題文訳】「その会社は、より優れた性能の型に入れ替えたので、その型の防犯カメラはもう使用していない」",
+    "answer": "A",
+    "explanation": "【解説】because 以降の内容から考えると、否定文にならなければならない。主節（文頭からcameraまで）に否定を表す語がないので、空所に入れる必要がある。したがって(A)のno longerが適切である。(C)のany longerを使う場合は、notが別に必要だし、… is not using that model any longerのように、文尾に来るのがふつう。"
+  },
+  {
+    "questionId": "777",
+    "question": "Mrs. Sarah Taylor did not go out of the state all her life, and her daughter had not ——- until after she reached 60.",
+    "option": [
+      "(A) too",
+      "(B) either",
+      "(C) neither",
+      "(D) also"
+    ],
+    "translation": "【問題文訳】「サラ・タイラー夫人は生涯その州を出たことがなく、彼女の娘も60歳を越えるまで同じように出たことがなかった」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にnotがあることがポイント。「…も」という意味を表す場合、肯定文ではtooやalsoを使うが、not … eitherのようになる。したがって(B)が正解。(C)のneitherはnotの意味を含む表現なので、notといっしょには使えない。"
+  },
+  {
+    "questionId": "779",
+    "question": "If we do not raise our prices, ——- will our primary competitor, Fraser Foods.",
+    "option": [
+      "(A) so",
+      "(B) also",
+      "(C) either",
+      "(D) neither"
+    ],
+    "translation": "【問題文訳】「当社が値上げしなければ、最大の競争相手であるフレイザーフード社もしないだろう」",
+    "answer": "D",
+    "explanation": "【解説】文尾のFraser Foodsはcompetitorを言い換えたもので、主語などではない。「…もまた～ない」という意味の文になっている。「…も～でない」と否定を繰り返す場合は、alsoやtooを使わずにnot …eitherもしくはneitherを使う。neitherの場合は語順が＜neither＋助動詞＋主語＞の順に倒置されることに注意。この文では、主節の主語がour primary competitorなので、neitherを使う語順になっている。よって(D)が正解。"
+  },
+  {
+    "questionId": "781",
+    "question": "There is ——- reason why we should not be able to compete in the Korean market with the same hot sauce we sell in the United States.",
+    "option": [
+      "(A) not",
+      "(B) any",
+      "(C) neither",
+      "(D) no"
+    ],
+    "translation": "【問題文訳】「アメリカ合衆国で我々が売っているのと同じ激辛ソースが、韓国市場において競争に勝てないという理由はない」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとに名詞のreasonがあることに注意。名詞にかかる否定の意味の語なので、(A)のnotと(C)のneitherは使えない。空所の前に否定の語がなく、また疑問文でもないので(B)のanyも不適切。(D)のnoのみが当てはまる。"
+  },
+  {
+    "questionId": "783",
+    "question": "The city is planning to demolish the old central library, because architectural analysis shows it is not a safe structure ——- longer.",
+    "option": [
+      "(A) any",
+      "(B) no",
+      "(C) much",
+      "(D) too"
+    ],
+    "translation": "【問題文訳】「構造上の分析をしたところ、古い中央図書館はすでに安全な建築物ではないと判明したので、市は壊す計画である」",
+    "answer": "A",
+    "explanation": "【解説】空所の4語前にnotがあることがポイント。空所のあとにlongerがあるので、not … any longerの表現になる。「もはや…ではない」という意味。(B)のnoでは、二重否定になってしまい、意味がおかしい。(C)のmuchや(D)のtooでは意味が通らない。"
+  },
+  {
+    "questionId": "785",
+    "question": "The credit card will be charged if the following reservation is ——- canceled at least 24 hours in advance.",
+    "option": [
+      "(A) never",
+      "(B) no",
+      "(C) not",
+      "(D) neither"
+    ],
+    "translation": "【問題文訳】「以下の予約が少なくとも24時間前までにキャンセルされなかった場合、クレジットカードに請求されることになります」",
+    "answer": "C",
+    "explanation": "【解説】前半の「請求される」という内容と予約の関係を考える。「キャンセルされない場合は請求される」という意味になる。単純に否定を表す(C)のnotが適切である。(A)のneverは「…しない」ということが周知の事実でそれが続いている意味合いなので、この文のように時間を限って「キャンセルする」というような内容には使えない。(B)のnoは名詞の前に付く。(D)のneitherをこの空所に当てはまる場合は、あとにnor …のような表現を必要とする。"
+  },
+  {
+    "questionId": "787",
+    "question": "Our new store will ——- stock many children’s books or self-help materials.",
+    "option": [
+      "(A) no",
+      "(B) none",
+      "(C) not",
+      "(D) nor"
+    ],
+    "translation": "【問題文訳】「当店の新支店には子供向けや自己啓発の本はあまり在庫がありません」",
+    "answer": "C",
+    "explanation": "【解説】空所の前に助動詞があり、あとに動詞が続いている。この文のstockは「在庫として抱える、品揃えとする」という意味の動詞である。助動詞と動詞のあいだに来るので、(C)のnotが適切である。(A)のnoは名詞の前に付く。(B)のnoneは名詞である。したがってこの空所には合わない。(D)のnorはneitherやnotなどの否定ごとセットで使われ、この空所のように単独では使えない。"
+  },
+  {
+    "questionId": "789",
+    "question": "The singers were ——- the worse after singing five songs during the beginning of the show before the dance interlude took place.",
+    "option": [
+      "(A) no",
+      "(B) none",
+      "(C) not",
+      "(D) never"
+    ],
+    "translation": "【問題文訳】「その歌手たちはショーの序盤、つまり幕間のダンスの前に5曲歌ったが、何も変わらぬ様子だった」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとがthe worseとなっていることがポイント。(B)のnoneと結びついてnone the worseとなり「相変わらず同じ状態で」という意味を表す。(A)のnoと(C)のnotは、この文型では使えない。(D)のneverを使ったnever the worseという表現はあるが、「容易には悪くなるようなことはない」という意味で、この文での状況や意味合いは適切ではない。"
+  },
+  {
+    "questionId": "791",
+    "question": "Customers are reminded ——- to leave an infant unattended in a parked vehicle.",
+    "option": [
+      "(A) never",
+      "(B) neither",
+      "(C) no",
+      "(D) none"
+    ],
+    "translation": "【問題文訳】「お客様は、駐車中のお車に小さいお子様を付き添いのない状態で残しておかれませんようにお願いします」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとのleaveの品詞を考えよう。あとに続くan infant …が目的語になっているので、leaveは動詞である。したがって、空所には副詞が当てはまると判断できる。副詞は(A)のneverと(B)のneitherだが、neitherはこのように不定詞を否定することはない。never to …「決して…しないように」という強い要請を表す。not to …よりも強い。"
+  },
+  {
+    "questionId": "793",
+    "question": "The patient claims that neither of the treatments has reduced his back pain at ——-.",
+    "option": [
+      "(A) any",
+      "(B) every",
+      "(C) some",
+      "(D) all"
+    ],
+    "translation": "【問題文訳】「その患者は、その治療法のどれも彼の背中の痛みを和らげるのにまったく役に立たなかったと訴えている」",
+    "answer": "D",
+    "explanation": "【解説】文全体の意味から考える。notが使われていないので分かりにくいが、neitherが使われており、全体的には否定の意味を表している。否定文でatを使った表現と言えば、not … at all（まったく…でない）である。neitherを使ったこの文でも同じ。したがって(D)のallが正解。"
+  },
+  {
+    "questionId": "795",
+    "question": "——- of the students could answer the math question their teacher wrote on the board.",
+    "option": [
+      "(A) Not",
+      "(B) No",
+      "(C) Never",
+      "(D) None"
+    ],
+    "translation": "【問題文訳】「どの生徒も教師が黒板に書いた数学の問題を解くことができなかった」",
+    "answer": "D",
+    "explanation": "【解説】studentsまでがこの文の主部となる。しかも、of the studentsは空所を修飾する形になっているので、空所にはstudentsに相当する代名詞が入ると考えられる。代名詞的用法がとれるのは(D)のNoneだけ。(B)は、No students …となれば文法的に正しいが、この問題文では、空所とstudentsの間にof theがあるので、Noは当てはまらない。"
+  },
+  {
+    "questionId": "797",
+    "question": "I claim that a huge amount of time has been wasted by having meetings that don’t accomplish ——-.",
+    "option": [
+      "(A) something",
+      "(B) anything",
+      "(C) everything",
+      "(D) nothing"
+    ],
+    "translation": "【問題文訳】「何の成果もない会議ばかりで、多くの時間が無駄にされてきていると私は思います」",
+    "answer": "B",
+    "explanation": "【解説】文全体はふつうの叙述文だが、meetingsのあとの関係代名詞thatに導かれる節の中はnot … anyを使った否定を表す意味になっている。したがって、(B)のanythingしか当てはまらない。"
+  },
+  {
+    "questionId": "799",
+    "question": "All contest entry forms must be submitted ——- later than August 31 or be disqualified.",
+    "option": [
+      "(A) never",
+      "(B) till",
+      "(C) no",
+      "(D) none"
+    ],
+    "translation": "【問題文訳】「コンクールの出場申込書は8月31日までに提出しなければならず、その後は失格となる」",
+    "answer": "C",
+    "explanation": "【解説】no later than …で「…までに」という意味になる。何かの提出期限を表す際によく使われる表現なので覚えておこう。(A)のneverを使って同じ意味にするには、never submitted later than …としなければならない。また、(B)のtillのあとは名詞句か節になっていなければならない。(D)のnoneは名詞なのでlaterを修飾することはできない。"
+  },
+  {
+    "questionId": "801",
+    "question": "The billing office has been trying to get hold of Ms. Susan Van Buren for over a week, but the person in question is —— at home.",
+    "option": [
+      "(A) no",
+      "(B) never",
+      "(C) none",
+      "(D) any longer"
+    ],
+    "translation": "【問題文訳】「会計課では1週間以上もスーザン・バン・ビューレンさんと連絡を取ろうとしているのですが、ご本人が家にいないのです」",
+    "answer": "B",
+    "explanation": "【解説】空所の前がbe動詞で、あとにat homeという副詞句が続いている。したがって、副詞の(B) neverが適切である。(A)のnoは名詞を修飾するので、空所のあとには名詞が続かなければならない。(C)のnoneは名詞である。at homeと意味的にも文法的にも合わない。(D)のany longerはnot … any longerで否定を表す。この文には否定語がないので、このままでは使えない。"
+  },
+  {
+    "questionId": "803",
+    "question": "The condominium board has ——- objection to you getting the building permit necessary to put up a fence.",
+    "option": [
+      "(A) not",
+      "(B) none",
+      "(C) no",
+      "(D) never"
+    ],
+    "translation": "【問題文訳】「マンションの理事会としては、フェンスを設けるに当たって必要な建築許可を貴社に与えることに異存はありません」",
+    "answer": "C",
+    "explanation": "【解説】空所の前に動詞のhasがあり、あとに名詞のobjectionが続いているので、空所には形容詞が適切だと考えられる。形容詞の用法になるのは(C)のnoだけである。noのあとには名詞が続く。"
+  },
+  {
+    "questionId": "805",
+    "question": "Miss Sheffield finished ——- the report that she was assigned by her immediate supervisor.",
+    "option": [
+      "(A) write",
+      "(B) writing",
+      "(C) to write",
+      "(D) being written"
+    ],
+    "translation": "【問題文訳】「シェフィールドさんは直属の上司から言い付けられた報告書を書き終えた」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にfinishedという動詞があることがポイント。この動詞は動名詞のみを目的語に取る。よって、可能性があるのは(B)のwritingと(D)のbeing writtenである。Miss Sheffieldは自分で報告書を書くのであるから、受動態のbeing writtenは意味が合わない。したがって(B)が正解。"
+  },
+  {
+    "questionId": "807",
+    "question": "I would like you ——- with John Ford tomorrow afternoon and decide the schedule for renovating the Franklin Street store.",
+    "option": [
+      "(A) meeting",
+      "(B) met",
+      "(C) meets",
+      "(D) to meet"
+    ],
+    "translation": "【問題文訳】「あなたに、明日の午後ジョン・フォードさんにお会いしてフランクリン通り店の改築日程を決めてきてほしいのです」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のwould likeがポイント。would like to …にyouが挿入された形である。したがって、空所にはto不定詞が当てはまることになる。よって(D)が正解。likeの目的語としてはto不定詞も動名詞も可能だが、would likeのあとには動名詞は続かないので、(A)のmeetingは使えない。空所の前のyouは目的語なので、(B)のmetは不適切である。youを主語だと勘違いしないこと。"
+  },
+  {
+    "questionId": "809",
+    "question": "At 7:30 in the evening, the resident reported something banging in the wall which turned out ——- a broken awning.",
+    "option": [
+      "(A) was",
+      "(B) to be",
+      "(C) is",
+      "(D) to"
+    ],
+    "translation": "【問題文訳】「夜7時半に、その住人は何かが壁を叩いていると通報したが、実は、それは壊れた日よけだった」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にturned outがあることに気づくこと。動詞が重なることになるので、(A)のwasと(C)のisは文法的に不適切である。(D)のtoだけでも意味を成さない。turn outはto beか補語を伴って「（結局）…である、…であると判明する」という意味になるので、(B)のto beが適切だということになる。"
+  },
+  {
+    "questionId": "811",
+    "question": "The airport is not used to ——- large aircraft, even though the runway is long enough for them to land.",
+    "option": [
+      "(A) handle",
+      "(B) handling",
+      "(C) handled",
+      "(D) be handled"
+    ],
+    "translation": "【問題文訳】「滑走路は着陸に十分な長さであるのに、その空港は大型旅客機の対応に慣れていない」",
+    "answer": "B",
+    "explanation": "【解説】空所の前のtoに惑わされないこと。このtoは不定詞の一部ではない。なので、動詞の原形である(A)のhandleや(D)のbe handledは間違い。be used to …は「…することに慣れている」という意味のイディオムで、このtoは前置詞。あとには名詞や動名詞が続く。よって(B)のhandlingが正解。toのあとには過去形や過去分詞のhandledは続かない。"
+  },
+  {
+    "questionId": "813",
+    "question": "We chose ——- pizza and salad to be served buffet-style on the terrace following the last meeting.",
+    "option": [
+      "(A) ordering",
+      "(B) to order",
+      "(C) to be ordered",
+      "(D) order"
+    ],
+    "translation": "【問題文訳】「最後の会議の後にテラスで行われるバイキングに出すために、私たちはピザとサラダを注文することにした」",
+    "answer": "B",
+    "explanation": "【解説】空所の前のchoseがポイント。これはchoose（選ぶ、選択する）の過去形で、目的語としては、あとにto不定詞が続く。したがって、可能性があるのは(B)のto orderと(C)のto be orderedである。Weは「選ぶ側」になるので、受動態であるto be orderedは間違い。(B)のto orderが正解。"
+  },
+  {
+    "questionId": "815",
+    "question": "The president decided ——- at the press conference because an urgent personal matter needed his attention.",
+    "option": [
+      "(A) not to speak",
+      "(B) to no speaking",
+      "(C) to not speak",
+      "(D) not speak"
+    ],
+    "translation": "【問題文訳】「緊急の個人的な問題に対処するため、社長は記者会見で話さないことに決めた」",
+    "answer": "A",
+    "explanation": "【解説】空所の前にdecidedがある。そして、選択肢には否定のnotや不定詞が並んでいる。不定詞を否定する表現を選択する問題である。不定詞を打ち消す場合、toの前にnotを付け、decided not to speakという語順になる。したがって(A)が正解。"
+  },
+  {
+    "questionId": "817",
+    "question": "The branch manager usually reads through the reports fairly quickly, but last week’s economic summary took him almost three days ——-.",
+    "option": [
+      "(A) to finish",
+      "(B) finishing",
+      "(C) finished",
+      "(D) finish"
+    ],
+    "translation": "【問題文訳】「支店長はいつもは報告書をかなり速く読むが、先週の経済概要にはほぼ3日かかってしまった」",
+    "answer": "A",
+    "explanation": "【解説】後半のbut以降の構文を見極めよう。last week’s economic summaryが主語で、tookが動詞である。そして、tookのあとに目的語のhimが続いている。「…するのに～かかる」という意味を表す＜take …～ to不定詞＞の構文である。almost three daysがかかった時間を表している。空所にはto不定詞が当てはまる。よって、(A)のto finishが正解。"
+  },
+  {
+    "questionId": "819",
+    "question": "The spokeswoman for Douglas City Council claimed last night that the budget deficit cannot be decreased without ——- taxes.",
+    "option": [
+      "(A) the raising",
+      "(B) raises",
+      "(C) to raise",
+      "(D) raising"
+    ],
+    "translation": "【問題文訳】「ダグラス市議会の広報の女性は、税金を上げないで予算の赤字は減らせないと昨夜発表した」",
+    "answer": "D",
+    "explanation": "【解説】without という前置詞の後ろなので、動詞は動名詞（ing形）になる。よって、(D)のraisingが正解。(A)のthe raisingのように、前に冠詞などを付けずに、前置詞のあとに直接動名詞を続ける。"
+  },
+  {
+    "questionId": "821",
+    "question": "Without an inspection of the equipment, ——- what’s wrong with the phone may be impossible.",
+    "option": [
+      "(A) being determined",
+      "(B) to have determined",
+      "(C) determined",
+      "(D) determining"
+    ],
+    "translation": "【問題文訳】「機械の検査をしないで電話のどこが悪いのかを特定するのは不可能かもしれない」",
+    "answer": "D",
+    "explanation": "【解説】文頭からequipmentまでは、修飾語句である。空所以降が文になっている。空所の語を含み、phoneまでが主語で、may be impossibleが述部。目的語はない。動詞を使って主語になる名詞句を作れるのは、動名詞と名詞的用法の不定詞である。こうしたことから、過去分詞である(C)のdeterminedは間違いである。(A)のbeing determinedは動名詞句だが、「特定されること」という意味になってしまい、全体の意味と合わない。(B)のto have determinedは「特定してしまったこと」という意味になり、impossibleと矛盾する。(D)のdeterminingが「特定すること」という意味で正解。"
+  },
+  {
+    "questionId": "823",
+    "question": "Whenever the paper mill stopped —— fumes into the atmosphere, visibility at the nearby airport improved slightly.",
+    "option": [
+      "(A) to release",
+      "(B) releasing",
+      "(C) release",
+      "(D) being released"
+    ],
+    "translation": "【問題文訳】「製紙工場が煙突から煙を出すのを止めるといつも、近くの空港の視界が少しだけよくなった」",
+    "answer": "B",
+    "explanation": "【解説】選択肢に並んでいるreleaseは空所のあとのfumesとで「（工場・火山などから）煙を出すこと」という意味になる。この部分が空所の前のstopの目的語に相当する。したがって動名詞である(B)のreleasingが適切である。stopは、目的語としては動名詞だけを取る。stop to …のように不定詞を使うと、「…するために立ち止まる、…するためにひと休みする」という意味を表す。動名詞でも、(D)のbeing releasedは受動態を表すので、主語のthe paper millと合わない。"
+  },
+  {
+    "questionId": "825",
+    "question": "Exercising regularly may be difficult, but people should keep trying ——- their weight.",
+    "option": [
+      "(A) to control",
+      "(B) controlling",
+      "(C) being controlled",
+      "(D) control"
+    ],
+    "translation": "【問題文訳】「定期的な運動は難しいかもしれないが、人は体重を維持しようと努力し続けるべきだ」",
+    "answer": "A",
+    "explanation": "【解説】空所の前にtryingがある。tryは「…しようとする」という意味のときはあとにto不定詞を続け、「…してみる」という意味のときは、あとに動名詞を続ける。この文では「体重を維持しようと努力する」という意味になるのが適切なので、不定詞である(A)のto controlを続けるのが適切である。"
+  },
+  {
+    "questionId": "827",
+    "question": "The first thing ——- when a fuse blows out is to switch off whichever machine that uses the most power.",
+    "option": [
+      "(A) do",
+      "(B) to do",
+      "(C) done",
+      "(D) doing"
+    ],
+    "translation": "【問題文訳】「ヒューズが飛んだときに最初にすべきことは、最も電力消費の高い機器のスイッチを切ることだ」",
+    "answer": "B",
+    "explanation": "【解説】文の構文を考えよう。文頭からblows outまでが主語で、isが動詞、to以降が「…すること」という意味の「主格補語」である。主語の中心となっているのはthe first thingで、空所の語または語句が後ろから修飾している形である。ここでは、名詞を修飾する形容詞的用法の不定詞である(B)のto doが当てはまる。(A)のdo以外のdoneやdoingも文法的には可能だが、意味が通じない。"
+  },
+  {
+    "questionId": "829",
+    "question": "Use the company credit card for buying tickets or —— hotel bills.",
+    "option": [
+      "(A) paying",
+      "(B) pay",
+      "(C) being paid",
+      "(D) been paid"
+    ],
+    "translation": "【問題文訳】「切符の購入やホテル代金の支払いには、会社のクレジットカードを使ってください」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のorがどういう役割をしているのかを見極めよう。for buyingと並列になっている。つまり、forのあとに続くわけなので、動名詞でなければならない。(A)のpayingか(C)のbeing paidということになる。credit cardで「払う」わけだから、payingのほうが正しい。"
+  },
+  {
+    "questionId": "831",
+    "question": "Employees are requested ——- the heater off when going out in line with company policies to conserve electricity.",
+    "option": [
+      "(A) to turn",
+      "(B) to have turned",
+      "(C) turning",
+      "(D) having turned"
+    ],
+    "translation": "【問題文訳】「電気の節約をしようという会社の方針にしたがって、社員は出るときは忘れずにヒーターを切るように言われている」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のrequestedがポイント。be requested to …で「…するように要請される」という意味になる。あとにはto不定詞が続く。すると、(A)のto turnか(B)のto have turnedのどちらかということになる。to have turnedでは過去のことを表すことになり、意味が合わない。(A)が正解。"
+  },
+  {
+    "questionId": "833",
+    "question": "—– the life of your family car, the oil should be changed at least every 4,000 miles.",
+    "option": [
+      "(A) Extending",
+      "(B) To extend",
+      "(C) Extended",
+      "(D) Extend"
+    ],
+    "translation": "【問題文訳】「自家用車の寿命を延ばすために、オイルは少なくとも4,000マイルごとに交換しましょう」",
+    "answer": "B",
+    "explanation": "【解説】コンマのあとのthe oilが主語で、このthe oilに続く部分が主節である。そして、文頭からcarまでは「車の寿命を伸ばすために」という目的を表していることを判断しよう。したがって、不定詞の「副詞的用法」で、(B)のTo extendが適切である。"
+  },
+  {
+    "questionId": "835",
+    "question": "If it continues ——- throughout the day, Cleveland streets are going to flood.",
+    "option": [
+      "(A) rain",
+      "(B) to rain",
+      "(C) rains",
+      "(D) rainy"
+    ],
+    "translation": "【問題文訳】「もし一日中雨がこのように降り続くと、クリーブランドの道路は水浸しになってしまうでしょう」",
+    "answer": "B",
+    "explanation": "【解説】空所の前のcontinueは、目的語としてto不定詞も動名詞も続けることができる。名詞そのものが続くことがあるが、空所のあとにthroughout the dayという副詞句があるので、名詞そのものは不適切である。よって(B)のto rainが正解。(D)のrainyは形容詞なので不適切。空所の前がcontinuesではなくremainsであれば適切な用法となる。"
+  },
+  {
+    "questionId": "837",
+    "question": "In the event bar patrons are found to have had a drink, they must be sent home in cabs rather than allowing them —— home in their own cars.",
+    "option": [
+      "(A) driving",
+      "(B) to have driven",
+      "(C) drive",
+      "(D) to drive"
+    ],
+    "translation": "【問題文訳】「バーの客が酒を飲んでいることが分かった場合、彼らは自分の車に乗って家に帰るのではなく、タクシーで帰らなければならない」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のallowingという動詞がポイント。themは目的語。＜allow＋目的語＋不定詞＞で、「…に～させる」という意味を表す。したがって(D)のto driveが適切である。(B)のto have drivenは1つ前の時制を表すので、これから家に帰るという状況では不適切である。"
+  },
+  {
+    "questionId": "839",
+    "question": "When a customer wants to purchase alcohol or tobacco products, please ask the person ——- identification with a date of birth.",
+    "option": [
+      "(A) showing",
+      "(B) to show",
+      "(C) shows",
+      "(D) shown"
+    ],
+    "translation": "【問題文訳】「お客さまがアルコールやタバコを買われようとしたら、生年月日の記載のある身分証の提示を求めてください」",
+    "answer": "B",
+    "explanation": "【解説】空所の前のthe personの前にaskがあることがポイント。＜ask＋目的語＋to不定詞＞で「…に～するように頼む」という意味を表す。したがって不定詞の(B) to showが当てはまる。このaskを見落とすと(C)のshowsも正解に思えてしまうので注意。"
+  },
+  {
+    "questionId": "841",
+    "question": "It was Professor Wilson’s customary practice to make his class ——- a term paper.",
+    "option": [
+      "(A) to write",
+      "(B) write",
+      "(C) writing",
+      "(D) written"
+    ],
+    "translation": "【問題文訳】「学生にレポートを書かせることはウィルソン教授のいつものやり方だった」",
+    "answer": "B",
+    "explanation": "【解説】It is … to ～（～するのは…だ）という構文になっている。そして、makeのあとにhis classという目的語がきており、そのあとにwriteの変化形が続く。makeの動詞の用法を考えよう。これは「使役動詞」で＜make＋目的語＋動詞の原形＞になる。したがって(B)のwriteが正しい。"
+  },
+  {
+    "questionId": "843",
+    "question": "The leader of the union will not get them ——- overtime, insisting that members only work a 40-hour week.",
+    "option": [
+      "(A) to work",
+      "(B) work",
+      "(C) working",
+      "(D) worked"
+    ],
+    "translation": "【問題文訳】「組合のリーダーは組合員には週40時間労働を強調しているため、彼らに残業をさせようとはしないだろう」",
+    "answer": "A",
+    "explanation": "【解説】空所の前に＜get＋目的語（them）＞があることに注目。getの場合、意味によって、目的語のあとにはいろいろな動詞の形が続く。なので、文の意味をしっかり理解しよう。ここでは「…に～させようとする」という「要請」の意味である。したがって、不定詞である(A)のto workが適切である。getの目的語のあとに動詞の原形は続かないので、(B)のworkは使えない。(C)のworkingのように現在分詞の場合、「ある状態にする」という意味なので、この文には合わない。(D)のworkedのように過去分詞の場合、「…してもらう」という意味になる。そして目的語が「される立場」になるので、ここではthem（つまり労組の組合員）と意味が合わない。"
+  },
+  {
+    "questionId": "845",
+    "question": "Last week, Mr. David Wagner said that he had seen the final version of his new film and expected it ——- his most successful ever.",
+    "option": [
+      "(A) be",
+      "(B) being",
+      "(C) to be",
+      "(D) having been"
+    ],
+    "translation": "【問題文訳】「先週、デビッド・ワグナー氏は自分の新しい映画の最終版を見て、今までで最も成功する作品になると期待していると言った」",
+    "answer": "C",
+    "explanation": "【解説】空所の前のexpectedという動詞がポイント。この動詞は＜expect＋目的語＋to不定詞＞の形をとる。したがって(C)のto beだけが適切な語句である。"
+  },
+  {
+    "questionId": "847",
+    "question": "Numerous customers have lined up ——- the top-selling computer game from the moment they first saw it on display in store windows.",
+    "option": [
+      "(A) buying",
+      "(B) to buy",
+      "(C) buy",
+      "(D) bought"
+    ],
+    "translation": "【問題文訳】「大勢の客が、店のショーウィンドウに展示されているのを一目見て、一番売れているそのコンピューターゲームを買うために列を作っている」",
+    "answer": "B",
+    "explanation": "【解説】状況を考えて、文の意味を理解しよう。そして、構文を考える。空所の前だけで意味が通じる完全な文の形になっている。つまり、空所以降は修飾語句で、目的語や述部などではない。よって、(C)のbuyと(D)のboughtは除外できる。あとは分詞構文か副詞的用法の不定詞かを意味から判断する。ここでは「…しながら」ではなく「…するために」と考えるのが適切である。よって不定詞の(B) to buyが正解。"
+  },
+  {
+    "questionId": "849",
+    "question": "When you have finished reading a library book, please remember ——- it to this circulation counter or a library drop box.",
+    "option": [
+      "(A) returns",
+      "(B) returning",
+      "(C) returned",
+      "(D) to return"
+    ],
+    "translation": "【問題文訳】「図書館の本を読み終えられましたら、この貸出窓口か図書館の返却箱に忘れずにお返しください」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のrememberがポイント。rememberは「…することを忘れないでいる、忘れずに…する」と言うときはremember to …と不定詞が続き、「…したことを覚えている」と言うときはremember …ingのように動名詞が続く。ここでは「忘れずに…する」という意味になるので、不定詞の(D) to returnが正解。"
+  },
+  {
+    "questionId": "851",
+    "question": "Clean out the machine thoroughly, before ——- it with lightly packed clothing and laundry detergent.",
+    "option": [
+      "(A) loading",
+      "(B) loaded",
+      "(C) to load",
+      "(D) loads"
+    ],
+    "translation": "【問題文訳】「洗濯機を完全に空にしてから、軽くまとめた衣類と洗剤を入れましょう」",
+    "answer": "A",
+    "explanation": "【解説】空所の前に前置詞のbeforeがあることがポイント。前置詞に続くのは名詞か名詞相当語句なので、この選択肢の中では動名詞のloadingだけが当てはまる。したがって(A)が正解。"
+  },
+  {
+    "questionId": "853",
+    "question": "We will make every effort ——- that your stay at our hotel is comfortable and enjoyable.",
+    "option": [
+      "(A) insured",
+      "(B) insuring",
+      "(C) to insure",
+      "(D) insure"
+    ],
+    "translation": "【問題文訳】「お客様の当ホテルでのご滞在が快適で楽しいものとなりますよう、私どもではあらゆる努力を惜しみません」",
+    "answer": "C",
+    "explanation": "【解説】make an effort to do …（…しようと努力する）という決まった言い方があり、このan effortは、この文のようにevery effortやeffortsのように変化する。用法は変わらないので、effortに続くのは不定詞である。よって(C)のto insureが正解。"
+  },
+  {
+    "questionId": "855",
+    "question": "The commercial message told the radio listeners ——- large discounts throughout the sale.",
+    "option": [
+      "(A) to expect",
+      "(B) expect",
+      "(C) expecting",
+      "(D) expected"
+    ],
+    "translation": "【問題文訳】「そのコマーシャルはラジオのリスナーたちに、セール中の大安売りが期待できると言っていた」",
+    "answer": "A",
+    "explanation": "【解説】動詞がtoldで目的語がthe radio listenersである。目的語がやや長いので、toldを見落とさないように注意しよう。＜tell＋目的語＋to不定詞＞の形になっている。「…するように言う」という意味である。したがって(A)のto expectが適切である。"
+  },
+  {
+    "questionId": "857",
+    "question": "Start the assembly procedure by ——- out the pieces described in each stage of the instructions.",
+    "option": [
+      "(A) lay",
+      "(B) to lay",
+      "(C) laying",
+      "(D) laid"
+    ],
+    "translation": "【問題文訳】「説明書のそれぞれの段階に記載されている部品を広げてから組み立て作業を始めてください」",
+    "answer": "C",
+    "explanation": "【解説】空所の前に前置詞のbyがあることがポイント。前置詞のあとには動名詞が続く。したがって(C)のlayingが正解である。"
+  },
+  {
+    "questionId": "859",
+    "question": "Look both ways before stepping onto the street to avoid ——- by oncoming traffic.",
+    "option": [
+      "(A) to hit",
+      "(B) to be hit",
+      "(C) hitting",
+      "(D) being hit"
+    ],
+    "translation": "【問題文訳】「道路を渡る前に左右を確認し、やってくる車にはねられないようにしましょう」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のavoidという動詞がポイント。よく出題される動詞である。finishやstopと同じように、avoidは目的語として動名詞のみを取る。したがって、(C)のhittingか(D)のbeing hitに正解の可能性がある。そして、空所のあとにby oncoming trafficという語句もあるので、受動態の意味を表す(D)のbeing hitが適切である。"
+  },
+  {
+    "questionId": "861",
+    "question": "Should you help a voter ——- the ballot, fill out the section which calls for identification of the polling worker giving assistance.",
+    "option": [
+      "(A) being completed",
+      "(B) completing",
+      "(C) be completed",
+      "(D) complete"
+    ],
+    "translation": "【問題文訳】「もしあなたが投票者の投票を助けるようであれば、投票介助職員の身分証明要請欄に記入してください」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のhelpという動詞がポイント。これは一種の「使役動詞」で、＜help＋目的語＋動詞の原形＞の形になる。よって可能性があるのは(C)のbe completedと(D)のcompleteである。意味を考えると、voterは「投票を完成させる側」になるので、(D)のcompleteのほうが適切である。"
+  },
+  {
+    "questionId": "863",
+    "question": "Over the summer vacation, dormitories at the university were used to ——- freshmen attending orientation sessions.",
+    "option": [
+      "(A) house",
+      "(B) housing",
+      "(C) be housed",
+      "(D) housed"
+    ],
+    "translation": "【問題文訳】「夏休みの間、大学の寮はオリエンテーションに出席する新入生を収容するために使われた」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のwere used toの意味と用法を間違えないように注意しよう。be used to …には「…することに慣れている」という意味があり、この場合はあとに動名詞が続く。しかし、この文では「…するために使われる」という意味になっている。つまり、空所の前のtoは不定詞を導くtoである。したがって空所には動詞の原形が入る。(A)のhouseが正解である。"
+  },
+  {
+    "questionId": "865",
+    "question": "It is a common notion among teenagers that high school is ——- waste of time and real life does not begin until one is working.",
+    "option": [
+      "(A) very",
+      "(B) its",
+      "(C) a",
+      "(D) the"
+    ],
+    "translation": "【問題文訳】「高校は時間の無駄で、実際の人生は働き出すまで始まらないと思うのは、10代に共通する考えだ」",
+    "answer": "C",
+    "explanation": "【解説】a waste of time は、「時間のむだ」という意味の決まり文句。したがって(C)のaが適する。(A)のveryが形容詞として名詞の前に付くときは、前に冠詞や代名詞を伴う。(B)のitsは、high schoolを指すことになるが、意味が通らない。(D)のtheは何かを限定することになり、冠詞の付いていないtimeとの整合性が取れないことになる。"
+  },
+  {
+    "questionId": "867",
+    "question": "Paul’s ——- person who won last year’s statewide speech contest with the topic, “why public service is important.”",
+    "option": [
+      "(A) such",
+      "(B) a",
+      "(C) the",
+      "(D) his"
+    ],
+    "translation": "【問題文訳】「ポールは、昨年の州の弁論大会で『なぜ公共サービスは重要か』という題目で優勝した人物です」",
+    "answer": "C",
+    "explanation": "【解説】文頭のPaul’sはPaul isのこと。つまり、空所の直後のpersonはPaulのことを指す。whoは関係代名詞で、以降の節でどのような人物かを限定しているので、定冠詞の(C) theが適切である。(A)のsuchは、数えられる名詞の単数形が続くときは、such aのようにaを必要とする。上記のtheを選んだ理由から、(B)のaは間違い。(D)のhisを付けたPaul’s his personでは意味が不明瞭。"
+  },
+  {
+    "questionId": "869",
+    "question": "The weather forecast says ——- might rain the entire weekend and possibly into the beginning of next week.",
+    "option": [
+      "(A) that",
+      "(B) it",
+      "(C) they",
+      "(D) so"
+    ],
+    "translation": "【問題文訳】「天気予報では、週末はずっと雨で、来週初めまで持ち越す可能性があると述べた」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとにmight rainとあることがポイント。天候を表すときは、主語にitを使う。(A)のthatを接続詞だと考えると、might rainの主語が不足することになる。(C)のtheyでは、このtheyがどの名詞（複数形）を指すのか不明である。(D)のsoの場合も、主語が不足することになる。"
+  },
+  {
+    "questionId": "871",
+    "question": "Passengers must surrender ——- baggage at this point for inspection by agents of the Customs Service.",
+    "option": [
+      "(A) all",
+      "(B) a",
+      "(C) his",
+      "(D) two"
+    ],
+    "translation": "【問題文訳】「乗客は税関の係員による検査のため、この場所ですべての手荷物を引き渡さなければならない」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとの名詞baggageは不加算名詞、つまり数えられない名詞なので、(B)のaや(D)のtwoは付けられない。文全体の主語はPassengersで複数を表すので、(C)のhisも適切ではない。baggageは不可算名詞なので、複数形になっていないが、まえに(A)のallを付けることができる。なお、数えるときは、a piece of baggage, two pieces of baggageのように言う。"
+  },
+  {
+    "questionId": "873",
+    "question": "Authorities wondered whether the volcanic eruption had ——- to do with the recent series of earthquakes.",
+    "option": [
+      "(A) many",
+      "(B) something",
+      "(C) one thing",
+      "(D) things"
+    ],
+    "translation": "【問題文訳】「関係者たちは、その火山の噴火が最近の一連の地震と何か関係があるかどうかをあれこれ考えてみた」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にhadがあり、空所のあとにto do with …が続いていることから、have something to do with …という熟語になっていると判断する。「…と関係がある」という意味を表す。ほかの選択肢は、すべて意味を成さない。"
+  },
+  {
+    "questionId": "875",
+    "question": "Correspondence with customers should always be mailed in envelopes which have the company’s address on ——-.",
+    "option": [
+      "(A) it",
+      "(B) those",
+      "(C) there",
+      "(D) them"
+    ],
+    "translation": "【問題文訳】「顧客への文書はいつも会社の住所が印刷されている封筒に入れて送るべきです」",
+    "answer": "D",
+    "explanation": "【解説】真ん中より少しあとにあるwhichは関係代名詞。そして、その前のenvelopesが先行詞である。したがって、空所にはenvelopesを受ける代名詞が入ることになる。複数であることと、そして、前置詞onの目的語になっていることから、envelopesを表すtheyの目的格である(D)のthemが正しい。"
+  },
+  {
+    "questionId": "877",
+    "question": "On November 1, employees should begin to wear their second or winter uniform and have ——- dry cleaned for storage until use in the spring.",
+    "option": [
+      "(A) another one",
+      "(B) the other one",
+      "(C) the others",
+      "(D) others"
+    ],
+    "translation": "【問題文訳】「11月1日に、従業員は第2制服つまり冬服を着用し始めてください。そして、もう一方は、クリーニングに出して春の使用まで保管してください」",
+    "answer": "B",
+    "explanation": "【解説】意味をよく考えること。their second or winter uniformのorは「つまり…」という意味で、their secondとwinterは同じ意味を表す。したがって、their first uniformがあるはずである。「春に使う」とあるので、「夏用制服」のことである。2つのものを述べているので、「もう一方」のことは(B)のthe other oneのようにtheを付けて表す。(A)のanother oneは「3つ以上のいくつかあるうちの1つ」ということ。(C)のthe othersは「3つ以上あるうちの残りの全部」、(D)のothersは「いくつかあるうちの不特定のいくつか」ということ。"
+  },
+  {
+    "questionId": "879",
+    "question": "The problem for accounting section is that the company’s only copier is all the way at ——- end of the building.",
+    "option": [
+      "(A) another",
+      "(B) other",
+      "(C) others",
+      "(D) the other"
+    ],
+    "translation": "【問題文訳】「経理部にとっての問題は、この会社にはコピー機がたったの1台しかなく、しかもそれがビルの反対側の端にあることである」",
+    "answer": "D",
+    "explanation": "【解説】選択肢に、anotherとotherのいろいろな組み合わせが並んでいるので、単数・複数を考えて文を読む。文尾のthe buildingが単数になっていることから、ビルの端は「2つ」である。つまり、ここでは「もう一方の、反対側の」という意味を表す表現が当てはまることになる。2つあるうちの「もう一方の」はtheを付けたotherになる。よって(D)のthe otherが正解。(A)のanotherは「3つ以上あるうちの1つ」、(B)のotherは複数を表すので、空所のあとのendは複数にならなければならない。(C)のothersは名詞なので、この空所には不適切である。"
+  },
+  {
+    "questionId": "881",
+    "question": "The city plans to renovate ——- schools but must do so one at a time to avoid overloading buildings not being renovated.",
+    "option": [
+      "(A) some",
+      "(B) any",
+      "(C) much",
+      "(D) one’s"
+    ],
+    "translation": "【問題文訳】「市はいくつかの学校の改築を考えているが、改築しない建物が混雑しないように、1度に1つだけの作業にしなければならない」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとに複数を表す名詞のschoolsがある。そして、文は否定文でも疑問文でもない平叙文なので、(A)のsomeが適切である。(B)のanyを平叙文で使うと、「どんな…でも」という意味になり、but以降の意味合いと合わなくなる。(C)のmuchは不可算名詞の前に付くので、ここでは不可。(D)のone’sは意味を成さない。"
+  },
+  {
+    "questionId": "887",
+    "question": "Both company cars are in the garage now.  One will be ready tomorrow, but ——- will take another week.",
+    "option": [
+      "(A) another",
+      "(B) others",
+      "(C) the other",
+      "(D) the others"
+    ],
+    "translation": "【問題文訳】「今、社用車は2台とも修理中です。1台は明日できてきますが、もう1台はあと1週間かかります」",
+    "answer": "C",
+    "explanation": "【解説】まず、冒頭のBoth company carsから、車が2台あることになる。そして、2つ目の文がOneで始まっているので、butの次の空所には「もう1台」を表す表現が当てはまることになる。(A)のanotherは3つ以上ある中の「1つ」である。(B)のothersは、3つ以上ある残りの中の「いくつか」を表す。2つあるうちの1つはoneで表し、「もう1つ」はthe otherとtheを付けて表す。(D)のthe othersは「3つ以上残っている全部」を表す。よって(C)が正解。"
+  },
+  {
+    "questionId": "889",
+    "question": "Spelling is a necessary part of the study of a language but unfortunately one that ——- people enjoy.",
+    "option": [
+      "(A) any",
+      "(B) a",
+      "(C) a little",
+      "(D) few"
+    ],
+    "translation": "【問題文訳】「つづりは言語学習上必要な部分だが、残念ながら、ほとんどの人には楽しめない」",
+    "answer": "D",
+    "explanation": "【解説】後半がbutで導かれていることに注目。前半が肯定的な内容なので、後半は否定的な内容になると予測できる。文法的にも、(B)のaと(C)のa littleはpeopleの前に付けることはできない。残りは(A)のanyと(D)のfewである。anyを付けてany peopleとすると、「だれでも楽しめる」となり、but unfortunatelyと内容が合わない。よって(D)が正解。few peopleは「…する人はほとんどいない」という否定の意味を表す。"
+  },
+  {
+    "questionId": "891",
+    "question": "Parents of the boarding students feel they should return home at least once every ——- month.",
+    "option": [
+      "(A) another",
+      "(B) other",
+      "(C) the other",
+      "(D) others"
+    ],
+    "translation": "【問題文訳】「寮生の親は、彼らが少なくとも2か月に1回は帰省すべきだと感じている」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にeveryがあり、あとに名詞の単数形のmonthが続いていることがポイント。＜every other＋単数名詞＞で「1つおきの、ほかのすべての」という意味を表す。(A)のanotherは「多くあるうちの不特定の1つ」という意味なので、限定を表すeveryとは符合しない。(C)のthe otherは「2つあるうちのもう1つ」なので、これもeveryと合わない。(D)のothersのあとに名詞は続かない。"
+  },
+  {
+    "questionId": "893",
+    "question": "Behind the scenes, the actors thought that their own lives were not as easy as ——- of everyday people.",
+    "option": [
+      "(A) it",
+      "(B) them",
+      "(C) that",
+      "(D) those"
+    ],
+    "translation": "【問題文訳】「舞台裏では、俳優たちは自分たちの生活がふつうの人の生活のように楽なものだとは思っていなかった」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとにofがあり、選択肢に代名詞が並んでいるので、空所の代名詞が文中のどの語を指しているのかを判断すること。thatのあとのtheir own livesをeveryday peopleの生活と比較している文である。したがって、空所には複数形の代名詞が当てはまる。候補は(B)のthemと(D)のthoseである。them of …という表現はないので、(B)は間違い。those of everyday people（一般人の生活）が適切である。"
+  },
+  {
+    "questionId": "895",
+    "question": "As the famous novelist has ——- experience, she will be given a substantial cash advance prior to the publication of her next work.",
+    "option": [
+      "(A) no",
+      "(B) any",
+      "(C) much",
+      "(D) a lot of"
+    ],
+    "translation": "【問題文訳】「その有名な作家は経験が豊富なので、次回作品の出版前にかなりの金額の前受金をもらうだろう」",
+    "answer": "D",
+    "explanation": "【解説】(B)のanyと(C)のmuchは、通常、肯定文では使わず、否定や疑問文で用いる。(A)のnoと(D)のa lot ofが語法上可能。文の意味から、no experience（経験がないので）では、後半と意味が矛盾する。よって、(D)のa lot ofが正解。a lot ofは可算名詞、不可算名詞のいずれでも使うことができる。"
+  },
+  {
+    "questionId": "897",
+    "question": "To understand the controversy in the Middle East, one must have a good knowledge of ——- economics and history.",
+    "option": [
+      "(A) each",
+      "(B) between",
+      "(C) both",
+      "(D) either"
+    ],
+    "translation": "【問題文訳】「中東問題を理解するには、経済と歴史の両方の知識が豊富でなくてはならない」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとに＜名詞and名詞＞が続いていることがポイント。相関接続詞を考えよう。… and ～の形になるのは、(B)のbetweenと(C)のbothである。between economics and historyは「経済と歴史のあいだの」という意味で、日本語で考えると間違っていないように思えるが、between economics and historyは意味を持たない。both economics and historyが「経済と歴史の両方」という意味で、文全体の意味とも合う。(C)が正解。"
+  },
+  {
+    "questionId": "899",
+    "question": "Although the canyon was almost 300 meters ——-, the people stood immediately next to the railing without fear.",
+    "option": [
+      "(A) down",
+      "(B) under",
+      "(C) deep",
+      "(D) beneath"
+    ],
+    "translation": "【問題文訳】「その渓谷は300メートルの深さがあったが、その人たちは恐がりもせず手すりのすぐそばに立っていた」",
+    "answer": "C",
+    "explanation": "【解説】the canyon（峡谷）のことを述べているので、「深さ」を表す語が空所に当てはまることになる。「…の深さの」とか「…の高さの」と言う場合、単位を示す語のあとに形容詞が続く。(A)のdownは「下のほうへ」という副詞。方向を示すので、深さは表せない。(B)のunderは前置詞。あとに名詞が続く。そして、(D)のbeneathは「…の下に」という意味で、これも前置詞。正解は(C)のdeepである。300 meters deepで「300メートルの深さ」という意味になる。"
+  },
+  {
+    "questionId": "901",
+    "question": "Photographs portraying the airport prior to the reconstruction have been on the wall in the room for the ——- four weeks.",
+    "option": [
+      "(A) over",
+      "(B) least",
+      "(C) since",
+      "(D) past"
+    ],
+    "translation": "【問題文訳】「再工事前の空港を写した写真が、この4週間、部屋に掛かっている」",
+    "answer": "D",
+    "explanation": "【解説】空所の前のfor theがポイントのすべて。theがなければ(A)のoverも可能だが、for theのあとに続き、「期間」を表すのは(D)のpastしかない。"
+  },
+  {
+    "questionId": "903",
+    "question": "Both of the cars were badly damaged, but luckily ——- of the drivers was injured in the collision.",
+    "option": [
+      "(A) both",
+      "(B) another",
+      "(C) neither",
+      "(D) the other"
+    ],
+    "translation": "【問題文訳】「その衝突事故で、双方の車とも大破したが、幸いなことに運転手はどちらも怪我をしなかった",
+    "answer": "C",
+    "explanation": "【解説】まず、空所の前のbut luckilyがポイントとなる。この内容から「けがをしなかった」ことが推測できる。空所に続く語句がthe driversとなっており、しかも述語がwas injuredと単数を表していることから判断する。(A)のbothは複数を表す。(B)は単数を表すが、運転手は2人しかいないので、おかしい。否定の意味を含む(C)のneitherが正解。(D)のthe otherは2つのうちの1つを表すが、but luckilyの表現と矛盾する。"
+  },
+  {
+    "questionId": "905",
+    "question": "Because Mrs. Smith was in the hospital with an illness, the Smith girl had to fix breakfast by ——- under her father’s supervision.",
+    "option": [
+      "(A) her",
+      "(B) herself",
+      "(C) hers",
+      "(D) her own"
+    ],
+    "translation": "【問題文訳】「スミス夫人が病気で入院していたので、スミス家の娘は父親に教えてもらいながら自分で朝食を作らなければならなかった」",
+    "answer": "B",
+    "explanation": "【解説】(A)のherを入れてby herとするとthe Smith girlのほかにもう1人女性がいることになる。(B)のherselfを入れ、by herselfとすると、「一人で」という意味になって、文全体の内容と合う。(C)のhersを入れてby hersとすると、人間以外のほかのものを表していることになり、おかしい意味になる。on one’s ownという表現はあるが、by one’s ownとは言わないので、(D)も間違い。(B)が正解。"
+  },
+  {
+    "questionId": "907",
+    "question": "If Ms. Holden cannot take her vacation to England, then she would rather not go ——- at all.",
+    "option": [
+      "(A) everywhere",
+      "(B) somewhere",
+      "(C) anywhere",
+      "(D) nowhere"
+    ],
+    "translation": "【問題文訳】「ホールデンさんは、イギリス旅行に行けないのであればどこにも行きたくないと思っている」",
+    "answer": "C",
+    "explanation": "【解説】空所の前がshe would rather not goと否定表現になっていることに注目しよう。そして、文尾にat allがあることから、not … at allという「全否定」の表現になり、(C)のanywhereしか当てはまらない。(D)のnowhereでは二重否定になり、文意がおかしくなる。"
+  },
+  {
+    "questionId": "909",
+    "question": "Certainly, ——- on the piece of paper blew in through the window left open to allow the room to cool off.",
+    "option": [
+      "(A) dust",
+      "(B) the dust",
+      "(C) the dusts",
+      "(D) a dust"
+    ],
+    "translation": "【問題文訳】「確かに、その紙の上の埃は、部屋を涼しくしようと開けておいた窓から吹き込んできたものだ」",
+    "answer": "B",
+    "explanation": "【解説】dustの単数形・複数形、不定冠詞が付いた形、定冠詞が付いた形などの中から適切なものを選ぶ問題。文の意味をしっかり捉えること。空所のあとにon the piece of paperとあるので、ある場所にある限定された「埃」である。したがって定冠詞のtheが付く。そして、このような紙の上にたまったような埃は不可算名詞（物質名詞）で複数形にならない。したがって(B)のthe dustが正解。dustは「いろいろな有害な塵埃」と言うような場合には複数形になる。"
+  },
+  {
+    "questionId": "911",
+    "question": "We thought we might get ——– car the next time we rented one on vacation to allow us to drive around in more comfort.",
+    "option": [
+      "(A) a larger",
+      "(B) large",
+      "(C) with a large",
+      "(D) so large"
+    ],
+    "translation": "【問題文訳】「今度の旅行で車を借りるのであれば、もっと快適にドライブして回るために、より大きな車を借りるかもしれないと思った」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとにcarがあることから考える。これが数えられる名詞だということがポイント。carと単数になっているので、不定冠詞のaが必要。そして、aが付いているのは(A)と(C)である。したがって、(B)と(D)は除外。(C)を入れるとwithが余分になる。get with a large carでは意味が通じない。文の中にthanがないのに(A)はlargerと比較級になっているが、「いつもより」というニュアンスになっているので正しい使い方である。"
+  },
+  {
+    "questionId": "913",
+    "question": "Mr. Smith is going to need ——- with the flood control project because he will not be able to do all the design work by himself.",
+    "option": [
+      "(A) help",
+      "(B) a help",
+      "(C) the help",
+      "(D) no help"
+    ],
+    "translation": "【問題文訳】「スミス氏は、彼一人ですべての設計業務はできないだろうから、治水計画では助けを必要とするだろう」",
+    "answer": "A",
+    "explanation": "【解説】中ほどのbecause以降の意味をしっかり理解すること。「一人ではできない」と述べている。したがって「助けが必要だ」という意味になるように語句を選択する。helpは数えられない名詞で、冠詞が付かない。よって(A)のhelpが正解。aの付いた(B)のa helpは間違い。どういう手助けなのかは決まっていないので、(C)のようにtheを付けることはできない。(D)のno helpでは意味が矛盾する。"
+  },
+  {
+    "questionId": "915",
+    "question": "The study showed a significant amount of time is wasted by having meetings that do not accomplish ——-.",
+    "option": [
+      "(A) something",
+      "(B) anything",
+      "(C) everything",
+      "(D) nothing"
+    ],
+    "translation": "【問題文訳】「何も達成しない会議をして非常に多くの時間が浪費されていると、その調査は示していた」",
+    "answer": "B",
+    "explanation": "【解説】文尾に近いthatは関係代名詞。先行詞がmeetingsである。関係代名詞に続く節の中では、do notと否定になっているのでanythingが適切である。(B)が正解。(A)のsomethingは不定文の中では使われない。(C)のeverythingでは「全てをやりとげるわけではない」という部分否定の意味になりおかしい。(D)のnothingでは二重否定になって意味を成さない。"
+  },
+  {
+    "questionId": "917",
+    "question": "Unless we hire someone ——-, we may be unable to finish the workload ourselves by the deadline.",
+    "option": [
+      "(A) any",
+      "(B) other",
+      "(C) another",
+      "(D) else"
+    ],
+    "translation": "【問題文訳】「もし誰か他の人を雇わなければ、自分たちで締め切りまでにその仕事を終わらせることはできないかもしれない」",
+    "answer": "D",
+    "explanation": "【解説】文の意味を理解しよう。文頭のunlessは「もし…でなければ」という意味で、if … not～と同じ。そして、we may be unable to …の意味を誤解しないこと。unableなので「…できない」と述べている。つまり、前半は「もしほかに誰も雇わなければ」という意味になると判断できる。「ほかに…も」という意味を表すのは(D)のelseである。somethingとかsomeoneのようにsome-を接頭辞に持つ語は、形容詞を後ろに付ける。"
+  },
+  {
+    "questionId": "919",
+    "question": "——- has been 48 years since the film was last seen on the large screen in a nation-wide release.",
+    "option": [
+      "(A) It",
+      "(B) They",
+      "(C) This",
+      "(D) Time"
+    ],
+    "translation": "【問題文訳】「その映画が全国公開で大きなスクリーンで最後に上映されてから48年が経つ」",
+    "answer": "A",
+    "explanation": "【解説】since以降に過去のある出来事が出ており、前半は現在完了形の文である。そして、48 yearsと「時」を表現している。「時」を表現する主語はitである。なので(A)が正解。ほかの選択肢はこの文のような形で「時」を表現することはない。"
+  },
+  {
+    "questionId": "921",
+    "question": "The guest lecturer said that she may get an earlier flight than ——- leaving tomorrow night.",
+    "option": [
+      "(A) that",
+      "(B) it",
+      "(C) the one",
+      "(D) another"
+    ],
+    "translation": "【問題文訳】「その客員講師は、明日の晩に出発する便より早い便が取れるかもしれないと言った」",
+    "answer": "C",
+    "explanation": "【解説】文の意味と選択肢の代名詞の用法をしっかり見極めること。get an earlier flightというのは「乗れるかもしれない便」なので、はっきりしないものを指す不定冠詞のanが付いている。そして、leaving tomorrow nightというのは、空所に来る「飛行便」を後ろから修飾している現在分詞である。「明日の夜に出発する便」というのは、以前から決めてあった便なので、定冠詞のtheを付けて表現する。すると、当てはまるのは(C)のthe oneだけとなる。(B)のitは何を指すのかが分からないので使えない。(D)のanotherもはっきりしないものを指す場合に使われる。"
+  },
+  {
+    "questionId": "923",
+    "question": "By the time the spectators filled the stands on ——- day of the game, all of the tickets had been sold out.",
+    "option": [
+      "(A) a",
+      "(B) the",
+      "(C) such",
+      "(D) those"
+    ],
+    "translation": "【問題文訳】「試合の日、観客がスタンドを埋める頃には、全てのチケットは売り切れていた」",
+    "answer": "B",
+    "explanation": "【解説】空所を含む語句の意味を考えよう。onは日付に付ける前置詞である。空所のあとのdayにかかる。そして、dayにはof the gameのように、特定の日であることを示す語句が続いている。特定の日を示すので、定冠詞のtheが付く。よって、(B)のtheが正解。"
+  },
+  {
+    "questionId": "925",
+    "question": "Everyone was truly surprised to find out that Ms. Maxwell had left her job just before she would get ——- raise.",
+    "option": [
+      "(A) a",
+      "(B) the",
+      "(C) her",
+      "(D) one"
+    ],
+    "translation": "【問題文訳】「マックスウェルさんが昇給する直前に仕事を辞めたと分かり、みんな本当に驚いた」",
+    "answer": "A",
+    "explanation": "【解説】文の意味と、使われている語や語句の用法などを考えながら判断する。beforeは「…する前に」という意味を表す接続詞である。それに強調するjustが付いている。she wouldのwouldは時制の一致によってwouldになったとも考えられるが、仮定を表すとも考えられる。空所のあとにraise（昇給）は完全に決まったわけでもなかったと判断できるので、不定冠詞の(A) aが適切である。"
+  },
+  {
+    "questionId": "927",
+    "question": "The two chairmen were introduced once before, but neither one remembered the name of ——- person.",
+    "option": [
+      "(A) another",
+      "(B) other",
+      "(C) the other",
+      "(D) either"
+    ],
+    "translation": "【問題文訳】「その2人の会長は以前に紹介されていたが、どちらも相手の名前を覚えていなかった」",
+    "answer": "C",
+    "explanation": "【解説】冒頭でThe two chairmenと述べていることがポイント。2人のことを言っている。そして、butのあとのneither oneは「2人のうちのどちらか一方」を指す。そして、the name of … personというのは「2人のうちのもう1人の名前」ということである。「2つのうちのもう一方」は定冠詞のtheを付けて表現するので、(C)のthe otherが正解である。"
+  }
+]

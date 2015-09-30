@@ -1,0 +1,15 @@
+  [
+    "210",
+    {
+      "question": "Earlier in the modern era, Olympic-level athletes ——- for several months, unlike the decade-long preparation now commonly seen.",
+      "option": [
+        "(A) had trained",
+        "(B) trains",
+        "(C) trained",
+        "(D) have trained"
+      ],
+      "translation": "【問題文訳】「現在は一般的に見られる10年かけての準備ではなく、現代の初めの頃、オリンピックに出場できるレベルの選手たちは何か月か練習を積むだけだった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】前半の内容がunlike以降と比較されていることに気づくこと。Earlier in the modern eraのことを述べており、過去のことだが、過去形である(C)のtrainedは正解ではない。過去のオリンピックまでのトレーニング期間のことを述べているので、過去形よりも古いことを描写する「過去完了形」を使わなければならない。したがって(A)のhad trainedが適切である。"
+    }
+  ],

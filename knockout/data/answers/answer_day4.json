@@ -1,0 +1,1502 @@
+[
+  [
+    "1130",
+    {
+      "question": "If your shoes are ——- dirty, they should not be worn on the floor of the gymnasium.",
+      "option": [
+        "(A) no longer",
+        "(B) already",
+        "(C) more",
+        "(D) yet"
+      ],
+      "translation": "【問題文訳】「靴がすでに汚れていたら、体育館のフロアでそれを履かないでください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「もう、すでに」という「完了・結果」を表す意味になっていることを理解しよう。(A)のno longerは「完了・結果」を表す表現だが、否定を表すので、意味が通らない。(B)のalreadyが「もうすでに」という意味なので、適している。(C)のmoreは比較を表すが、この文には比較の要素がないので、意味がない。(D)のyetは、否定文や疑問文で「完了・結果」を表す。前半のif節は否定にはなっていないので、使えない。"
+    }
+  ],
+  [
+    "1132",
+    {
+      "question": "Starting around the age of 12, children are old ——- to look after themselves for short periods of time.",
+      "option": [
+        "(A) already",
+        "(B) before long",
+        "(C) enough",
+        "(D) much"
+      ],
+      "translation": "【問題文訳】「12歳頃から、子供たちは短期間であれば自立してもよい年頃となる」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前に形容詞があり、あとにto不定詞が続いていることがポイント。形容詞のあとに来て不定詞の前につく副詞は、(C)のenoughである。(A)のalreadyは、形容詞の前に付く。(B)のbefore longは「まもなく」という意味で、未来の文に使われる。(D)のmuchも形容詞の前に付く。"
+    }
+  ],
+  [
+    "1134",
+    {
+      "question": "The woman saw a horror movie at the theater last week, and she has not slept well ——-.",
+      "option": [
+        "(A) until",
+        "(B) because",
+        "(C) from",
+        "(D) since"
+      ],
+      "translation": "【問題文訳】「先週その女性は映画館でホラー映画を見た。そして、それ以来よく眠れないでいる」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所が文尾にあり、あとには何も語が続いていないので、接続詞や前置詞では不可である。選択肢はすべて前置詞や接続詞のように思えるが、(D)のsinceには、接続詞や前置詞のほか「それ以来」という副詞の意味と用法があるので、文尾に置いて使うことができる。よくeverを伴い、ever sinceの形になる。"
+    }
+  ],
+  [
+    "1136",
+    {
+      "question": "Because the tickets to the ballet sell out quickly, people must call ——- in the season to get seats.",
+      "option": [
+        "(A) before",
+        "(B) early",
+        "(C) ahead",
+        "(D) prior"
+      ],
+      "translation": "【問題文訳】「そのバレエのチケットは早く売り切れるので、客は席を取るためシーズンの初めに電話しなければならない」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにin the seasonがあることから考える。すでにinがあるので、前置詞は使えない。inがなければ、(A)のbeforeを入れてbefore the seasonと言うことはできる。(B)のearlyが適切。(C)のaheadはahead ofのようにofを伴う。(D)のpriorも、prior toとして使われる。"
+    }
+  ],
+  [
+    "1138",
+    {
+      "question": "Many first-time travelers are not ——- how to operate the airport’s automatic seat assignment machines.",
+      "option": [
+        "(A) true",
+        "(B) right",
+        "(C) sure",
+        "(D) correct"
+      ],
+      "translation": "【問題文訳】「初めて旅行する人の多くは、空港の自動席割り機の操作の仕方がよく分からない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにhow to …が続いていることから考える。また、主語が「人｣であることもポイント。「使い方がよく分からない」という意味なので、(C)のsureを使う。(A)のtrueは「本当だ」という意味なので、文全体と合わない。(B)のrightも「人」が主語なので、意味が通じない。(C)のsureが正解。be not sure how to …で「…の仕方がよく分からない」という意味を表す。(D)のcorrectもtrueやrightと同じように意味が合わない。"
+    }
+  ],
+  [
+    "1140",
+    {
+      "question": "Cable television allows viewers to see more types of television shows than ——- before.",
+      "option": [
+        "(A) once",
+        "(B) still",
+        "(C) ever",
+        "(D) since"
+      ],
+      "translation": "【問題文訳】「ケーブルテレビは視聴者に、以前より多種多様なテレビ番組を見せている」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「過去全体に比べて今は」という内容なので、(A)のonceを使ったonce beforeという表現は意味が合わない。過去から変わったことを述べているので、何かが続いていることを表す(B)のstillも不適切。(C)のeverを使ったever beforeで「過去にはなかったほど」という意味を表す。(D)のsinceは過去のある一点を表して「それ以降」ということ。この文のように漠然と過去を表すのには使えない。"
+    }
+  ],
+  [
+    "1142",
+    {
+      "question": "The author of the top-selling novel will be ——- on a promotional tour on the third of next month.",
+      "option": [
+        "(A) staying",
+        "(B) returning",
+        "(C) moving",
+        "(D) leaving"
+      ],
+      "translation": "【問題文訳】「そのベストセラー作家は来月3日にプロモーションツアーに出かける予定だ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにon …という「旅行の目的を表す」表現が続いていることから判断する。(A)のstayは、通常in …を伴うし、あとには場所が続くので、この空所には不可。これから旅行に出ようとしているので、(B)のreturnは逆。(C)のmoveは、通常、to …をあとに続ける。(D)のleaveが正解。leave on a trip [tour]で「旅行に出る」という意味になる。"
+    }
+  ],
+  [
+    "1144",
+    {
+      "question": "Last night, a bus that was ——- more than 35 passengers overturned, killing three passengers and injuring 20.",
+      "option": [
+        "(A) traveling",
+        "(B) equipped with",
+        "(C) loaded",
+        "(D) carrying"
+      ],
+      "translation": "【問題文訳】「昨夜、35名を超える乗客を乗せたバスが横転し、3名が死亡、20名が怪我を負った」",
+      "answer": "【解答】D",
+      "explanation": "【解説】thatは関係代名詞で、a busが先行詞。そして、これが主語であることに注目。バスが主語なので、(A)のtravelは使えない。これは「旅行する人」を主語とする。(B)のequipped with …のあとには「機材」が続き、passengersは不適切である。(C)のloadedはあとに前置詞が必要。loaded withであれば意味は通じる。(D)のcarryが「客を運んでいた」という意味で、正しい。"
+    }
+  ],
+  [
+    "1146",
+    {
+      "question": "The speaker could not attend the panel discussion because she ——- a terrible headache that day.",
+      "option": [
+        "(A) received",
+        "(B) took",
+        "(C) entered",
+        "(D) had"
+      ],
+      "translation": "【問題文訳】「その日、その講演者はひどい頭痛だったため、公開討論会に参加できなかった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとのa terrible headacheは、空所の動詞の目的語である。頭痛は「受け取る」ものではないので、(A)のreceiveは使えない。(B)のtakeを使ったtake a headacheという表現はない。(C)のenterも同じ。「頭痛に入る」というのはおかしい。(D)のhaveを使ってhave a headacheと言うと「頭痛がする」という意味になる。"
+    }
+  ],
+  [
+    "1148",
+    {
+      "question": "Mr. Langford worked for the same company for ——- 25 years until his retirement last month.",
+      "option": [
+        "(A) past",
+        "(B) more",
+        "(C) over",
+        "(D) near"
+      ],
+      "translation": "【問題文訳】「ランフォード氏は先月退職するまで25年以上同じ会社で働いた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】retirement last monthであるから、過去のことを述べている。(A)のpastを使ったfor the past 25 yearsだと「この25年間」となって、現在完了形で表現しなければならない。(B)のmoreはこれからのことを述べることになる。しかも、語順がおかしい。for 25 more yearsのように表現する。これは「（これから）さらに25年間」という意味。(C)のoverが適切である。「25年間以上」ということ。「ほぼ」という意味で使うのであれば、(D)のnearではなく、nearlyを使うべきである。"
+    }
+  ],
+  [
+    "1150",
+    {
+      "question": "The travel agent can get you a cheaper fare on that flight, but you must purchase your ticket three weeks ——-.",
+      "option": [
+        "(A) in front",
+        "(B) previously",
+        "(C) already",
+        "(D) in advance"
+      ],
+      "translation": "【問題文訳】「旅行代理店ではその便のもっと安い航空料金をご提供できますが、3週間前にチケットをご購入いただかなければなりません」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前がthree weeksと「期間」を表していることがポイント。(A)のfrontは「物理的に前にある」場合に使い、時間的な「前」には使わない。three weeksがなければ(B)のpreviouslyも使えるが、このままではpreviouslyを入れることはできない。文全体の意味から「まだ買っていない」ことが分かるので、(C)のalreadyは使えない。(D)のin advanceを入れ、three weeks in advanceとすると「3週間前に」という意味を表す。"
+    }
+  ],
+  [
+    "1152",
+    {
+      "question": "Drinking ——- amounts of coffee or other caffeinated beverages every day is not good for one’s health.",
+      "option": [
+        "(A) lots of",
+        "(B) excessive",
+        "(C) over",
+        "(D) more"
+      ],
+      "translation": "【問題文訳】「毎日コーヒーや他のカフェイン入り飲料を飲み過ぎるのは健康によくない」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとのamounts of …を修飾できる形容詞あるいは表現を判断する。「大量の」を表すとき、amountsには(A)のlots ofは使えない。(B)のexcessiveが「…の量を超える」という意味で適切である。(C)のoverがtoo muchの意味で名詞を修飾するときは、over the …のように冠詞を伴う。この文は何かと比較している文ではないので、(D)のmoreも使えない。"
+    }
+  ],
+  [
+    "1154",
+    {
+      "question": "Most people would like to call their mothers more than ——- other week, but cannot afford the long-distance charges.",
+      "option": [
+        "(A) each",
+        "(B) once",
+        "(C) every",
+        "(D) any"
+      ],
+      "translation": "【問題文訳】「ほとんどの人が母親に2週間に1度以上は電話したいのだが、長距離電話料金を払う余裕がない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとのotherがポイント。every other …で「1つおきの、隔…」という決まった言い方である。(A)のeachを使ったeach otherは副詞句で、あとの名詞が続くことはない。(B)のonceでは、意味のある表現にはならない。(D)のanyを使ったany other …は「ほかのどの…」という意味で、通常、最上級の表現といっしょに使う。"
+    }
+  ],
+  [
+    "1156",
+    {
+      "question": "When there is only ——- gasoline in the tank, a warning light flashes on the car’s dashboard.",
+      "option": [
+        "(A) much",
+        "(B) a few",
+        "(C) a little",
+        "(D) such"
+      ],
+      "translation": "【問題文訳】「タンクに少ししかガソリンが残っていないときは、車のダッシュボードの警告ランプが点滅します」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとがgasolineという不加算名詞であることから考える。(A)のmuchは空所の前のonlyと意味が合わない。(B)のa fewは可算名詞に使うので、不可。(C)のa littleが可算名詞にも不可算名詞にもう使え、この空所に合う。「少ししかない」という意味になる。(D)のsuchでは「そのようなガソリン」となり、どのガソリンを指すのかが不明。"
+    }
+  ],
+  [
+    "1158",
+    {
+      "question": "The tour guide is a resident of California, but commutes 50 miles each way ——- day to work in Nevada.",
+      "option": [
+        "(A) nearly",
+        "(B) every",
+        "(C) any",
+        "(D) some"
+      ],
+      "translation": "【問題文訳】「そのツアーガイドはカリフォルニアの住人だが、ネバダで働いているために毎日片道50マイルを通勤している」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「通勤している」ということと、空所のあとのdayという語から、「毎日」という意味になる(B)のeveryが適切である。(A)のnearlyは副詞なので、名詞の前には付かない。(C)のanyでは「どの日も」という意味になり、commutesという動詞と矛盾する。(D)のsomeも同じ意味で、commutesと合わない。"
+    }
+  ],
+  [
+    "1163",
+    {
+      "question": "The readings on the scale were underweight by about two pounds for ——- hundred.",
+      "option": [
+        "(A) other",
+        "(B) every",
+        "(C) some",
+        "(D) a few"
+      ],
+      "translation": "【問題文訳】「その計量器の数値は、100ポンドにつき約2ポンドずつ足りなかった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにhundredという単位がきていること、そして、by about two pounds forという表現から、「…ごとに」という意味合いが出ていることから、「100ポンドごとに」という意味を表すeveryが適している。ほかの選択肢は、通じる意味にはならない。"
+    }
+  ],
+  [
+    "1165",
+    {
+      "question": "When there is a relatively slow business day, the sales staff occasionally go out for a drink together ——-.",
+      "option": [
+        "(A) afterward",
+        "(B) backward",
+        "(C) lately",
+        "(D) behind"
+      ],
+      "translation": "【問題文訳】「比較的仕事が暇だった日は、営業部員たちは時々、後で一緒に飲みに出かける」",
+      "answer": "【解答】A",
+      "explanation": "【解説】go out forは「…をしに外出する」というイディオム。「仕事が忙しくなかった日」という内容や、全体が現在形で書かれていることなどから、「仕事のあと」という意味を表すafterwardが適している。(B)のbackwardは、時間について言うときは「過去にさかのぼって」という意味なので、「仕事のあと」にはならない。(C)のlatelyは「最近」という意味。(D)のbehindは、時間について言うと「遅れて」なので、これも合わない。"
+    }
+  ],
+  [
+    "1167",
+    {
+      "question": "It is generally easy to shop in the large malls, finding everything one could want ——- within a single retail complex.",
+      "option": [
+        "(A) made",
+        "(B) sold",
+        "(C) designated",
+        "(D) funded"
+      ],
+      "translation": "【問題文訳】「1つの総合小売り施設内でほしいものが探せるので、大きなショッピングセンターで買物をするのは一般的に簡単である」",
+      "answer": "【解答】B",
+      "explanation": "【解説】finding everything …の後半は「分詞構文」である。そして、oneは「人」を表す。everythingとoneのあいだに関係代名詞が省略されており、wantの目的語に当たるのはeverythingである。そして空所以降の語句もeverythingを修飾している。「店で売られているものすべて」という意味になる(B)のsoldが適切である。"
+    }
+  ],
+  [
+    "1169",
+    {
+      "question": "All plans for advertising the new product line will be ——- at the January 30th business meeting.",
+      "option": [
+        "(A) submitted",
+        "(B) transformed",
+        "(C) manufactured",
+        "(D) sublet"
+      ],
+      "translation": "【問題文訳】「新しい商品ラインの広告に関するすべての計画は、1月30日の会議で提出される予定だ」",
+      "answer": "【解答】A",
+      "explanation": "【解説】主語が「広告の計画」であること、そして、あとに「会議で」という表現が続いていることから、「提出される」という意味になる(A)のsubmittedが適切である。(B)のtransformは「変形する」、(C)のmanufactureは「製造する」、(D)のsubletは「又貸しをする」なので、いずれも広告の計画には合わない。"
+    }
+  ],
+  [
+    "1171",
+    {
+      "question": "The senator’s constituents ——- him to seek funds for a new waste management facility.",
+      "option": [
+        "(A) changed",
+        "(B) threatened",
+        "(C) petitioned",
+        "(D) provided"
+      ],
+      "translation": "【問題文訳】「その上院議員の有権者たちは、彼に新しい廃棄物処理施設の資金を陳情した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】むずかしい語がいくつか出てくるが、全体の概要を探って、適する動詞を判断しよう。constituentは「有権者」である。あとにfunds for a new …とあるので、｢何かに使う資金」と考えよう。seekという動詞からも、「資金を探している」と考えられ、(C)のpetition（陳情する）が適切である。(A)のchangeで使うtoのあとには名詞が続く。seekは動詞なので、不可。(B)のthreatenは「脅す」なので、to seek以降と意味合いが違ってくる。(D)のprovideは「提供する」なので、逆。また、provideはprovide … to不定詞という表現にはならない。"
+    }
+  ],
+  [
+    "1173",
+    {
+      "question": "The bright light bulb ——- from the center of the ceiling of the bare room.",
+      "option": [
+        "(A) hanged",
+        "(B) hung",
+        "(C) suspended",
+        "(D) dropped"
+      ],
+      "translation": "【問題文訳】「明るい裸電球が空き部屋の天井の真ん中からぶら下がっていた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとがfrom …と前置詞句になっているので、空所には目的語を必要としない自動詞が当てはまることになる。hangは「物がぶら下がる」という自動詞の用法ではhang-hung-hungと活用し、「絞首刑になる」の意味ではhang-hanged-hangedと活用する。ここではライトがぶら下がっているので、過去形はhungである。よって(B)が正解。(C)のsuspendは「ぶら下がる」という意味では、通常be suspendedように受動態になる。(D)のdropには「ぶら下がる」という意味はない。"
+    }
+  ],
+  [
+    "1175",
+    {
+      "question": "The moon is not a planet although it resembles the planets of our solar system in many ——-.",
+      "option": [
+        "(A) styles",
+        "(B) tastes",
+        "(C) intentions",
+        "(D) respects"
+      ],
+      "translation": "【問題文訳】「月は多くの点で我が太陽系の惑星と似ているが、惑星ではない」",
+      "answer": "【解答】D",
+      "explanation": "【解説】resemblesという動詞や「ほかの太陽系惑星」という内容などから、in many …は「多くの点で」という意味になると判断される。この場合の「点」は(D)のrespectを使って表現する。(C)のintentionは「意志」という意味で、resembleなどと合わない。"
+    }
+  ],
+  [
+    "1177",
+    {
+      "question": "With the channel between them, the United Kingdom is ——- from France.",
+      "option": [
+        "(A) above",
+        "(B) next",
+        "(C) around",
+        "(D) across"
+      ],
+      "translation": "【問題文訳】「イギリスは、海峡をはさんでフランスと向い合っている」",
+      "answer": "【解答】D",
+      "explanation": "【解説】between themがポイント。あいだに海峡がはさまれているのである。(A)のaboveは「上に」なので、国の位置を述べるのは使えない。(B)のnextはtoを伴い、next to …とするのがふつう。それに、これは「隣接している」場合に使う。(C)のaroundもaround fromとは言わない。「離れて向い合っている」場合はbe across from …が適切。よって(D)が正解。"
+    }
+  ],
+  [
+    "1179",
+    {
+      "question": "The customer bought the dictionary but was disappointed to ——- that it did not have up-to-date words.",
+      "option": [
+        "(A) recover",
+        "(B) find",
+        "(C) finalize",
+        "(D) forgive"
+      ],
+      "translation": "【問題文訳】「その客は辞書を買ったが、最新の単語が収録されていないのを知ってがっかりした」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにthatが続いていることがポイント。find that …で「…であることを知る、発見する」という意味を表す。to find …は「原因」を表す不定詞の副詞的用法。よって、(B)が正解。(A)のrecoverは「回復する」である。discover（発見する）と混同しないように注意。(C)のfinalizeは「終結させる」で、(D)のforgiveは「許す」なので、いずれも意味が合わない。"
+    }
+  ],
+  [
+    "1181",
+    {
+      "question": "Miss Fisher and her fiancé got married and, three months later, were ——-.",
+      "option": [
+        "(A) divided",
+        "(B) reduced",
+        "(C) divorced",
+        "(D) unified"
+      ],
+      "translation": "【問題文訳】「フィッシャーさんと彼女の婚約者は結婚したが、3か月後に離婚した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】got marriedと対になる表現になると判断できる。get married（結婚する）の反意語は、get divorcedあるいはbe divorced（離婚する）である。get a divorceのように名詞を使う表現もある。(A)のdivide（分離する）は、離婚という意味では使わない。(B)のreduceは「減らす」、(D)のunifyは「統一する」で、いずれも意味が合わない。"
+    }
+  ],
+  [
+    "1183",
+    {
+      "question": "The 1977 state supreme court ruling ——- the state with a new policy regarding fire alarms in schools.",
+      "option": [
+        "(A) gave",
+        "(B) provided",
+        "(C) established",
+        "(D) sent"
+      ],
+      "translation": "【問題文訳】「1977年の州の最高裁の判決により、州は学校の火災警報に関する新しい方針を打ち出した」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前までが主語で、空所には動詞が入る。目的語はthe stateである。ポイントは、the stateのあとにあるwithである。文の意味から「与える」という意味の動詞が入ると判断される。(A)のgiveと(B)のprovideの意味が合う。この中で、あとに＜目的語＋wih …＞の表現を続けるのは、provideだけ。「…に～を提供する」という意味。"
+    }
+  ],
+  [
+    "1185",
+    {
+      "question": "When one ——- Venus through a telescope, indistinct masses of clouds cover the surface.",
+      "option": [
+        "(A) views",
+        "(B) sees",
+        "(C) looks",
+        "(D) focuses"
+      ],
+      "translation": "【問題文訳】「望遠鏡で金星を見ると、雲の塊がうっすらと表面を覆っているのが分かる」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとに目的語（Venus）が直接続いていることがポイント。つまり、他動詞が当てはまる。まず、(C)のlookは、look at …のようにあとに前置詞を続けるので、除外できる。あとの3つの動詞は他動詞の用法がある。(A)のviewは「全体を眺める」という意味合いなので、through …は使わない。(B)のseeが適切である。(D)のfocusはfocus … on～「～に…の焦点を合わせる」のように表現する。"
+    }
+  ],
+  [
+    "1187",
+    {
+      "question": "The printer had nothing to ——- what the flashing light on the counter represented.",
+      "option": [
+        "(A) indicate",
+        "(B) teach",
+        "(C) provide",
+        "(D) consider"
+      ],
+      "translation": "【問題文訳】「プリンターのカウンターの点滅が何を表しているのか何も示すものがなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】主語がThe printerであることから考える。(A)のindicateが「…を指し示す」という意味で適切である。(B)のteachは具体的な「物」を主語にはしない。「出来事」や「行い」を表す表現が主語になることはある。(C)のprovideは、あとに＜目的語＋with …＞を続ける。(D)のconsiderも、具体的な「物」を主語にしない。"
+    }
+  ],
+  [
+    "1189",
+    {
+      "question": "Barbara’s search for a job eventually ——- her a position at the world-famous KDK Company.",
+      "option": [
+        "(A) received",
+        "(B) grounded",
+        "(C) landed",
+        "(D) fixed"
+      ],
+      "translation": "【問題文訳】「バーバラは職を探しており、ようやく世界的に有名なKDK社を見つけた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のeventuallyの意味合いがヒントになる。主語は「仕事を探していたということ」になる。(A)のreceiveでは、「仕事を受けた人」が主語になる。(B)のgroundは「…を地面に置く、座礁する」という意味で、しかも、あとに2つの目的語を続けることはない。(C)のlandには「…に～を与える」という意味で、目的語を2つ続ける用法がある。(C)が正解。(D)のfixには「何かを与える」という意味はない。"
+    }
+  ],
+  [
+    "1191",
+    {
+      "question": "The paper clip got stuck in the copy machine, and ——- the operating mechanism.",
+      "option": [
+        "(A) connected",
+        "(B) canceled",
+        "(C) ruined",
+        "(D) enforced"
+      ],
+      "translation": "【問題文訳】「紙クリップがコピー機の中にはさまり、機器をこわしてしまった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとの意味を理解すること。「コピー機にクリップが挟まった」わけだから、「機械が壊れた」という意味になると判断できる。operating mechanismは「装置」という意味。空所の主語はThe paper clipである。(A)のconnectは「接続する」なので、意味が通じない。(B)のcancelは「キャンセルする」これも意味が通じない。(C)のruinが「ダメにする、破壊する」という意味で、コピー機が使えなくなったことを表すので、正解。(D)のenforceも「…を強制する」という意味で、あとのthe operating mechanismだけでは意味が通じない。あとに「…を」に当たる語が必要。"
+    }
+  ],
+  [
+    "1193",
+    {
+      "question": "Suddenly, water ——- ashore due to an underwater earthquake far across the ocean.",
+      "option": [
+        "(A) drip",
+        "(B) rushed",
+        "(C) rained",
+        "(D) ooze"
+      ],
+      "translation": "【問題文訳】「はるか遠方の海中地震によって、突然、波が押し寄せてきた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のwaterが「海中地震によるもの」であることを考えよう。つまり「津波」なので、力強い意味を表す動詞でなければならない。(A)のdripは「ポタポタ落ちる」で不可。(B)のrushが「ざーっと押し寄せる」で合う。(C)のrainは「雨のように降らす」だが、沖から押し寄せる水の様子には使えない。(D)のoozeは「にじみ出る」という意味で、これも不可。"
+    }
+  ],
+  [
+    "1195",
+    {
+      "question": "The firm intends to ——- a warm welcome to the guests who attend the opening of the new store.",
+      "option": [
+        "(A) expand",
+        "(B) embrace",
+        "(C) prolong",
+        "(D) extend"
+      ],
+      "translation": "【問題文訳】「会社は新店舗の開店にいらっしゃるお客様を温かくお迎えする所存です」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとのa warm welcomeがポイント。このように、(D)のextendを使ったextend a welcome to …が「…を歓迎する」という意味を表す。(A)のexpandはextendと形も意味も似ているが、welcomeを目的語にすることはない。(B)のembraceは「抱きしめる、受け入れる」という意味。(C)のprolongは「延長させる」。「時間などを延長させる」という意味で、welcomeとは合わない。"
+    }
+  ],
+  [
+    "1197",
+    {
+      "question": "Just during lunch the manager is too busy to ——- job applicants, but he can do so in the mid-afternoon.",
+      "option": [
+        "(A) touch",
+        "(B) talk",
+        "(C) meet",
+        "(D) connect"
+      ],
+      "translation": "【問題文訳】「昼食時には課長は忙しすぎて求職者に面接できませんが、午後の中頃なら可能です」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のtoo busyという内容から考えよう。また、選択肢の動詞の用法も考慮すること。あとにjob applicantと目的語が直接続いているので、(C)のmeetが当てはまる。(B)のtalkはtalk with …のように前置詞を必要とする。"
+    }
+  ],
+  [
+    "1199",
+    {
+      "question": "The personnel department requires all new employees to ——- the two-week training program.",
+      "option": [
+        "(A) partake",
+        "(B) participate",
+        "(C) receive",
+        "(D) attend"
+      ],
+      "translation": "【問題文訳】「人事部では、新入社員全員に2週間の研修に参加するように要請している」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとに目的語が直接続いていること、そして、選択肢の動詞の意味合いから考える。(A)のpartakeは「参加する」なので、意味は合う。しかし、「…に参加する」という意味のときはpartake in …のように前置詞を必要とする。(B)のparticipateも同じ。意味は合うがinという前置詞が必要。(C)のreceiveは「受け取る」なので、あとの目的語と合わない。(D)のattendが正解。他動詞で、あとに目的語が直接続く。「…に参加する」という意味。"
+    }
+  ],
+  [
+    "1201",
+    {
+      "question": "Last night, a train that was ——- more than 300 passengers was delayed by over two hours in the snowstorm.",
+      "option": [
+        "(A) traveling",
+        "(B) touring",
+        "(C) loading",
+        "(D) carrying"
+      ],
+      "translation": "【問題文訳】「昨夜、300人を超える乗客を乗せた電車が吹雪の中2時間以上遅れた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】a trainが主語であることから考える。(A)のtravelや(B)のtourは、通常、「人」を主語にし、trainは主語になれない。(C)のloadは「…を積んでいる」と言う場合、be loaded with …のように受動態で表現する。したがって(D)のcarryが正解。"
+    }
+  ],
+  [
+    "1203",
+    {
+      "question": "As for the integrated circuits, we are going to ——- them from Singapore since they are cheaper there than they are here.",
+      "option": [
+        "(A) supply",
+        "(B) purchase",
+        "(C) promote",
+        "(D) estimate"
+      ],
+      "translation": "【解答】B",
+      "answer": "【解説】文の意味から、空所には「入手する、購入する」という意味の動詞が当てはまる。(A)のsupplyは「供給する」なので、意味が逆になる。(B)のpurchaseが「購入する」という意味で、buyよりもやや格式張った表現になり、ビジネス用語でよく使われる。(C)のpromoteは「促進する」、(D)のestimateは「買う」意味にはならない。",
+      "explanation": "【重要語句】\nas for「…に関しては」\nintegrated circuits「集積回路」\npromote「進める、発展させる」\nestimate「見積もる」"
+    }
+  ],
+  [
+    "1205",
+    {
+      "question": "Please do not ——- to contact me if you would like to revise your travel plans in any way.",
+      "option": [
+        "(A) freeze",
+        "(B) hesitate",
+        "(C) interfere",
+        "(D) delay"
+      ],
+      "translation": "【問題文訳】「もしお客様のご旅程に変更したいことがございましたら、遠慮なくお申し出ください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「もし…したいのでしたら、～しないでください」という意味になる。否定文になっていることに注目。do not hesitate to …が「遠慮なく…してください」という意味を表す。よって、(B)が正解。(A)のfreezeを使ったfreeze to …という表現はあるが、あとには名詞が続く。(C)のinterfereは「邪魔をする」で、自動詞。あとにto不定詞は続かない。(D)のdelay（遅らせる）も、目的語としてto不定詞をとることがない。"
+    }
+  ],
+  [
+    "1207",
+    {
+      "question": "The marketing director at our office will be ——- back from a trip to Switzerland tomorrow.",
+      "option": [
+        "(A) returning",
+        "(B) turning",
+        "(C) recovering",
+        "(D) coming"
+      ],
+      "translation": "【問題文訳】「弊社の営業部長は、明日、スイスへの出張から戻ります」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにbackがあることがポイント。(A)のreturnにはbackの意味が含まれている。return from …ならOK 。(B)のturn backにも「…から戻る」という意味があるが、こうした「人が戻る」という状況では使えない。(C)のrecoverは「（病気などが）回復する」という意味。(D)のcomeがbackを伴い「戻る」という意味を表す。"
+    }
+  ],
+  [
+    "1209",
+    {
+      "question": "The new hotel is able to ——- as many as 1,000 overnight guests with banquet and meeting rooms that can house ten times that number.",
+      "option": [
+        "(A) accommodate",
+        "(B) detain",
+        "(C) stay",
+        "(D) store"
+      ],
+      "translation": "【問題文訳】「その新しいホテルは1,000人もの宿泊客を収容でき、その10倍をまかなえる宴会場や会議場がある」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとに「人」を表す表現が続いていることがポイント。(A)のaccommodateが「（人を）宿泊設備に宿泊させる」という意味で、hotelなどが主語になり、正解。(B)のdetainは「（強制的に）留まらせる」という意味なので、ここでは合わない。主語がThe new hotelなので、動詞としてstayは不適切。(D)のstoreは「保有しておく」という意味。目的語がguestsなので、これも不適切。"
+    }
+  ],
+  [
+    "1211",
+    {
+      "question": "Women traditionally ——- to marry men who are tall, wealthy and handsome.",
+      "option": [
+        "(A) defer",
+        "(B) make up",
+        "(C) prefer",
+        "(D) practice"
+      ],
+      "translation": "【問題文訳】「女性は伝統的に背が高くて裕福でハンサムな男性と結婚することを好むものだ」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにto不定詞が続いていることがポイント。(A)のdefer（延期する）はあとにto …を伴うことがあるが、このtoは前置詞で、あとには名詞（句）が続く。(B)のmake upでは語句が不足している。make up their mindなら意味が通るが、make upだけでは意味が通らない。(C)のpreferが正解。prefer to …で「…するほうを好む」という意味。(D)のpracticeは「実践する」で、practice to …は｢…することにしている」となる。「伝統的に…と結婚することにしている」とまでは言い切れない。"
+    }
+  ],
+  [
+    "1213",
+    {
+      "question": "If you are in any way dissatisfied with your sunglasses, your money will be ——- with no questions asked.",
+      "option": [
+        "(A) accepted",
+        "(B) refunded",
+        "(C) invested",
+        "(D) spent"
+      ],
+      "translation": "【問題文訳】「お客様がもしサングラスに多少なりともご不満でしたら、無条件で返金いたします」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文全体の意味から「お金を返す」という意味の表現になるべきである。「受け取る」のではないので、(A)のacceptは合わない。(B)のrefundが「返金する」という意味で、文意と合う。(C)のinvestは「投資する」で、「サングラスが不満である」という内容と合わない。「お金を使う」のではなく返すのであるから、(D)のspendも不可。"
+    }
+  ],
+  [
+    "1215",
+    {
+      "question": "Estate planning is a very complicated legal matter, so I would ——- advice from a lawyer if I were you.",
+      "option": [
+        "(A) pertain",
+        "(B) suggest",
+        "(C) seek",
+        "(D) help"
+      ],
+      "translation": "【問題文訳】「相続計画はとても複雑な法律問題ですから、私だったら弁護士に助言を求めますね」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢がすべて動詞なので、文の意味から考える。空所のあとにadviceという名詞がある。そして主語がIになっているので、このadviceは「もらう、受ける」ものになる。この意味に合った動詞を選択する。(A)のpertainは「関連する」という意味で、つながらない。しかも、この動詞には目的語は直接続かず、pertain to …のように前置詞を必要とする。(B)のsuggestは、意味が逆。弁護士に助言を受けるのである。(C)のseekが正解。seek adviceで「助言を求める」という意味を表す。(D)のhelpは正解の思えてしまうが、主語の「私」は助けてもらう側なので、これも逆。"
+    }
+  ],
+  [
+    "1217",
+    {
+      "question": "The recent boom in the stock market is directly ——- to the changes in interest rates.",
+      "option": [
+        "(A) resulted",
+        "(B) related",
+        "(C) affected",
+        "(D) caused"
+      ],
+      "translation": "【問題文訳】「最近の株式市場の急上昇は、利率の変動と直接に関係している」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとに＜to＋名詞句＞が続いていることがポイント。(A)のresultもあとにto …を続け「…という結果になる」という意味を表す。ただし、ここでは受動態になっているため、意味が合わない。(B)のrelateが受動態で使われ、be related to …となると「…と関係がある」という意味になり、この文で適切である。これが正解。「…に影響を及ぼす」という(C)のaffectは、「…に影響される」と言う場合はbe affected by …のようにbyを使う。(D)のcauseも同じようにby …を続ける。"
+    }
+  ],
+  [
+    "1219",
+    {
+      "question": "The company is going to ——- a complaint with the local council that the bridge closure has reduced its business drastically.",
+      "option": [
+        "(A) sue",
+        "(B) file",
+        "(C) send",
+        "(D) request"
+      ],
+      "translation": "【問題文訳】「その会社は、橋の閉鎖によって業績が大幅に悪化したといって、地元の議会に苦情を提出しようとしている。」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢の意味と用法の両面から判断する。空所のあとの目的語がa complaint（苦情）である。そして、そのあとに＜with＋機関＞が続いている。したがって、(B)のfileが適している。(A)のsueのあとには訴えられる「人」が続く。(C)のsendはwithではなくtoを使う。(D)のrequestもto …をとる。"
+    }
+  ],
+  [
+    "1221",
+    {
+      "question": "It is far too ——- to fully discuss the ramifications of building a second airport at one short meeting.",
+      "option": [
+        "(A) simple",
+        "(B) long",
+        "(C) complex",
+        "(D) elegant"
+      ],
+      "translation": "【問題文訳】「第2空港の建設にともなう波及問題は非常に複雑なので、短い会議では十分に論ずることはできない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】too … toの構文なので、「…すぎて～できない」という否定の意味になる。文の意味を考えると「むずかしすぎる、複雑すぎる」という意味の形容詞が適切だと判断できる。(A)のsimple（単純な）や(D)のelegant（優雅な）は分脈に合わない。(B)のlongは文尾のshortと組み合わさって紛らわしいが、意味が合わない。(C)のcomplex（複雑な）が正解。"
+    }
+  ],
+  [
+    "1223",
+    {
+      "question": "Although the printer was equipped with advanced functions, it was ——- used by the staff.",
+      "option": [
+        "(A) frequently",
+        "(B) rarely",
+        "(C) mostly",
+        "(D) generally"
+      ],
+      "translation": "【問題文訳】「そのプリンターには高性能機能が備わっていたのだが、スタッフにはめったに使われなかった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文頭のAlthoughから、後半の節（主節）は逆接になるため、否定の意味を含んだ表現にする必要がある。(B)のrarelyが「ほとんど…しない」という意味で否定の意味を含む。"
+    }
+  ],
+  [
+    "1225",
+    {
+      "question": "The little boy slipped and fell on the ice, but because he was holding his mother’s hand, he ——- hurt himself.",
+      "option": [
+        "(A) barely",
+        "(B) nearly",
+        "(C) merely",
+        "(D) closely"
+      ],
+      "translation": "【問題文訳】「その男の子は氷の上で滑って転んだが、母親の手につかまっていたので、ほとんどけがはしなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】前半がslipped and fell …となっており、but becauseと続いているために、「怪我はしなかったはずだ」と判断される。したがって、空所には「否定」の意味合いを含む副詞が適している。(A)のbarelyが「ほとんど…ない」という意味を表し、否定の意味を表す。(B)はnearlyは「危うく…するところだった」という意味を表す。becauseに続く節があるため、意味がおかしくなる。(C)のmerelyは「ただ単に…だけ」なので、怪我したことになる。(D)のcloselyは「綿密に」なので、意味が合わない。"
+    }
+  ],
+  [
+    "1227",
+    {
+      "question": "The crew worked for hours repaving the street during the night, but they are ——- not able to reopen even one lane.",
+      "option": [
+        "(A) even",
+        "(B) still",
+        "(C) hardly",
+        "(D) yet"
+      ],
+      "translation": "【解答】B",
+      "answer": "【解説】空所の前がbut they areとなっているので、前半の内容をくつがえす内容が続くはずである。(A)のevenや(D)のyetは語順がおかしい。notのあとであれば可能。(B)のstillが正解。過去の状態が今でも続いていることを表す。(C)のhardlyは、この語自体に否定的意味合いが含まれるので、否定文の中では使われない。",
+      "explanation": "【重要語句】\ncrew「一団、チーム」\nrepave「再舗装する」"
+    }
+  ],
+  [
+    "1229",
+    {
+      "question": "If you drive about one ——- mile beyond City Hall, the university will be on your left.",
+      "option": [
+        "(A) longer",
+        "(B) more",
+        "(C) further",
+        "(D) other"
+      ],
+      "translation": "【問題文訳】「市役所を過ぎてもう1マイルほど車で行きますと、その大学は左手にあります」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにmileがあることがポイント。mileを(A)のlongや(C)のfurtherで、前から修飾することはできない。「あと1マイル」という意味ではanother mileという表現があるが、(D)のotherを使ってone other mileと言うことはできない。(B)のmoreを入れ、one more mileと言うと、「あと1マイル」という意味になる。"
+    }
+  ],
+  [
+    "1231",
+    {
+      "question": "The recipe called for a ——- blend of spices to produce an aroma that would draw customers to the Indian restaurant.",
+      "option": [
+        "(A) rich",
+        "(B) wealthy",
+        "(C) powerful",
+        "(D) thick"
+      ],
+      "translation": "【問題文訳】「そのレシピは豊富なスパイスのブレンドで良い香りを醸し出し、客がそのインド料理店に吸い込まれるように入っていったものだ」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前のcall for …は「…を必要とする、…を要求する」という意味のイディオム。空所に当てはまる形容詞は、あとのspicesと関係があるものになる。食品の材料などが「豊富な」というのは、(A)のrichで表現する。(B)のwealthyは「お金が豊富な」という意味。(C)のpowerfulは「力が豊富な」ということ。そして(D)のthickを料理に使うと、「粘度の高い、スープの濃い、とろみの強い」という意味で、「豊富なスパイス」の意味にはならない。"
+    }
+  ],
+  [
+    "1233",
+    {
+      "question": "When writing prose for a class or for a business report, it is best to be clear and ——- in your word choice.",
+      "option": [
+        "(A) vague",
+        "(B) disillusioning",
+        "(C) unambiguous",
+        "(D) careless"
+      ],
+      "translation": "【問題文訳】「授業の課題やビジネス文書を書くときは、明解で曖昧さのない言葉使いをすべきである」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にあるclear（明解な）と並列される形容詞が当てはまる。clearに近い意味の語が適切である。(A)のvagueは「曖昧な」という意味で合わない。また、(B)のdisillusioningは「幻滅を感じさせる」で、これもclearと合わない。(C)のunambiguousが「明白な」で適切である。ambiguous（曖昧な）の反意語。(D)のcarelessは「不注意な」で、これも合わない。"
+    }
+  ],
+  [
+    "1235",
+    {
+      "question": "Since the coffee is made in the morning, it might be a little ——- by the time the noon lunch rush begins.",
+      "option": [
+        "(A) stale",
+        "(B) ancient",
+        "(C) rotten",
+        "(D) decayed"
+      ],
+      "translation": "【問題文訳】「コーヒーは朝いれるので、ランチに人が集まるころには少し新鮮さがなくなっているかもしれない」",
+      "answer": "【解答】A",
+      "explanation": "【解説】it might beのitは「コーヒー｣のこと。(A)のstaleが「新鮮ではない」という意味で、飲食物に対して使われる。(B)のancientは「古代の」、(C)のrottenは「腐った」という意味なので、コーヒーには適当ではない。(D)のdecayは「腐敗する」という意味で、rottenと同じような意味だが、同じようにコーヒーには使わない。"
+    }
+  ],
+  [
+    "1237",
+    {
+      "question": "The employee was found ——- for failing to check the contents of the luggage carefully with the X-ray machine.",
+      "option": [
+        "(A) scrupulous",
+        "(B) vigilant",
+        "(C) nebulous",
+        "(D) negligent"
+      ],
+      "translation": "【問題文訳】「その従業員は、手荷物の内容物検査をX線を使って行わず怠慢だったと判明した」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前のfindは＜find＋目的語＋目的格補語＞の形になる。この文は受動態なので、＜be found＋主格補語＞になる。したがって、The employeeの性格を表現する形容詞となる。そして、ミスを犯したことと結び付けて考えること。(A)のscrupulous（良心的な、用心深い）と(B)のvigilant（用心深い、油断のない）は、for failing to …と合わない。(C)のnebulousは「不明瞭な、漠然とした」という意味で、人間の形容には使わない。(D)のnegligent（怠慢な）が、人を形容し、あとのfor failing to check …とも合う。"
+    }
+  ],
+  [
+    "1239",
+    {
+      "question": "The local newspaper is ——- that Mr. Wilson will win the upcoming election for mayor.",
+      "option": [
+        "(A) supportive",
+        "(B) definitive",
+        "(C) positive",
+        "(D) decisive"
+      ],
+      "translation": "【問題文訳】「地元の新聞は、来る市長選挙でウィルソン氏の当選を肯定的に見ている」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにthat節が続いており、事実を述べている。(C)のpositiveが「肯定的な」で適している。(A)のsupportiveは「支持する」という意味だが、あとにthat節は続かず、of …という語句が続く。(B)のdefinitiveは「信頼の置ける」だが、通常は、あとに名詞を伴う「限定用法」で使う。(D)のdecisiveは「決定力のある」だが、that節が続くことはない。"
+    }
+  ],
+  [
+    "1241",
+    {
+      "question": "The criminal was ——- for taking money people had invested in the retirement fund.",
+      "option": [
+        "(A) notorious",
+        "(B) common",
+        "(C) popular",
+        "(D) well-received"
+      ],
+      "translation": "【問題文訳】「その犯人は、あくどいことに人々が退職後の資金として投資した金を奪い取った」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにfor …があることがポイント。(A)のnotoriousがbe notorious for …の形で「…で悪名高い」という意味を表す。(B)のcommonはあとにto …を伴い、「…に共通している」という意味を表す。(C)のpopularはpopular for …で「…で人気がある」という意味になり、文法的には合うが、意味がおかしい。(D)のwell-receivedも意味が合わない。"
+    }
+  ],
+  [
+    "1243",
+    {
+      "question": "The company cautiously anticipates ——- profits in the third quarter due to a more favorable foreign exchange rate.",
+      "option": [
+        "(A) greater",
+        "(B) faster",
+        "(C) taller",
+        "(D) heavier"
+      ],
+      "translation": "【問題文訳】「会社はより有利な外国為替レートによって第3四半期がもっと大きな利益を出せるだろうと慎重ながら予測してい\nる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとのprofitsから判断しよう。「利益の大きさ」を表現する形容詞が当てはまる。利益の規模を表現するのは(A)のgreatである。(B)のfastは、会社の成長の度合いを表す場合に使われる。ほかの2つの選択肢も、利益を表現するのには向かない。"
+    }
+  ],
+  [
+    "1245",
+    {
+      "question": "Negotiations are at a ——- point right now and could either succeed or collapse within the next day or two.",
+      "option": [
+        "(A) sharp",
+        "(B) cautious",
+        "(C) delicate",
+        "(D) speculative"
+      ],
+      "translation": "【問題文訳】「交渉は現時点では微妙なところにあり、一両日で、成功することもあるし失敗することもある」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにpointがあることと、あとに続く「成功も失敗もある」という内容から判断しよう。「不安定な状態」にあることから、(C)のdelicateが適切だと判断できる。(A)のsharpを使ったsharp pointは、とがった鉛筆の先などを言う。(B)のcautiousは「用心深い、注意深い」で、主語のnegotiationと合わない。(D)のspeculativeは「不確かな情報に基づく」という意味。これも主語のnegotiationを表現する内容として合わない。"
+    }
+  ],
+  [
+    "1247",
+    {
+      "question": "Some people never seem to get ——- sweets to satisfy their perpetual desires for sugar.",
+      "option": [
+        "(A) some",
+        "(B) more",
+        "(C) enough",
+        "(D) many"
+      ],
+      "translation": "【問題文訳】「糖分の際限ない欲求のため、甘いものを限りなく食べる人もいる」",
+      "answer": "【解答】C",
+      "explanation": "【解説】最初にneverが使われていること、そして、sweetsのあとにto不定詞が続いていることから判断すると、(C)のenoughが＜enough＋名詞＋to不定詞＞の形をとり、「…するのに十分な～」という意味を表す。これが正解。neverが使われていることから、ほかの選択肢は意味が合わなくなる。"
+    }
+  ],
+  [
+    "1249",
+    {
+      "question": "When the bill came, the customer realized that he did not have ——- cash to cover it.",
+      "option": [
+        "(A) exact",
+        "(B) enough",
+        "(C) correct",
+        "(D) most"
+      ],
+      "translation": "【問題文訳】「勘定書が来て、その客はその金額を払えるだけの現金を持ち合わせていないことに気がついた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにto不定詞があることに注目する。「～するのに十分な…」という意味にする。(A)のexactや(C)のcorrectは、cashの前にamount ofなどの表現を必要とする。あるいは、exact changeやcorrect changeという表現はあるが、cashだけは不可。(D)のmuchではあとのto coverが続かない。(B)のenoughが正解。"
+    }
+  ],
+  [
+    "1251",
+    {
+      "question": "Not only is it a ——- promising project, it is also Berling’s first major overseas construction contract.",
+      "option": [
+        "(A) too",
+        "(B) very",
+        "(C) so",
+        "(D) such"
+      ],
+      "translation": "【問題文訳】「それは非常に期待の持てるプロジェクトであるだけではなく、バーリン社にとって最初の大きな海外での建築契約で\nある」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前がis it aとなっているのは、倒置で強調を表している。(B)のveryを使い、「非常に期待の持てるプロジェクトであるばかりでなく…」という意味を表している。(A)のtooでは「あまりに…すぎる」という否定の意味をふくむため、意味がおかしい。(C)のsoは「あまりに…なので～」といった意味を表すときは、通常、so … thatの構文を使う。それに、意味も違う。(D)のsuchは＜such a＋形容詞＋名詞＞の語順になる。"
+    }
+  ],
+  [
+    "1253",
+    {
+      "question": "The hat that local police officers wear is ——- to one that was worn by army officers 20 years ago.",
+      "option": [
+        "(A) like",
+        "(B) near",
+        "(C) close",
+        "(D) similar"
+      ],
+      "translation": "【問題文訳】「その地の警察官が着用している帽子は、20年前に陸軍士官がかぶっていたものとよく似ている」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにtoがあることがポイント。4つの選択肢の中で「形状が近い」のを表すのは(A)のlikeか(D)のsimilarだが、あとにtoが続くのはsimilarだけである。(B)のnearのあとには名詞が直接続く。(C)のcloseにはto …が続くが、これは状況や場所が違い場合に使い、形状が近いことを表すのには使わない。"
+    }
+  ],
+  [
+    "1255",
+    {
+      "question": "The subways during rush hour are ——- to be crowded with commuters headed to work.",
+      "option": [
+        "(A) certain",
+        "(B) frequent",
+        "(C) true",
+        "(D) real"
+      ],
+      "translation": "【問題文訳】「ラッシュアワーの地下鉄は、仕事に向かう通勤客で確かに混雑する」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所には形容詞が入り、あとのto be crowded …は補語（主格補語）である。補語としてto不定詞をとれるのは(A)のcertainだけである。なお、be certain to do …はIt is certain that …の形で表すことができる。(B)のfrequentはto不定詞が続かない。(C)のtrueや(D)のrealのあとにtoが続くことがあるが、その場合、toのあとに名詞が続く。"
+    }
+  ],
+  [
+    "1257",
+    {
+      "question": "——- in the high-tech world of the 21st century is not something that all people looked forward to.",
+      "option": [
+        "(A) Living",
+        "(B) Passing",
+        "(C) Holding",
+        "(D) Walking"
+      ],
+      "translation": "【問題文訳】「21世紀のハイテク世界で暮らすことは、すべての人が待ち望んでいたようなものではない」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文頭からcenturyまでが主語で、isが述語である。そして、something that …が主格補語に当たる。notが付いているので、つまり、「人が待っていたようなことではない」ことを表す内容になる動名詞を選択する。(A)のLivingが正解。「…で暮らすこと」という意味になる。(B)のpassはinを続けると、「死ぬ」という意味になり、不適切。(C)のhold inは「押さえつける」、(D)のwalk inは「歩く」で、いずれも意味が合わない。"
+    }
+  ],
+  [
+    "1259",
+    {
+      "question": "The students who called on others to occupy the atomic power plant were charged with ——- a riot.",
+      "option": [
+        "(A) cultivating",
+        "(B) inciting",
+        "(C) pressuring",
+        "(D) inclining"
+      ],
+      "translation": "【問題文訳】「原子力発電所の占拠を呼びかけた学生たちは、暴動を扇動したとして告発された」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のbe charged with …は「…のかどで告発される」という意味。そして、空所のあとにa riot（暴動）が続いている。したがって、何か悪いことを表現する動詞が当てはまることになる。(A)のcultivateは「耕す」でriotとは関係がない。(B)のinciteが「扇動する」という意味で適している。(C)のpressureは「…に圧力をかける」で、目的語には「人」を表す語がくる。(D)のinclineは「傾く」で、これもriot（暴動）を目的語にすることはできない。"
+    }
+  ],
+  [
+    "1261",
+    {
+      "question": "The unusually high profits ——- the company to give all employees a record-breaking bonus.",
+      "option": [
+        "(A) made",
+        "(B) were",
+        "(C) increased",
+        "(D) enabled"
+      ],
+      "translation": "【問題文訳】「利益が非常に多く出たので、その会社は全社員に前例のないほど多額のボーナスを出せた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとに＜名詞+ to不定詞＞が続いていることがポイント。この形になれるのは、(D)のenabledだけである。(A)のmakeは、使役動詞では＜make＋目的語＋動詞の原形＞になる。"
+    }
+  ],
+  [
+    "1263",
+    {
+      "question": "Please ——- the company know by Thursday if you are able to accept the position offered to you.",
+      "option": [
+        "(A) tell",
+        "(B) let",
+        "(C) get",
+        "(D) answer"
+      ],
+      "translation": "【問題文訳】「もし貴殿に申し出た仕事をお受けくださるようでしたら、木曜日までに会社にご連絡ください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとの目的語に続いてknowという動詞の原形がきていることに注目。この形になるのは(B)のletしかない。(A)のtellは目的語のあとにto不定詞が続く。(C)のgetも同じ。"
+    }
+  ],
+  [
+    "1265",
+    {
+      "question": "The voice coach ——- the singer to practice several times a day as her network premiere approaches.",
+      "option": [
+        "(A) admits",
+        "(B) allows",
+        "(C) forces",
+        "(D) offends"
+      ],
+      "translation": "【問題文訳】「その歌手の初めての全国ネットのテレビ出演が近づいているため、ボイストレーナーは彼女に1日数回の練習を強いた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】使役の意味を表す構文である。空所のあとの目的語にto不定詞が続いていることがポイント。選択肢の中でto不定詞をとるのは、(B)のallowと(C)のforceである。allowは「希望を受け入れて…させる」なので、文の意味と合わない。forceが「強制的に…させる」という意味で合う。(A)のadmitと(D)のoffendはこの文型にはならない。"
+    }
+  ],
+  [
+    "1267",
+    {
+      "question": "The coffee in the pot was old, but the ——- served it to the customers anyway.",
+      "option": [
+        "(A) butler",
+        "(B) waiter",
+        "(C) janitor",
+        "(D) nurse"
+      ],
+      "translation": "【問題文訳】「ポットの中のコーヒーは古かったが、そのウェイターは客に出してしまった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】served it to the customersなので、customerに対する語があてはまる。(B)のwaiterが正解。(A)のbutlerは上流家庭に仕える執事のこと。(C)のjanitorは「守衛」や「掃除人」を表す。"
+    }
+  ],
+  [
+    "1269",
+    {
+      "question": "The first year in college demands significant study skills, and it is often the ——- of much stress.",
+      "option": [
+        "(A) cause",
+        "(B) result",
+        "(C) product",
+        "(D) continuation"
+      ],
+      "translation": "【問題文訳】「大学初年度は膨大な学習能力が要求され、それはしばしば大きなストレスの原因となる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとのof much stressから考える。「ストレスの…」ということ。「膨大な学習能力が要求されること」から考えると、(A)のcauseが適切であると判断できる。(B)のresultは「結果」なので、意味が逆。(C)のproductは「産物」これも逆である。(D)のcontinuationは「連続」で「ストレスの連続」という意味になるため正しいように思えるが、主語がit isとなっているので、「イコール」を示すことになる。能力とストレスはイコールではないので、(D)も不可。"
+    }
+  ],
+  [
+    "1271",
+    {
+      "question": "International peacekeeping forces are considered to be the ——- to solving conflicts in many international hotspots.",
+      "option": [
+        "(A) potential",
+        "(B) prerequisite",
+        "(C) victors",
+        "(D) condition"
+      ],
+      "translation": "【問題文訳】「国際平和維持軍は、多くの国際的な紛争地帯の紛争解決には不可欠なものであると考えられている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文全体の意味と選択肢の意味から判断する。(A)のpotentialは「可能性、潜在性」、(B)のprerequisiteは「必要条件、不可欠なもの」、(C)のvictorは「勝者」、(D)のconditionは「条件」である。こうした意味から考えると、(B)のprerequisiteが適することになる。"
+    }
+  ],
+  [
+    "1273",
+    {
+      "question": "Rearranging the office layout was a strenuous ——- which required two full days of work.",
+      "option": [
+        "(A) game",
+        "(B) play",
+        "(C) activity",
+        "(D) gambit"
+      ],
+      "translation": "【問題文訳】「オフィスの再配置は、丸二日の作業を必要とした骨の折れる作業だった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとに、空所の語を説明する「関係代名詞節」が続いている。この内容から考えよう。(A)のgameは「試合、勝負」という意味で、オフィスの再配置と「骨の折れる…」との関連がない。(B)のplayも「遊び」あるいは「劇」という意味で、strenuousとしっくりこない。(C)のactivityが「行為」で合っている。(D)のgambitは「戦術、方策」という意味で、これも空所あとの内容に比べると大げさである。"
+    }
+  ],
+  [
+    "1275",
+    {
+      "question": "The ——- of the new building is central Dallas, where 80 percent of our clients are located.",
+      "option": [
+        "(A) place",
+        "(B) site",
+        "(C) set",
+        "(D) construction"
+      ],
+      "translation": "【問題文訳】「新しいビルの建設用地はダラス中心街で、そこには当社のクライアントの八割がいます」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所にあてはまる名詞の意味、そして、is central Dallasの表現から考える。central Dallasの前に前置詞がないことをヒントとすること。(A)のplaceと(D)のconstructionの場合、in central Dallasのように前置詞が必要である。(B)のsiteがcentral Dallasそのものを指し、Central Dallas is the site of the new building.と表現することができるので、これが正解。(C)のsetは意味が合わない。"
+    }
+  ],
+  [
+    "1277",
+    {
+      "question": "The red of the car and the red of her dress were a perfect ——- with the rest of the advertisement looking quite dull.",
+      "option": [
+        "(A) pair",
+        "(B) contrast",
+        "(C) couple",
+        "(D) match"
+      ],
+      "translation": "【問題文訳】「広告のほかの部分がかなり味気ないものだったので、車の赤と彼女のドレスの赤はぴったりとマッチしていた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】(A)のpairは2つで1組になるものを言う。ここでは「車と服の色の取り合わせ」を指しているので、pairとは言えない。(B)のcontrastは「対」になるものを言う。(C)のcoupleは基本的に「男女の1組」ということ。「もの」について言う場合でも、「同じものを2つ」なので、pairとほぼ同意。(D)のmatchが人と人、人と物、物と物のいずれの組み合わせにも使え、違うものの組み合わせにも使えるので、これが適切である。"
+    }
+  ],
+  [
+    "1279",
+    {
+      "question": "The plays of the author collectively are among the most difficult ——- for English speakers to understand.",
+      "option": [
+        "(A) products",
+        "(B) deeds",
+        "(C) actions",
+        "(D) works"
+      ],
+      "translation": "【問題文訳】「その作家の演劇は総じて、英語を話す人にとって最も理解しにくい作品に属する」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所には、文頭のThe playsを総称する名詞が入ることになる。文学や芸術の分野での「作品」は(D)のworkを使う。(A)のproductは「製品・生産物」という意味で、「芸術作品」には使わない。(B)のdeedは「行為」である。そして、(C)のactionは「動作」で、いずれも意味が違う。なお、among the most … のあとには、必ず＜形容詞＋複数形の名詞＞が続く。"
+    }
+  ],
+  [
+    "1281",
+    {
+      "question": "The paintings in that museum are considered to be some of the most valuable ——- in the world.",
+      "option": [
+        "(A) collections",
+        "(B) pieces",
+        "(C) resources",
+        "(D) sights"
+      ],
+      "translation": "【問題文訳】「その美術館の絵画は、世界で最も価値のある作品だと考えられている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の語が文のどれを指すのかを判断しよう。some of the most valuable …となっているので、paintingsを言い換えたものであることが分かる。作品の1つ1つを表現していることに注意すること。(A)のcollectionは「収集物全体」を表すので、ここでは不適切である。(B)のpieceが、絵画などの1点を指す場合に使われる。(C)のresourceは「資源、資産」、(D)のsightは「景色」で、いずれも文全体の意味に合わない。"
+    }
+  ],
+  [
+    "1283",
+    {
+      "question": "The concert by the air force brass band has been cancelled due to a ——- of funding.",
+      "option": [
+        "(A) source",
+        "(B) failure",
+        "(C) lack",
+        "(D) commitment"
+      ],
+      "translation": "【問題文訳】「空軍のブラスバンド・コンサートは資金不足のため中止された」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとのof fundingから「不足」という意味を表す語が当てはまることになる。(A)のsourceは「源」で、「資金源のためにキャンセル」というのは、意味が合わない。(B)のfailureは「失敗」で合いそうだが、fundingは「資金を出すこと」なので、意味が逆になる。(C)のlackが「不足」という意味で適切である。(D)のcommitmentは「遂行」で、これも意味が合わない。"
+    }
+  ],
+  [
+    "1285",
+    {
+      "question": "The ——- of the storm could not be determined until a survey was conducted the following day.",
+      "option": [
+        "(A) severity",
+        "(B) occasion",
+        "(C) loss",
+        "(D) accidents"
+      ],
+      "translation": "【問題文訳】「そのあらしの激しさは、翌日調査が実施されるまで分からなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】until以降の内容から判断する。(A)のseverityが「天候の激しさ」を意味し、「翌日に調査して初めて判明した」という内容と合っている。(B)のoccasionは「起きたこと、引き起こした原因」なので、storm自体には使えない。(C)のlossは「利益の損失」だが、「災害の損失」には使わない。(D)のaccidentは「偶発事故」を表し、これもuntil以降の内容と合わない。"
+    }
+  ],
+  [
+    "1287",
+    {
+      "question": "The newspaper promised not to ——- its sources in the award-winning corruption series.",
+      "option": [
+        "(A) add",
+        "(B) preview",
+        "(C) recollect",
+        "(D) reveal"
+      ],
+      "translation": "【問題文訳】「新聞社は、受賞の不正に関する連載記事の取材元を明かさないと約束した」",
+      "answer": "【解答】D",
+      "explanation": "【解説】promised not toのあとに続く動詞であることを念頭に考えよう。its sourceは「その情報源」のこと。新聞と情報源のことを関連付けて考えると、(D)のreveal（暴露する、明かす）が適切である。(B)のpreviewは「前もって見る」、(C)のrecollectはrememberよりやや形式ばった語で「思い出す」という意味なので、いずれも「情報源」に対しては表現が弱い。"
+    }
+  ],
+  [
+    "1290",
+    {
+      "question": "Which ——- is faster for getting to your house, taking the freeway or coming down Center Street?",
+      "option": [
+        "(A) direction",
+        "(B) way",
+        "(C) method",
+        "(D) process"
+      ],
+      "translation": "【問題文訳】「お宅へ伺うには、フリーウェイまたはセンター通りを行くのではどちらが速いですか」",
+      "answer": "【解答】B",
+      "explanation": "【解説】for getting to your houseが「行くべき道［方法］」を表している。この語句の意味との兼ね合いで考える。(A)のdirectionは、もともと｢方向」という意味で、「行く方法」や「かかる時間」などの意味合いは含まない。(B)のwayが「方法」や「方角、時間」などを含む意味合いの語で、適している。(C)のmethodは「方法、手段」なので、fasterと合わない。(D)のprocessも「行く過程」を示し、「全体でかかる時間」などは含まない。"
+    }
+  ],
+  [
+    "1292",
+    {
+      "question": "In order to insure your satisfaction, all of our equipment comes with a money-back ——-.",
+      "option": [
+        "(A) receipt",
+        "(B) warrant",
+        "(C) guarantee",
+        "(D) sale"
+      ],
+      "translation": "【問題文訳】「お客様のご満足を保証するため、私どもの全ての機器には返金保証がついております」",
+      "answer": "【解答】C",
+      "explanation": "【解説】with a money-back …の意味を考えよう。money-backは形容詞で「返金の」という意味。「返金する何か｣が付いているということ。選択肢の中では(C)のguarantee（保証）が適切である。「返金保証がついている機器」ということになる。(B)のwarrantは「証明書、根拠」という意味。warrantyであれば「保証」という意味で、空所にも合うが、厳密にはwarrantyは「保証そのもの」を指す。guaranteeが「約束」を指す。"
+    }
+  ],
+  [
+    "1294",
+    {
+      "question": "Some highly addictive medicines are stored in a locked ——- which requires two different keys for it to be opened.",
+      "option": [
+        "(A) dresser",
+        "(B) hamper",
+        "(C) cabinet",
+        "(D) hospital"
+      ],
+      "translation": "【問題文訳】「高い中毒性を持ついくつかの薬は、鍵のかかるキャビネットに保管され、開けるには2つの別個の鍵が必要である」",
+      "answer": "【解答】C",
+      "explanation": "【解説】(A)のdresserには2つの意味があり、1つは「着付け師」、もう1つは「化粧台、食器戸棚」である。後者はここで当てはまりそうだが、薬を保管する物には使わない。(B)のhamperは「大型のバスケット」で食物を入れる物を言う。(C)のcabinetが「物を入れる棚」を指すので適切である。(D)のhospitalは「病院」で、「薬を在庫しておくもの」ではない。"
+    }
+  ],
+  [
+    "1296",
+    {
+      "question": "Taxpayers who overpaid their taxes last year get a ——- from the government by way of a check or bank transfer.",
+      "option": [
+        "(A) bill",
+        "(B) refund",
+        "(C) return",
+        "(D) debit"
+      ],
+      "translation": "【問題文訳】「去年税金を納めすぎた納税者は、小切手か銀行振り込みで政府から還付金が来る」",
+      "answer": "【解答】B",
+      "explanation": "【解説】(A)のbillは多義語で、様々な意味がある。最もよく使われるのは「請求書」で、そのほか「手形、証券」「紙幣」「法案」「広告」「（鳥の）くちばし」などの意味がある。(B)のrefundと(C)のreturnのre-はbackを意味する。refundが「返済金」で適切である。(B)が正解。returnには「金」の意味は含まないので、このままでは「返金」の意味にはならない。(D)のdebitは金融用語で「借方（記載）」という意味。口座からの「自動引き落とし」はdebit authorizationと表現する。"
+    }
+  ],
+  [
+    "1298",
+    {
+      "question": "This recipe calls for a few ——- of parsley to be used as a garnish.",
+      "option": [
+        "(A) drops",
+        "(B) branches",
+        "(C) sprigs",
+        "(D) packages"
+      ],
+      "translation": "【問題文訳】「この献立には付け合わせとしてパセリを少々使います」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「もの」を数える単位は論理的説明がむずかしく、1つ1つ覚えるほかない。parsleyは(C)のsprigで数える。sprigは「小枝」のこと。(A)のdropは液体に用いる語で、「1滴2滴」の意味。(B)のbranchは「小枝」だが。パセリには用いない。文尾にas a garnish（付け合わせとして）という表現があるので、(D)のpackageは大げさで合わない。"
+    }
+  ],
+  [
+    "1300",
+    {
+      "question": "Every day, John feels that he has just too much ——- to finish in one eight-hour shift.",
+      "option": [
+        "(A) job",
+        "(B) work",
+        "(C) labor",
+        "(D) expectation"
+      ],
+      "translation": "【問題文訳】「毎日、ジョンは仕事を抱えすぎ、8時間のシフトでは終わらないと感じている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとのto finishがポイント。つまり、1日の8時間で区切っていけるものである。(A)のjobは「持っている職責、続けている仕事」で、(B)のworkの集まりのようなもの。したがって、(B)が正解。workは「終わらせられるもの」である。(C)のlaborは「労働力」なので、使えない。(D)のexpectationは「予想、期待」で、前に出てくるhe hasの目的語に合わない。"
+    }
+  ],
+  [
+    "1302",
+    {
+      "question": "That restaurant may be expensive, but the food is excellent, and the waiters have a ——- for attentive service.",
+      "option": [
+        "(A) reputation",
+        "(B) degree",
+        "(C) pretension",
+        "(D) knowledge"
+      ],
+      "translation": "【問題文訳】「そのレストランは高いかもしれないが、食事は素晴らしく、ウェイターの気配りのあるサービスが評判である」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとのfor …が参考になる。「…で有名である、…で知られている」などと言う場合、あとにfor …が続く。このfor attentive serviceも「気配りのあるサービスで」という意味である。「評判」という意味の(A) reputationが当てはまる。(B)のdegreeは「度合い」なので、あとの意味と合わない。(C)のpretensionは「…のふり」という意味で、全体の意味が奇妙になる。(D)のknowledgeはあとにof …を伴うのがふつう。"
+    }
+  ],
+  [
+    "1304",
+    {
+      "question": "Dancing is an excellent ——- to express one’s innermost feelings in a visible manner.",
+      "option": [
+        "(A) meditation",
+        "(B) way",
+        "(C) type",
+        "(D) system"
+      ],
+      "translation": "【問題文訳】「内なる感情を目に見える方法で表現するという点で、ダンスは優れた方法である」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにto不定詞が続いていることなどから考えよう。(B)のwayがあとにto不定詞を続け、「…する方法」という意味を表す。(A)のmeditationは「黙想」で文頭のDancingと合わない。(C)のtypeは、他にもいくつか述べられていて、そのうちの1つというような場合に使い、漠然と「方法」という場合には使わない。(D)のsystemは文頭のDancingと合わない。"
+    }
+  ],
+  [
+    "1306",
+    {
+      "question": "The company could ship what they had that day and then send the balance of the customer’s ——- in two weeks.",
+      "option": [
+        "(A) compensation",
+        "(B) order",
+        "(C) adjustment",
+        "(D) completion"
+      ],
+      "translation": "【問題文訳】「その会社は在庫としてあるものはその日に発送することができ、その客の注文の残りは2週間後に送った」",
+      "answer": "【解答】B ",
+      "explanation": "【解説】空所のあとのin two weeksは「2週間後に」ということ。「注文の一部をその日に送り、残りを2週間後に」ということ。the balance of the …となっているので、空所には「注文品」が入ると判断される。(A)のcompensation は「補償（金）、賠償（金）」という意味。balanceと合わない。(B)のorderがthe balance of your order（貴社の注文の残り）で、適切。(C)のadjustmentは「調節」、(D)のcompletionはcompleteの名詞形で、「完成、達成」という意味で、いずれもbalanceと合わないので、不可。"
+    }
+  ],
+  [
+    "1308",
+    {
+      "question": "The passengers were surprised because the total ——- for all the tickets was rather inexpensive.",
+      "option": [
+        "(A) currency",
+        "(B) rent",
+        "(C) prices",
+        "(D) cost"
+      ],
+      "translation": "【問題文訳】「チケット全部の総合額がそんなに高くなかったので乗客たちは驚いた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前のthe totalという修飾語句の意味合いから考えよう。あとに「すべてのチケットの」という意味の語句も続いている。totalは「合計」を意味するので(D)のcostが適切である。(C)のpriceは、通常、「個々のチケットの値段」を言う。(A)のcurrencyは「通貨、貨幣」なので、totalは付かない。(B)のrentの意味が入り込む内容の文ではない。"
+    }
+  ],
+  [
+    "1310",
+    {
+      "question": "The ——- Fred has been studying French is that after graduation he will work in France.",
+      "option": [
+        "(A) reason",
+        "(B) purpose",
+        "(C) meaning",
+        "(D) objective"
+      ],
+      "translation": "【問題文訳】「フレッドがフランス語を勉強しているわけは、卒業後フランスで働くつもりだからだ」",
+      "answer": "【解答】A",
+      "explanation": "【解説】後半のthat節の内容から考えると、文頭の空所には「理由」を意味する語が入ると判断される。「理由」は(A)のreasonである。(B)のpurposeも(D)のobjectiveも「目的」を表す語。フランス語を勉強しているのは「目的」ではない。(C)のmeaningは｢意味」なので、これは意味が合わない。"
+    }
+  ],
+  [
+    "1312",
+    {
+      "question": "Mrs. Simpson has a school board meeting every ——- Thursday night at the high school.",
+      "option": [
+        "(A) next",
+        "(B) regular",
+        "(C) other",
+        "(D) usual"
+      ],
+      "translation": "【問題文訳】「シンプソンさんには、隔週木曜日の夜に高校での教育委員会の会議がある」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にeveryがあることに注意。every other … で「1つおきの、隔…」という意味になる。ここでは「隔週木曜日の夜に」ということ。ほかの選択肢はすべてeveryと共存して使うことはできない。"
+    }
+  ],
+  [
+    "1314",
+    {
+      "question": "During the last quarter of the fiscal year, the company’s profits ——- to an all-time high.",
+      "option": [
+        "(A) soared",
+        "(B) reached",
+        "(C) launched",
+        "(D) made"
+      ],
+      "translation": "【問題文訳】「会計年度の最後の四半期で、その会社の利益は今までで最高になった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにtoという前置詞があるので、空所には自動詞が入る。(B)のreachは「…に届く」という意味で正解に思えるが、実はこの動詞は他動詞で、目的語が直接続く。したがって、toが余分。(D)のmakeも他動詞で、ここには当てはまらない。(A)のsoarが正解。soar to …で「…まで上がっていく」という意味である。(C)のlaunchは「始める」なので意味が合わない。"
+    }
+  ],
+  [
+    "1316",
+    {
+      "question": "Speculation surrounds ——- much longer the stage play will top attendance figures locally.",
+      "option": [
+        "(A) how",
+        "(B) what",
+        "(C) why",
+        "(D) when"
+      ],
+      "translation": "【問題文訳】「その舞台芝居があとどのくらいの期間、地元でトップの入場者数を続けられるだろうかという様々な憶測がある」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにmuch longerという副詞句が続いていることがポイント。あとに副詞句を続けられるのは(A)のhowだけである。このlongerはtopという動詞を修飾する副詞になっている。top longで「長く首位を占める」という意味。このtopが動詞として使われていることにも注目しよう。"
+    }
+  ],
+  [
+    "1318",
+    {
+      "question": "After the bridge opened, ferry service to the island greatly ——-.",
+      "option": [
+        "(A) stopped",
+        "(B) removed",
+        "(C) declined",
+        "(D) destroyed"
+      ],
+      "translation": "【問題文訳】「その橋が開通した後、島へのフェリー運行が大きく減少した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「橋が開通したこと」と「フェリーの運行」の関係から考える。橋の開通によってフェリーの利用客が減ったと判断されるので、(C)のdeclineが適切である。(A)のstopにgreatlyは付かない。(B)のremoveは「取り除く」なので、同じようにgreatlyは使えない。(D)のdestroyも同じ理由から不可。"
+    }
+  ],
+  [
+    "1320",
+    {
+      "question": "The manuscript to “Heaven’s Child” was rejected twice before ——- was turned into a successful movie.",
+      "option": [
+        "(A) what",
+        "(B) it",
+        "(C) ours",
+        "(D) itself"
+      ],
+      "translation": "【問題文訳】「『ヘブンズ・チャイルド』の原稿は2回却下され、その後、大ヒット映画に生まれ変わった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】beforeが接続詞で、これ以降が従属節になっていることに気付くこと。つまり、空所には主語が入る。そして、空所の主語が何を意味するのかを考えよう。「映画に変化した」と言っているので、冒頭のThe manuscriptのことを指していると判断できる。(A)のwhatは文中の何を指すのかが不明で、意味がつながらない。(B)のitがThe manuscriptを指し、適切である。(C)のoursと言う場合は、他に比較するものが必要で、この文では意味がはっきりしない。(D)のitselfは単独では主語にならない。"
+    }
+  ],
+  [
+    "1322",
+    {
+      "question": "The uncut film ——- saw at the preview ran 127 minutes including the credits.",
+      "option": [
+        "(A) it",
+        "(B) reels",
+        "(C) oneself",
+        "(D) the audience"
+      ],
+      "translation": "【問題文訳】「その観客たちが試写会で見た映画のノーカット版は、クレジットも含めて127分あった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとが動詞のsaw（seeの過去形）になっていることに注目する。つまり、空所にはその主語に相当する語が入る。The uncut filmと空所のあいだに関係代名詞が省略されていることを見抜くこと。そして、文全体の述語は真ん中あたりのranである。主語になるのは、(A)のitと(D)のthe audienceである。見るのは映画なので、itはそぐわない。「観客たちが見た」ということで(D)のthe audienceが正解。"
+    }
+  ],
+  [
+    "1324",
+    {
+      "question": "In the space below, indicate ——- date is the most convenient for you to attend the orientation.",
+      "option": [
+        "(A) how",
+        "(B) who",
+        "(C) why",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「オリエンテーションに参加するのに最も都合のよい日を、下の空欄にご記入ください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとに名詞のdateが続いていることがポイント。したがって、あとに冠詞の付かない名詞を続けられる疑問詞が当てはまることになる。したがって(D)のwhichのみが可能。直訳的には「どの日付が最も都合がよいか」となる。"
+    }
+  ],
+  [
+    "1326",
+    {
+      "question": "After graduating from a prestigious university, Mr. Wells first ——- at Topp Manufacturing.",
+      "option": [
+        "(A) employed",
+        "(B) worked",
+        "(C) hired",
+        "(D) recruited"
+      ],
+      "translation": "【問題文訳】「一流大学を卒業後、ウェルズ氏は最初にトップ・マニュファクチュアリング社で働いた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の動詞の主語がMr. Wellsで、「有名大学を卒業した」のもMr. Wellsであることを理解すること。(B)のworkが「働く、勤める」なので、正解。(A)のemployは「雇う」なので、主語になるのは経営者側。雇ってもらう側を主語にする場合は受動態にする。(C)のhireもemployと同じように「雇う」という意味なので、受動態にしなければここでは使えない。(D)のrecruitは「勧誘する」という意味なので、立場が逆。"
+    }
+  ],
+  [
+    "1328",
+    {
+      "question": "Our department has ——- scheduled staff meetings every Monday morning in the conference\nroom.",
+      "option": [
+        "(A) once",
+        "(B) regularly",
+        "(C) often",
+        "(D) frequently"
+      ],
+      "translation": "【問題文訳】「わが部署では、毎週月曜日の朝、会議室で定期的にスタッフ会議を開くことになっている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にhasがあり、あとにscheduledが続いているので、空所には副詞が入る。あとにevery Monday morningとあることがポイント。これを(B)のregularlyで表現している。これが正解。regularly scheduledは「定期的に開かれる」という意味を表す。あとにstaff meetingsが続いているので、scheduledは形容詞と考えることができる。has scheduledを、以前からずっと継続的に行ってきていると言う意味で「継続の完了形」ととることもできる。ほかの選択肢は、いずれもevery Monday morningと適合しない。"
+    }
+  ],
+  [
+    "1330",
+    {
+      "question": "——- are usually higher in department stores than they are in the smaller stores.",
+      "option": [
+        "(A) Prices",
+        "(B) Saleswomen",
+        "(C) Floors",
+        "(D) Dates"
+      ],
+      "translation": "【問題文訳】「小規模店よりデパートのほうが、たいてい値段が高い」",
+      "answer": "【解答】A",
+      "explanation": "【解説】in department storesという語句があり、また、個々の商品について述べているので、(A)のprice（値段）がhigherという形容詞とも合うので、適切である。(B)のsaleswomanはhigherという形容詞で修飾することはできない。(C)のfloorも(D)のdateも同様に意味が通じない。"
+    }
+  ],
+  [
+    "1332",
+    {
+      "question": "The office manager is not ——- as he can never make up his mind.",
+      "option": [
+        "(A) flexible",
+        "(B) supportive",
+        "(C) pessimistic",
+        "(D) decisive"
+      ],
+      "translation": "【問題文訳】「そのオフィスマネージャーは決断力がない。自分で何も決められないのだ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の直前にnotがあることに注意。as以降に「決断できない」と述べられており、(D)のdecisive（断固とした、果断な）が適する。(A)のflexibleは「優柔不断の」なので、notが付けば逆の意味になる。(B)のsupportiveや(C)のpessimisticでは意味が合わない。"
+    }
+  ]
+]

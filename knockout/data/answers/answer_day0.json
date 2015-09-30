@@ -1,0 +1,1502 @@
+[
+  [
+    "210",
+    {
+      "question": "Earlier in the modern era, Olympic-level athletes ——- for several months, unlike the decade-long preparation now commonly seen.",
+      "option": [
+        "(A) had trained",
+        "(B) trains",
+        "(C) trained",
+        "(D) have trained"
+      ],
+      "translation": "【問題文訳】「現在は一般的に見られる10年かけての準備ではなく、現代の初めの頃、オリンピックに出場できるレベルの選手たちは何か月か練習を積むだけだった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】前半の内容がunlike以降と比較されていることに気づくこと。Earlier in the modern eraのことを述べており、過去のことだが、過去形である(C)のtrainedは正解ではない。過去のオリンピックまでのトレーニング期間のことを述べているので、過去形よりも古いことを描写する「過去完了形」を使わなければならない。したがって(A)のhad trainedが適切である。"
+    }
+  ],
+  [
+    "217",
+    {
+      "question": "After strict quality control measures ——-, the brand’s reputation began to recover to the lofty position it had held during the early days of the company.",
+      "option": [
+        "(A) introduced",
+        "(B) had introduced",
+        "(C) were introduced",
+        "(D) have been introduced"
+      ],
+      "translation": "【問題文訳】「厳しい品質管理のやり方が導入されたあと、そのブランドの評判は、会社の創成期にあった高い水準にまで回復し始めた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】introduce は他動詞なので、能動態であれば目的語が必要。この文には目的語がないので、能動態である(A)のintroducedと(B)のhad introducedは使えない。過去形の受動態である(C)のwere introducedが適切である。After …のあとを過去形で述べているので、現在完了形の(D) have been introducedは時制が合わない。"
+    }
+  ],
+  [
+    "221",
+    {
+      "question": "Forty percent of the company’s employees ——- working for the firm since they graduated from college.",
+      "option": [
+        "(A) have been",
+        "(B) will have been",
+        "(C) had been",
+        "(D) will be"
+      ],
+      "translation": "【問題文訳】「その会社の社員の40パーセントが大学を卒業して以来ずっとその会社で勤務し続けている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】since they graduatedのように、sinceのあとが過去形になっていることがポイント。過去のある時期からの継続を表している。「継続」を表す現在完了進行形の典型的な文である。したがって(A)のhave beenが適切である。"
+    }
+  ],
+  [
+    "224",
+    {
+      "question": "Only a small percentage of the seats were occupied by the time the performance ——-; a rare situation for a musical group of this stature.",
+      "option": [
+        "(A) starts",
+        "(B) started",
+        "(C) has started",
+        "(D) had started"
+      ],
+      "translation": "【問題文訳】「公演の開始時間までに座席はごくわずかしか埋まらず、これほど評判の高い音楽グループにしては珍しい状況であった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】by the time … とあることに注目しよう。この表現は、ある時点までの完了を表す。by the time以降よりも前の時点を表す前半の時制がwere occupiedのように過去形になっていることから、少なくとも過去完了形である(D)のhad startedは時制が合わない。そして、現在形の(A) startsと現在完了形の(C) has startedの場合は、主節が未来形になっているはずである。したがって、過去形の(B) startedが正解。いずれも過去のことを述べており、意味も適切である。"
+    }
+  ],
+  [
+    "227",
+    {
+      "question": "The store usually ——- Herbolden cheese in stock, but the strike by the dockworkers union has caused the supply to disappear entirely.",
+      "option": [
+        "(A) has",
+        "(B) has had",
+        "(C) has been having",
+        "(D) had"
+      ],
+      "translation": "【問題文訳】「その店はいつもハーボルデンチーズを置いてあるが、港湾労働者組合のストライキが原因で供給が完全に途絶えてしまった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】状況を考えよう。but以降の主語はunionまで出、述語がhas causedである。つまり、過去のある時点から現在までのことを述べている。基本的に現在完了形は「現在」のことを表す。そして、主節の空所の前にusuallyという「通常のこと」を表す副詞が使われていることからも、文全体では現在のことを表していると判断できる。したがって、(A)のhasが適切である。前半は通常の店の状況を表現しており、後半は、ある出来事による変化を表している。"
+    }
+  ],
+  [
+    "230",
+    {
+      "question": "Currently, most of the employees in the city’s biggest company ——- there for ten years or more.",
+      "option": [
+        "(A) are working",
+        "(B) has worked",
+        "(C) have worked",
+        "(D) had worked"
+      ],
+      "translation": "【問題文訳】「現在、この市で最も大きい会社のほとんどの従業員は、10年かそれ以上、そこに勤めている」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢を見ると、複数形を表すもの、単数形を表すもの、過去を表すものなど、いろいろ含まれているので、主語と時制を考えながら判断する。主語は、most of the employeesで複数を表す。したがって(B)のhas workedをまず除外する。また、(D)のhad workedのような過去完了形は、この文のように単文では使えない。for ten years or moreのようにある期間を表している表現から、現在進行形である(A)のare workingも不適切である。過去のある時点からの継続を表す(C)のhave workedが適切である。"
+    }
+  ],
+  [
+    "233",
+    {
+      "question": "How long would the city have ——- before it received results from the committee choosing the site for the medical convention?",
+      "option": [
+        "(A) to be waiting for",
+        "(B) been waiting",
+        "(C) to wait",
+        "(D) waited"
+      ],
+      "translation": "【問題文訳】「医学会用の会場選びをしている委員会から結果を受け取るまでに、市はどれだけ待ったことだろう」",
+      "answer": "【解答】D",
+      "explanation": "【解説】the cityが主語で、疑問文になっていることに注目。そして、従属節であるbefore以降がit received …と過去形になっていることがポイント。過去よりも前のことを表すので、空所には過去完了が入ることになる。したがって、(A)のto be waiting forと(C)のto waitは時制と意味が合わない。文全体の意味から、(B)のbeen waitingのように進行形を表すものでもない。「過去の仮定」を表すwould have waitedが適切である。この疑問文になっている。"
+    }
+  ],
+  [
+    "235",
+    {
+      "question": "Ever since the actress was a child, she ——- to wear glasses to read.",
+      "option": [
+        "(A) has had",
+        "(B) has",
+        "(C) had",
+        "(D) had had"
+      ],
+      "translation": "【問題文訳】「その女優は子供の頃から、読むときにメガネをかけなければならない」",
+      "answer": "【解答】A",
+      "explanation": "【解説】前半が従属節で、she以降が主節である。従属節がEven since the actress was a childとなっているので、主節は「過去からの継続」を表す現在完了形にすると意味が通じる。Evenは「強意」の副詞である。現在完了形は(A)のhas hadである。"
+    }
+  ],
+  [
+    "238",
+    {
+      "question": "By the time the deliveryman reached the address in the pouring rain, the package ——- substantially dampened.",
+      "option": [
+        "(A) would be",
+        "(B) was",
+        "(C) had been",
+        "(D) has been"
+      ],
+      "translation": "【問題文訳】「配達員がどしゃぶりの中その住所にたどり着いたころには、荷物はびしょ濡れになってしまった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】前半が従属節で、時制は過去。そして、by the time …となっているので、主節はそれ以前の完了を表すことになる。過去よりも前の時制の完了は、(C)のhad beenしかない。"
+    }
+  ],
+  [
+    "240",
+    {
+      "question": "As it happened, the airline ——- obliged to provide accommodations for passengers unable to reach Rome that day due to the storm.",
+      "option": [
+        "(A) am",
+        "(B) was",
+        "(C) will be",
+        "(D) would be"
+      ],
+      "translation": "【問題文訳】「そのとき、航空会社は嵐でローマへ行けなかった乗客に対して、宿泊施設を提供する羽目になった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】As it happenedやthat day due to the stormなどから、過去の内容を表していると判断できる。したがって、(B)のwasが適している。the airlineは単数を表すので、wasが適切である。(D)のwould beは過去時制だが、仮定を表す。文全体では過去の事実を述べているので、これは適切ではない。"
+    }
+  ],
+  [
+    "242",
+    {
+      "question": "One thing passengers need to be mindful of is how long their passports ——- effective.",
+      "option": [
+        "(A) will be",
+        "(B) is",
+        "(C) was",
+        "(D) has been"
+      ],
+      "translation": "【問題文訳】「パスポートがいつまで有効かということは、旅行客が心に留めておく必要があることのひとつである」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文法的に考えよう。how longに導かれる間接疑問文になっている。主語はtheir passportsである。つまり複数形を表すので、あてはまるのは(A)のwill beしかない。ほかの選択肢は、すべて単数を表すので、空所には当てはまらない。"
+    }
+  ],
+  [
+    "244",
+    {
+      "question": "When the coffee finishes brewing, the attendant ——- cups from the pot filling each order as it is posted.",
+      "option": [
+        "(A) has poured",
+        "(B) pours",
+        "(C) poured",
+        "(D) had poured"
+      ],
+      "translation": "【問題文訳】「コーヒーをいれ終わると、接客係は順番通りに注文を処理し、ポットからカップに注ぐ」",
+      "answer": "【解答】B",
+      "explanation": "【解説】まず文頭がWhen the coffee finishes brewingと現在形になっていることに注目しよう。そして、最後もas it is postedと現在形である。つまり、文全体の時制は現在形でないと一貫しない。したがって、(B)のpoursが当てはまる。"
+    }
+  ],
+  [
+    "246",
+    {
+      "question": "As had been originally scheduled, the opera “Carmen” ——- at 7:00 p.m.",
+      "option": [
+        "(A) begins",
+        "(B) will begin",
+        "(C) began",
+        "(D) has begun"
+      ],
+      "translation": "【問題文訳】「元々の予定通り、オペラ『カルメン』は7時に開演した」",
+      "answer": "【解答】C ",
+      "explanation": "【解説】前半のAsからscheduledまでに主語がないが、the opera “Carmen”を指すitが省略されていると考えられる。「…していた通り」という意味になる。この従属節が過去完了になっているので、前後関係の時制を考えると、空所には過去形である(C)のbeganが当てはまると考えるのが適切である。"
+    }
+  ],
+  [
+    "248",
+    {
+      "question": "Jonathan ——- work early on May 27th because he needs to appear in court as a witness to a traffic accident.",
+      "option": [
+        "(A) was leaving",
+        "(B) leaves",
+        "(C) left",
+        "(D) is leaving"
+      ],
+      "translation": "【問題文訳】「ジョナサンは5月27日は早退する。交通事故の目撃者として出廷する必要があるからだ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】冒頭から27thまでが主節で、because以降が「…なので」という意味の従属節である。従属節がhe needs toと現在形になっていることから、主節の時制は過去形ではないことになる。したがって(A)のwas leavingと(C)のleftは除外できる。また、単純現在の(B) leavesでは習慣的に「早退する」ということになり、because以降の理由と合わないため、不自然。(D)のis leavingが正解。現在進行形で近い未来を表している。is going to leaveとしても意味は同じ。前から予定している将来のことを表すときは、このように現在進行形で表現することが多い。"
+    }
+  ],
+  [
+    "250",
+    {
+      "question": "The owner thought he had put his dog in the house, but when he arrived at the bus stop, he found that the dog ——- him.",
+      "option": [
+        "(A) is following",
+        "(B) has been following",
+        "(C) had followed",
+        "(D) would follow"
+      ],
+      "translation": "【問題文訳】「その飼い主は犬を家に置いてきたと思ったのに、バス停に着くと犬がついてきていたことに気づいた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】foundのあとのthat以降は「…ということ」という意味の名詞節になっている。その前がhe found thatと過去時制なので、that以降は時制の一致で過去または過去完了になるはず。よって、現在形である(A)のis followingと(B)のhas been followingは時制が合わない。(D)も本来の時制はthe dog will follow himなので、これも意味が合わない。時制の一致で過去完了形になっている(C)のhad followedが正解。"
+    }
+  ],
+  [
+    "252",
+    {
+      "question": "The hikers hurried all the way in the dark so that they could reach the top before the sun ——-.",
+      "option": [
+        "(A) rises",
+        "(B) rose",
+        "(C) raised",
+        "(D) has risen"
+      ],
+      "translation": "【問題文訳】「太陽が昇る前に頂上に着くようにと、ハイカーたちは暗い中をずっと急いだ」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「陽が昇る」はriseで自動詞。文全体は過去のことを述べているので、空所にも過去形が当てはまる。riseの過去形はroseで、(B)が正解。(A)のrisesは現在形。(C)のraisedはraise（「持ち上げる」という意味で他動詞）の過去形である。"
+    }
+  ],
+  [
+    "254",
+    {
+      "question": "A largely female audience in the theater ——- the newly released movie and cried at the sad ending.",
+      "option": [
+        "(A) watch",
+        "(B) watching",
+        "(C) watched",
+        "(D) had watched"
+      ],
+      "translation": "【問題文訳】「映画館の大多数が女性だったその観客は、その新作映画を見て、その悲しい結末に涙を流した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】あとにand criedと続いていることに注目しよう。等位接続詞のandで結ばれた重文であり、同時に起きたことを述べているので、時制は同じ過去形が当てはまる。したがって、(C)のwatchedが正解。主語はA largely female audience in the theater（ほとんどが女性だったその映画館の観客）で、単数形を表す。"
+    }
+  ],
+  [
+    "256",
+    {
+      "question": "Walk to the left along Barnes Street, keeping the railway tracks to the left until you ——- a short incline.",
+      "option": [
+        "(A) would reach",
+        "(B) had reached",
+        "(C) will reach",
+        "(D) reach"
+      ],
+      "translation": "【問題文訳】「バーンズ通りの左側を歩き、常に線路を左手に見て行けば、短い坂道に行き当たります」",
+      "answer": "【解答】D",
+      "explanation": "【解説】道順の説明をしている文なので、現在の事実を述べており、現在時制が適当。until以降は「…するまで」という意味を表す節で、意味上は未来のことを表すが、「条件、時」を表す従属節の中では、未来のことを表す場合でも現在形を用いるので、未来形の(C) will reachは不可。"
+    }
+  ],
+  [
+    "258",
+    {
+      "question": "If Mr. Bradley ——- during the meeting, invite him to meet the other engineers after work for a drink tonight.",
+      "option": [
+        "(A) calls",
+        "(B) has called",
+        "(C) called",
+        "(D) had called"
+      ],
+      "translation": "【問題文訳】「ブラッドレーさんが会議中に電話をかけてきたら、今晩、仕事の後、他のエンジニアと顔合わせの飲み会に誘ってください」",
+      "answer": "【解答】A",
+      "explanation": "【解説】invite him以降が主節で、命令文になっている。そして、文頭からmeetingまでがif節である。命令文は基本的に未来のことを表すので、if節の中も未来のことを表していることになる。「条件や時」を表す従属節では、未来のことを表す場合でも現在形になるので、(A)のcallsが正解である。"
+    }
+  ],
+  [
+    "260",
+    {
+      "question": "Nigel Waxworth ——- in Africa a few weeks ago to do research for his upcoming novel, “Moon Behind Clouds.”",
+      "option": [
+        "(A) is arriving",
+        "(B) arrives",
+        "(C) arrived",
+        "(D) has arrived"
+      ],
+      "translation": "【問題文訳】「ナイジャル・ワックスワースが次回作の小説『雲に隠れた月』の下調べのため、数週間前にアフリカに到着した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】a few weeks agoという過去の時点を示す語句がある。したがって、(C)のarrivedが正解。(D)のhas arrivedは現在完了形。現在完了形が過去のことを表すと誤解している人も多いが、現在完了形は、意味的には現在のことを表す。また、a few weeks agoのように確実に過去のことを表す表現といっしょに現在完了形は使えない。"
+    }
+  ],
+  [
+    "262",
+    {
+      "question": "When the world-known chemist goes to the United States next month, he ——- there three times.",
+      "option": [
+        "(A) have been",
+        "(B) go",
+        "(C) will go",
+        "(D) will have been"
+      ],
+      "translation": "【解答】D",
+      "answer": "【解説】When節の中はgoes to …のように現在形になっているが、next monthとなっており、内容は未来のことである。そして、文尾にthree timesと経験を表す表現が出ているので、未来完了形を表す(D)のwill have beenが正解。いわゆる未来完了形である。完了形の中のbeenは「行った」という意味を表す。",
+      "explanation": "【重要語句】\nchemist「化学者」"
+    }
+  ],
+  [
+    "264",
+    {
+      "question": "Throughout the photo shoot, the model ——- on the edge of the cliff, looking toward the city in the distance below.",
+      "option": [
+        "(A) stand",
+        "(B) is standing",
+        "(C) stands",
+        "(D) stood"
+      ],
+      "translation": "【問題文訳】「写真撮影の間、モデルは崖の切り端に立って、はるか眼下に見える街の方角を眺めていた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】主語はthe modelで「3人称単数」である。したがって、(A)のstandはまず除外できる。文の中では、Throughout the photo shootがどういう意味合いの語句なのかを考えよう。ある長さの時間を表す表現で、実質上、過去のことを述べている。したがって(D)のstoodが適切である。"
+    }
+  ],
+  [
+    "266",
+    {
+      "question": "Sue and Bill Henderson ——- married for almost 10 years, yet they still own separate cars.",
+      "option": [
+        "(A) are",
+        "(B) have been",
+        "(C) will have",
+        "(D) got"
+      ],
+      "translation": "【問題文訳】「スーとビル・ヘンダーソンは結婚してもうすぐ十年になるが、未だにそれぞれ別の車を所有している」",
+      "answer": "【解答】B",
+      "explanation": "【解説】for almost 10 yearsがポイント。期間を表す表現である。そして、yet以降に現在形が使われている。つまり、過去から現在までの10年間のことを述べているのである。したがって、過去のある時点から現在までの「継続」を表す(B)のhave beenが適切である。"
+    }
+  ],
+  [
+    "268",
+    {
+      "question": "The driver was in trouble when the police officer examined her license because he noticed it ——- several days before the traffic accident.",
+      "option": [
+        "(A) will expire",
+        "(B) is going to have expired",
+        "(C) expires",
+        "(D) had expired"
+      ],
+      "translation": "【問題文訳】「警察官がその運転手の運転免許証を調べ、交通事故の数日前にその有効期限が切れていることに気づいたため、彼女は面倒なことになってしまった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢として同じ単語（expire）の活用語句が並んでいるので、文法的に適切なものを考えよう。空所のあとに「交通事故の数日前に」という語句がある。空所の前はhe noticed itと過去形になっているので、それよりも以前のことを表すには過去完了形である(D)のhad expiredが適切である。"
+    }
+  ],
+  [
+    "270",
+    {
+      "question": "The final question on the last page of the bank’s home improvement loan application asked when the money ——-.",
+      "option": [
+        "(A) would repay",
+        "(B) would be repaid",
+        "(C) had repaid",
+        "(D) was repaying"
+      ],
+      "translation": "【問題文訳】「銀行の改築費用ローン申込書の最終ページにある最後の質問は『借入金の返済はいつか』であった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢にrepayの活用語句が並んでいる。時制や文法の観点で見ていこう。まず、文全体の動詞がaskedであり、あとに続くwhen以下は目的語を表す「間接疑問文」である。間接疑問文では、疑問詞のあとは＜主語＋述語＞の平叙文の語順になる。ローンの返済は借りる後のことなので、未来形で表されるはずだが、askedが過去形になっているので、「時制の一致」でwillの過去形が使われている(A)のwould repayか(B)のwould be repaidが適する。ローンは「支払われる」ものなので、受動態の(B)が正解。"
+    }
+  ],
+  [
+    "272",
+    {
+      "question": "Rain ——- at the moment the opening ceremony of the athletic competition began, and yet the stadium was filled with people eager to witness the historic moment.",
+      "option": [
+        "(A) is falling",
+        "(B) was falling",
+        "(C) falls",
+        "(D) would fall"
+      ],
+      "translation": "【問題文訳】「その陸上競技会の開会式が始まったときは雨が降っていたが、スタジアムは歴史的瞬間を目撃しようという熱心な人々で埋まっていた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】fallを使った活用語句が選択肢に並んでいる。時制と文法の観点から考えよう。空所のあとのat the momentは、whenと同じように「…のとき」という接続詞的な意味と役割になっている。この節の動詞であるbeganの意味と時制に合わせて考えると、過去進行形のwas fallingが適切だと判断できる。したがって(B)が正解。"
+    }
+  ],
+  [
+    "274",
+    {
+      "question": "Election coverage ——- as soon as the polling stations close in the westernmost time zone according to the agreement among the networks.",
+      "option": [
+        "(A) will begin",
+        "(B) would begin",
+        "(C) would have begun",
+        "(D) was beginning"
+      ],
+      "translation": "【問題文訳】「マスコミ間の協定に基づいて、選挙報道は、最西端の時間帯にある投票所が閉まるとすぐに始まる予定になっている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文全体の意味と時制から考える。空所までが主節でas soon as以降が従属節になる。従属節の主語はthe polling stationsで動詞はcloseである。closeが現在形になっていることから、内容的には未来形であると判断できる（文法的に、「時」や「条件」を表す従属節の中では、内容的に未来であっても現在形で表す）。したがって、主節の空所も未来形の(A) will beginが適切である。"
+    }
+  ],
+  [
+    "276",
+    {
+      "question": "The Argentine team ——- to win every game at the last tournament held in Italy, but the result was not nearly as positive as that.",
+      "option": [
+        "(A) can expect",
+        "(B) were to expect",
+        "(C) was expected",
+        "(D) expects"
+      ],
+      "translation": "【問題文訳】「イタリアで行われたこの前のトーナメントで、アルゼンチンのチームが全試合に勝つと思われたが、結果はまったく予想外れだった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢に、expectという動詞の活用語句が並んでいる。能動態や受動態も含まれているので、主語であるThe Argentine teamの性質を考えて選ぶ。but以降が過去形になっているので、(A)のcan expectと(D)のexpectsは時制が合わない。(C)は「期待することになっていた」となり、全体として意味がおかしい。したがって「期待されていた」という意味の(C)が正解。"
+    }
+  ],
+  [
+    "278",
+    {
+      "question": "Recently, wild hawks ——- nesting atop downtown skyscrapers as the species recovers its position in the environment.",
+      "option": [
+        "(A) have been sighted",
+        "(B) sighted",
+        "(C) have sighted",
+        "(D) will be sighted"
+      ],
+      "translation": "【問題文訳】「最近、野生のタカが環境の中でその境遇を回復してくるにつれ、街の中心街の高層ビルの上に巣をかけているのが観測されてきている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文全体の時制と、主語のwild hawksの意味と性質から考える。まず、文頭にRecentlyとあるので、過去形あるいは現在完了形が適切である。よって、未来形の(D)は合わない。(B)のsightedと(C)のhave sightedは、時制は適切だが、能動態になっているところが不適切。タカは「観測される」側なので、受動態にするのが適切である。したがって、受動態の現在完了形になっている(A)が正解。"
+    }
+  ],
+  [
+    "280",
+    {
+      "question": "Thousands of runners ——- to get ready for the city’s famous marathon scheduled for next month.",
+      "option": [
+        "(A) to jog",
+        "(B) are being jogged",
+        "(C) have been jogging",
+        "(D) will be jogged"
+      ],
+      "translation": "【問題文訳】「来月に予定されている有名な市民マラソンに出場する準備のため、何千人ものランナーたちがジョギングを続けている」",
+      "answer": "【解答】C",
+      "explanation": "【解説】いろいろな時制の語句が並んでいる。時制を考える問題。ただ、文尾のfor next monthに惑わされないこと。来月にあるのはマラソンであって、ランナーたちの行為を表すものではない。マラソンに備えて「走り続けてきている」という意味になる現在完了進行形のhave been joggingが適切である。したがって(C)が正解。空所の部分が文全体の述部に相当するので、(A)のto jogでは述部にはならない。(B)のare being joggedと(D)のwill be joggedは受動態になっているのが間違い。jogは「ジョギングをする」という意味では自動詞。「…を呼び起こす」とか「…の方向を変える」という意味では他動詞。"
+    }
+  ],
+  [
+    "282",
+    {
+      "question": "When the chairman addressed the journalists, he ——- at length about his plans for the future of the company.",
+      "option": [
+        "(A) speaks",
+        "(B) spoke",
+        "(C) has spoken",
+        "(D) will speak"
+      ],
+      "translation": "【問題文訳】「会長が記者たちに向かって演説をした際、彼は会社の将来に向けた計画について長々と話をした」",
+      "answer": "【解答】B",
+      "explanation": "【解説】同じ動詞を使った表現が選択肢に並んでいるので、文法あるいは時制の観点から考える。文頭のWhenからコンマまでが従属節で「時」を表し、過去形になっている。したがって、文全体の意味から考えても、主節のhe以降も過去形にするのが適切である。過去形は(B)のspokeである。(C)の現在完了形であるhas spokenは、過去のある時点を表す表現（when以下の節のこと）といっしょには使えない。"
+    }
+  ],
+  [
+    "284",
+    {
+      "question": "The message listed below ——- at 12:09 by Paula Swanson on the 17th of December.",
+      "option": [
+        "(A) will be taken",
+        "(B) is taken",
+        "(C) was taken",
+        "(D) had took"
+      ],
+      "translation": "【問題文訳】「下に記したメッセージは、12月17日12時9分にポーラ・スワンソンが受けました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとに、具体的な日時が出ている。そして、主語のThe message listed belowは「伝言」で、「取られる側」になるので、過去形の受動態が適している。過去形の受動態は(C)のwas takenである。"
+    }
+  ],
+  [
+    "286",
+    {
+      "question": "The receipt stated that the prints from the film ——- ready to be picked up at 3:00 p.m.",
+      "option": [
+        "(A) will be",
+        "(B) would be",
+        "(C) have been",
+        "(D) was"
+      ],
+      "translation": "【問題文訳】「受領証にはフィルムの現像は午後3時には受け取れると記されていた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあるthat以降の文（従属節）は本来 “the prints from the film will be ready to be picked up”である。主節の動詞statedが過去時制なので、時制の一致によってwouldと過去形にするのが適切である。したがって(B)のwould beが正解。"
+    }
+  ],
+  [
+    "288",
+    {
+      "question": "On our recent trip to Salt Lake City last winter, we often went skiing at the resorts that ——- the city.",
+      "option": [
+        "(A) will adjoin",
+        "(B) are adjoining",
+        "(C) adjoin",
+        "(D) had adjoined"
+      ],
+      "translation": "【問題文訳】「この前の冬のソルトレイクシティーへの旅行では、街に隣接したリゾート地でよくスキーをした」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢にあるadjoinはwillのあとに続いていることから動詞である。「…に隣接する」という意味で他動詞である。そして、空所の前のthatは関係代名詞。先行詞はthe resortsで、複数形を表す。the resorts以降は「現在の事実」を表現しているので、現在形で表すのが適切である。したがって(C)のadjoinが正解。「隣接している」という日本語から(B)のare adjoiningを選ばないこと。adjoinのように「状態」を表す動詞を進行形にすると「隣接しつつある」という意味になり、文意がおかしくなる。"
+    }
+  ],
+  [
+    "290",
+    {
+      "question": "Customers may receive refunds if they ——- the product within a week of its purchase.",
+      "option": [
+        "(A) return",
+        "(B) returned",
+        "(C) have returned",
+        "(D) had returned"
+      ],
+      "translation": "【問題文訳】「購買者は購入後1週間以内に製品を返せば、返金を受けることができる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】if以降が「もし…であれば」という意味の「条件節」を表すことに注目すること。条件節の中では、未来の内容を表す場合でも時制は現在形になるので、(A)のreturnが適切である。日本語の「もし…したら」などに惑わされないこと。主節がmay receiveとなっているので、加仮定法ではない。"
+    }
+  ],
+  [
+    "300",
+    {
+      "question": "If you do not arrive at the airport an hour early, you ——- likely to fail to get a seat.",
+      "option": [
+        "(A) are",
+        "(B) would",
+        "(C) will",
+        "(D) have"
+      ],
+      "translation": "【問題文訳】「1時間前に空港にお着きになりませんと、席がなくなる場合もございます」",
+      "answer": "【解答】A",
+      "explanation": "【解説】従属節が単なる条件節であることと、空所のあとのlikelyにto fail …という不定詞が続いていることに注意。likelyは副詞なので、省いても文法は成立する必要がある。選択肢の中でto不定詞が文法的に続くのは(A)のareと(D)のhaveだけである。意味から考えると、「…することになる」という意味のbe to …が当てはまる。したがって(A)が正解。"
+    }
+  ],
+  [
+    "304",
+    {
+      "question": "Mr. White is ——- Ms. Hawthorne on March 16th, and they intend to have their wedding outdoors by the lake.",
+      "option": [
+        "(A) getting married",
+        "(B) marrying",
+        "(C) married to",
+        "(D) married for"
+      ],
+      "translation": "【問題文訳】「ホワイト氏は3月16日にホウソーンさんと結婚し、彼らは池のほとりの屋外で式を挙げるつもりだ」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとに直接人名が続いていることがポイント。(A)のget marriedの場合、toという前置詞が必要。(B)のmarryが他動詞で、あとにすぐ人名を続ける。したがって、この(B)が正解。(C)のmarried toはもうすでに結婚している状態を表すので、on March 16thと合わない。(D)のmarried forはmarry for money（金のために結婚する）のように使い、人は続かない。"
+    }
+  ],
+  [
+    "308",
+    {
+      "question": "The deliveryman was in a hurry, so he ——- the package just outside the door and left.",
+      "option": [
+        "(A) lay",
+        "(B) lain",
+        "(C) lied",
+        "(D) laid"
+      ],
+      "translation": "【問題文訳】「配達人は急いでいたため、荷物をドアのすぐ外に置いて行ってしまった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにthe packageという目的語があるので、空所には他動詞が入る。したがってlay（置く、横たえる）の過去形の(D) laidが正しい。(A)のlayはlay（置く）の原形かlie（横たわる）の過去形である。この文では「横たわる」という意味は合わない。(B)のlainはlieの過去分詞。(C)のliedは「うそをつく」のlieの過去形。"
+    }
+  ],
+  [
+    "310",
+    {
+      "question": "Most of the sales clerks ——- ever since the sale began ten hours earlier.",
+      "option": [
+        "(A) are being worked",
+        "(B) are to work",
+        "(C) been worked",
+        "(D) had been working"
+      ],
+      "translation": "【問題文訳】「ほとんどの販売員は、その10時間前に販売が始まってからずっと働きづめだった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】since the sale began …がポイント。過去のある時点からの継続を表している。完了形が適している。そして、earlierとなっているので、過去のある時点よりも10時間前のことである。したがって、過去完了を表す(D)のhad been workingが適している。"
+    }
+  ],
+  [
+    "312",
+    {
+      "question": "Viewers ——- not tell whether the announcer was happy or upset until her face broke into a smile.",
+      "option": [
+        "(A) would",
+        "(B) should",
+        "(C) could",
+        "(D) did"
+      ],
+      "translation": "【問題文訳】「視聴者はアナウンサーがにっこりするまで、彼女が喜んでいるのか気分を悪くしているのかわからなかった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】あとにwhether … or ～があるので、このtellは「…かどうかを見分ける」という意味で使われている。空所のあとにnotがあるので、「…か～か見分けられなかった」という意味になり、(C)のcouldだけが当てはまる。"
+    }
+  ],
+  [
+    "314",
+    {
+      "question": "The new Italian restaurant, Sicilian Harbor, ——- in today’s life section for its seafood dishes.",
+      "option": [
+        "(A) recommends",
+        "(B) is recommending",
+        "(C) recommended",
+        "(D) is recommended"
+      ],
+      "translation": "【問題文訳】「シチリアン・ハーバーという新しいイタリア料理店がそのシーフード料理で今日の生活面に推奨されている」",
+      "answer": "【解答】D",
+      "explanation": "【解説】recommendと「推奨する」立場を考えよう。レストランは推奨される側なので、受動態の(D) is recommendedが適切である。ほかの選択肢はすべて能動態なので、主語がレストランであるこの文には合わない。"
+    }
+  ],
+  [
+    "316",
+    {
+      "question": "According to flight regulations, everyone ——- to wear a seatbelt during takeoff and landing.",
+      "option": [
+        "(A) requires",
+        "(B) is required",
+        "(C) will require",
+        "(D) required"
+      ],
+      "translation": "【問題文訳】「飛行規則により、どなた様も離着陸の際にはシートベルトをご着用ください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のeveryoneはシートベルトの着用を要請されている側であるから、受動態の(B) is requiredが入る。(A)と(C)は能動態なので不可。(D)は過去形と過去分詞の両方が考えられる。前者では能動態になるので不可。また、後者では、意味は受け身になるが、述語動詞がないので文が成立しなくなる。"
+    }
+  ],
+  [
+    "318",
+    {
+      "question": "The elderly woman became so ill that she ——- be cared for by her daughter.",
+      "option": [
+        "(A) had to",
+        "(B) must",
+        "(C) ought to",
+        "(D) should"
+      ],
+      "translation": "【問題文訳】「その老女は大きく体調を崩したので、娘に面倒を見てもらわねばならなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】so … that ～（あまりにも…なので～）という意味のso … thatの構文になっている。that以降の節の中では助動詞が使われ、そして、主節と時制を一致させる。主節がbecameと過去形なので、過去の意味を持たない(B)のmustは除外される。「面倒を見てもらう」という意味合いと時制から考えると、(C)のought toや(D)のshouldは不適切である。mustの過去の意味を表す(A)のhad toが適している。"
+    }
+  ],
+  [
+    "320",
+    {
+      "question": "The oven in Apartment 209 is so old it ——- to be preheated for half an hour before it can be used.",
+      "option": [
+        "(A) may",
+        "(B) must",
+        "(C) has",
+        "(D) will"
+      ],
+      "translation": "【問題文訳】「209号室のオーブンはとても古く、使えるようになるまでに30分予熱しなくてはならない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】so … that ～（あまりにも…なので～）の構文になっているが、thatが省略されている。そして、空所のあとにto beという不定詞が続いているので、当てはまるのは(C)のhasだけである。ほかの選択肢はすべて助動詞で、あとには動詞の原形が続く。"
+    }
+  ],
+  [
+    "323",
+    {
+      "question": "The guests in Room 434 woke up because they heard someone ——- on their door.",
+      "option": [
+        "(A) pounding",
+        "(B) pounded",
+        "(C) to pound",
+        "(D) pound"
+      ],
+      "translation": "【問題文訳】「434号室の宿泊客は、誰かが彼らの部屋のドアを叩くのが聞こえたため、目が覚めた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】hearが視覚動詞で第5文型をとる動詞であることを見抜こう。＜視覚動詞＋目的語＋動詞の原形あるいは現在分詞＞の構文になる。それで、可能性があるのは(A)のpoundingと(D)のpoundだけである。あとは、意味合いから考える。ドアは何度も続けて叩くものであるから、進行形の意味を持つpoundingが適切である。"
+    }
+  ],
+  [
+    "325",
+    {
+      "question": "This garment ——- be washed in cold water and pressed by hand to maintain its shape and size.",
+      "option": [
+        "(A) may",
+        "(B) will",
+        "(C) can",
+        "(D) should"
+      ],
+      "translation": "【問題文訳】「この衣類は必ず冷水で洗い、手で押さえて形とサイズを整えてください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢がすべて助動詞で、空所のあとがbe動詞の原形になっており、文法的にも間違いがないので、意味で判断することになる。衣類の洗濯方法などについて述べている。(A)のmayは「…かもしれない」という意味なので、無責任な記述になる。(B)のwillも同様の意味合いで、不適切である。(C)のcanだと、andの前までの前半だけだと十分に適切な使い方だが、後半の意味とはそぐわない。(D)のshouldが「…すべきだ」という意味で方法を伝えており、適切な助動詞と言える。"
+    }
+  ],
+  [
+    "327",
+    {
+      "question": "Surveys indicate the passengers are often ——- that legroom in the economy section is inadequate.",
+      "option": [
+        "(A) to complain",
+        "(B) complaining",
+        "(C) complained",
+        "(D) complain"
+      ],
+      "translation": "【問題文訳】「調査によると、乗客がエコノミー席の足元の空間が不十分だという不満をよく漏らしているという」",
+      "answer": "【解答】B",
+      "explanation": "【解説】動詞の変化形や活用が並んでいるので、文法や構文、語法などを考えて判断する。oftenの前にareというbe動詞があるので、(D)のcomplainは文法的に合わない。(A)のto complainを続けると「…することになっている」という意味になるが、oftenの意味とそぐわない。areの主語のpassengersは「苦情を言う」側に当たるので、(C)のcomplainedでは受動態になってしまい、意味が逆。(B)のcomplainingが適切である。"
+    }
+  ],
+  [
+    "329",
+    {
+      "question": "When you have ——- with your DVD or video, please return it here no later than the date printed on the receipt provided at the time of rental.",
+      "option": [
+        "(A) been finished",
+        "(B) been finishing",
+        "(C) finished",
+        "(D) finishes"
+      ],
+      "translation": "【問題文訳】「DVDやビデオのご利用を終えたら、貸し出し時に発行したレシートに印字してある日付までに、こちらへご返却ください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】finishの変化形や活用形が並んでいるので、文法から判断する。空所の前にhaveがあるので、まず、(D)のfinishesは文法的に間違い。ほかの3つは過去分詞なので合うが、主語がyouで「…する側」になるので、受動態になる(A)のbeen finishedは意味がおかしい。(B)のbeen finishingは、「終了」を表すfinishという動詞で進行形を表現しているために、「ビデオを見終わる」という意味が伝わらない。(C)のfinishedが正解。通常、「時」を表す従属節では、未来のことを述べるのに現在形を使って表すが、この文のように特に「完了」を表す動詞の場合、現在完了形を使うこともある。"
+    }
+  ],
+  [
+    "331",
+    {
+      "question": "Because Mr. Watts has not come into work for a week, the staff is worried that he ——- have fallen ill.",
+      "option": [
+        "(A) may",
+        "(B) should",
+        "(C) has to",
+        "(D) will"
+      ],
+      "translation": "【問題文訳】「ワッツさんが1週間も出社していないため、その職員は彼が病気になったのではないかと心配している」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢がすべて助動詞で、空所のあとのhaveも原形なので、文法的には正しい。意味で考えよう。the staff is worriedという表現の意味がポイント。ワッツ氏が病気かどうかははっきりしないわけだから、「かもしれない」の(A) mayが適している。"
+    }
+  ],
+  [
+    "333",
+    {
+      "question": "The last time the flight attendant checked, there ——- at least three first-class seats that had not been assigned to anyone.",
+      "option": [
+        "(A) have been",
+        "(B) had",
+        "(C) was",
+        "(D) were"
+      ],
+      "translation": "【問題文訳】「最後に客室乗務員が調べたときには、誰にも割り当てられていないファーストクラスの座席が少なくとも3席残っていた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】be動詞の変化形や活用形が並んでいるので、文法的に考えよう。there is [are]の文では、あとに続く名詞が単数か複数かで判断する。three first-class seatsと複数形になっているので、複数形になる。よって(C)は不可。(B)のhadだけでは意味が通じない。また、文頭のThe last time the flight attendant checkedは過去のある時点のことを示すので、(A)のように現在完了形は文法的に不適切。よって、(D)のwereが正解。"
+    }
+  ],
+  [
+    "335",
+    {
+      "question": "When the review appeared in the newspaper, the restaurant posted it near the entrance so visiting customers ——- read it while they waited to be seated. ",
+      "option": [
+        "(A) did",
+        "(B) should",
+        "(C) had to",
+        "(D) could"
+      ],
+      "translation": "【問題文訳】「新聞にその批評が掲載されると、レストランは、来店客が席に着くのを待っている間に読めるように、それを入口のそばに貼った」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前、visitingの前にsoがあることに気づくことがポイント。つまり、＜so … thatの構文＞になっている。この構文では、thatのあと、主語のあとに助動詞が続き、時制の一致をする。「店の客が読めるように」という意味で、(D)のcouldが適している。"
+    }
+  ],
+  [
+    "337",
+    {
+      "question": "The committee members often ——- individual problems in informal sessions before official votes are taken.",
+      "option": [
+        "(A) discuss",
+        "(B) discuss about",
+        "(C) discuss on",
+        "(D) discuss over"
+      ],
+      "translation": "【問題文訳】「委員会のメンバーは公的な投票が行われる前に、非公式な集まりの中で個々の問題についてよく議論する」",
+      "answer": "【解答】A",
+      "explanation": "【解説】discussの語法に注意。この動詞は「…を議論する」という他動詞で、talk aboutの意味である。日本語に引きずられてdiscuss aboutだと考えないこと。目的語を直接続け、discuss individual problemのように表現する。よって、(A)のdiscuss以外はすべて助動詞を伴っているので間違い。(A)が正解。"
+    }
+  ],
+  [
+    "339",
+    {
+      "question": "The hanging vines which commonly grow in tropical jungles ——- the tiger from the hiker’s view.",
+      "option": [
+        "(A) hiding",
+        "(B) hid",
+        "(C) are hidden",
+        "(D) hides"
+      ],
+      "translation": "【問題文訳】「熱帯のジャングルに一般的に茂っている垂れたツタのせいで、ハイカーたちはトラの姿が目に入らなかった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】この文章からは、過去形か現在形かはすぐに判断できないが、空所に完全な形の動詞が入るということは分かる。つまり、(A)は現在分詞あるいは動名詞なので不可。また、主語のThe hanging vinesは「隠す側」になるので、受動態になっている(C)のare hiddenは意味が合わない。残るは(B)のhidと(D)のhidesだが、主語はvinesで複数形なので、hidesも不可。よって、過去形のhidが正解となる。"
+    }
+  ],
+  [
+    "341",
+    {
+      "question": "The final proposal by the councilman from the fifth district will ——- by the full council the day after tomorrow.",
+      "option": [
+        "(A) examine",
+        "(B) be examining",
+        "(C) be examined",
+        "(D) have examined"
+      ],
+      "translation": "【問題文訳】「第5地区選出の議員による最終法案はあさっての総会で審議される」",
+      "answer": "【解答】C",
+      "explanation": "【解説】主語の述語の一致を考える問題。主語は文頭からdistrictまでだが、その中心となるのはproposalである。この法案は「審議される側」に当たるので、受動態にするのが適切である。よって、(C)が正解となる。"
+    }
+  ],
+  [
+    "343",
+    {
+      "question": "The Chinese ——- it is never too early to teach children that their elders should be respected.",
+      "option": [
+        "(A) believe",
+        "(B) believes",
+        "(C) is believing",
+        "(D) were believed"
+      ],
+      "translation": "【問題文訳】「中国人は目上の人を敬うように子供に教えるのは決して早すぎないと信じている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】主語と動詞の一致を考える問題。主語は文頭のThe Chineseである。これは「中国の人々、中国人」という意味。＜the＋国名形容詞＞は複数扱いとなるので、単数を表す(B)のbelievesと(C)のis believingは正しくない。また、「信じる側」になるので、受動態の(D)ではなく、現在時制の(A) believeを用いるのが正しい。"
+    }
+  ],
+  [
+    "345",
+    {
+      "question": "Whenever the television ——- on, customers tend to remain in the restaurant longer.",
+      "option": [
+        "(A) turns",
+        "(B) is turned",
+        "(C) turned",
+        "(D) turning"
+      ],
+      "translation": "【問題文訳】「テレビがついているといつでも、客はレストランに長く居座る傾向がある」",
+      "answer": "【解答】B",
+      "explanation": "【解説】テレビは「つけられる側」になるので、(A)のturnsや(C)のturnedは能動態を表し、不可。また、wheneverのあとに節＜文の形＞が続きますから、分詞のみの(D) turningも間違い。受動態を表す(B)のis turnedが適切である。"
+    }
+  ],
+  [
+    "347",
+    {
+      "question": "If outsiders ——- call for anyone in the meeting, write a note here with the time and name of the caller clearly indicated.",
+      "option": [
+        "(A) should",
+        "(B) will",
+        "(C) need",
+        "(D) might"
+      ],
+      "translation": "【問題文訳】「もし会議中の誰かに外から電話があったら、ここに、時間と相手の名前をはっきり書いておいてください」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文頭のIfからmeetingまでが「もし…があったら」という意味を表す条件節（あるいは仮定）で、(B)のように、ふつう、未来を表すwillは用いられない。(A)のように助動詞の過去形を用いて仮定を表す。(D)のmightでは、あとの命令文との意味合いが一致しない。(C)のneedはあとにtoを必要とするので、文法的に間違い。"
+    }
+  ],
+  [
+    "349",
+    {
+      "question": "He ——- weigh 200 pounds before he quit drinking, and now he weighs only 175 pounds.",
+      "option": [
+        "(A) had to",
+        "(B) used to",
+        "(C) can",
+        "(D) must"
+      ],
+      "translation": "【解答】B",
+      "answer": "【解説】andで結ばれている「重文」である。andのあとは現在のことを述べているが、前半は、before he quit drinkingと過去のある時点よりも前のことを説明している。quitは「不規則変化動詞」で、quitに「3単現のs」が付いていないので過去形である。過去を表すのは(A)のhad toと(B)のused toである。had toでは意味が合わない。used toが「…だったものだ」という意味で適切である。",
+      "explanation": "【重要語句】\nweigh「…の重さがある」\nquit「…をやめる」"
+    }
+  ],
+  [
+    "351",
+    {
+      "question": "The train from Rochester ——- to arrive at Platform 3 at 10:04 and depart for Albany at 10:10.",
+      "option": [
+        "(A) is supposed",
+        "(B) is supposing",
+        "(C) supposes",
+        "(D) supposed"
+      ],
+      "translation": "【問題文訳】「ロチェスターからの列車は3番線に10時4分に到着し、アルバニーに向けて10時10分に発車する予定だ」",
+      "answer": "【解答】A ",
+      "explanation": "【解説】動詞の用法とイディオムを考える問題。文頭かRochesterまでが主語で、「列車が到着する予定になっている」という意味になると判断できる。supposeという動詞は、be supposed to do …という熟語で「…することになっている」という意味を表す。したがって(A)が正解。"
+    }
+  ],
+  [
+    "353",
+    {
+      "question": "Your credit card is scheduled to ——- in December this year unless you renew it before the end of this month.",
+      "option": [
+        "(A) expire",
+        "(B) expiring",
+        "(C) expires",
+        "(D) be expired"
+      ],
+      "translation": "【問題文訳】「お客様のクレジットカードは今月末までに更新なさいませんと、今年の12月に期限切れになってしまいます」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前にtoがあるからと言って、即座に「不定詞だ」と思うのは危険。ただ、少なくとも、「3単現のs」が付いた(C)のexpiresは間違い。空所の前のis scheduled toはあとに動詞の原形を続け「…することになっている」という意味を表すので、(A)のexpireが正解となる。カードは期限切れになる側に当たるので、(D)のように受動態にするのは間違い。"
+    }
+  ],
+  [
+    "355",
+    {
+      "question": "Prior to being hired to serve as the first violinist for the city symphony, Ms. Clark ——- elsewhere at the professional level for a year.",
+      "option": [
+        "(A) performs",
+        "(B) performed",
+        "(C) was performed",
+        "(D) has been performed"
+      ],
+      "translation": "【問題文訳】「市の交響楽団の第一バイオリニストとして採用される前は、クラークさんは他の場所で1年間プロとして演奏していた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】主語と動詞の一致、そして時制を考える問題。まず時制を考えよう。Prior to …と述べ、過去のある時点より前のことを述べているので、過去形か過去完了形になるはずである。よって、現在形の(A) performsと現在完了形の(D) has been performedは間違い。そして、今度は主語と述語の一致を考える。Mr. Clarkは「演奏する側」なので、能動態が正しい。よって(B)のperformedが正解となる。(C)のwas performedは受動態なので、間違い。"
+    }
+  ],
+  [
+    "357",
+    {
+      "question": "One of the most beautiful natural wonders in North America ——- Niagara Falls, which is located in northern New York and southern Ontario.",
+      "option": [
+        "(A) being",
+        "(B) to be",
+        "(C) are",
+        "(D) is"
+      ],
+      "translation": "【問題文訳】「北アメリカで最も美しい自然の不思議の一つに、ニューヨーク州北部で、オンタリオ州南部に位置するナイアガラの滝がある」",
+      "answer": "【解答】D",
+      "explanation": "【解説】文の構文を考えよう。文頭から空所の直前のAmericaまでが主語で、その中心となるのはOneなので、単数である。そして、空所のあとの構文を考えると、空所には、完全な形の述部（動詞）が入ることになると判断される。完全な形の述部動詞で単数を表すのは(D)のisだｋである。"
+    }
+  ],
+  [
+    "359",
+    {
+      "question": "The officer went by the witness’s residence to see if she ——- anything to the previous statement.",
+      "option": [
+        "(A) could add",
+        "(B) would be added",
+        "(C) had been added",
+        "(D) can be adding"
+      ],
+      "translation": "【問題文訳】「警察官は、前回の証言に何か付け足すことができるかどうかを確認するために、目撃者の住居に立ち寄った」",
+      "answer": "【解答】A",
+      "explanation": "【解説】addを使ったいろいろな時制の語句が並んでいる。時制と意味を考える問題。前半の主節がwent by …のように過去形になっている。そして、if以降が「もし…ならば」という意味の条件あるいは仮定の意味ではないことにも気づくこと。これは「…かどうか」という名詞節になっている。したがって時制の一致で過去形になる。そして、if節の主語がsheなので、能動態が適切である。こうしたことから(A)のcould addが正解となる。"
+    }
+  ],
+  [
+    "361",
+    {
+      "question": "——- the last person who leaves the office each night remember to switch off the coffee maker and throw out the coffee grounds?",
+      "option": [
+        "(A) Has",
+        "(B) Could",
+        "(C) Did",
+        "(D) Ought"
+      ],
+      "translation": "【問題文訳】「毎晩会社を最後に出る人は、コーヒーメーカーのスイッチを切り、コーヒーのかすを捨ててください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文の構造をチェックしよう。主語はthe lastからnightまでで、動詞がrememberである。rememberが原形になっていることから考える。(A)のHasの場合は過去分詞になるはず。また、(D)のOughtの場合はto不定詞になる。文法上可能なのは(B)のCouldと(C)のDidだが、who leaves the officeのように現在形が使われていることから考えると、Didは不可。したがってCouldが正解。Couldを使った依頼の文である。"
+    }
+  ],
+  [
+    "363",
+    {
+      "question": "If we finish excavation early this quarter, perhaps we ——- begin foundation work early next year.",
+      "option": [
+        "(A) must",
+        "(B) could",
+        "(C) ought",
+        "(D) had to"
+      ],
+      "translation": "【問題文訳】「今四半期の早めに発掘作業が終了すれば、たぶん来年初めには基礎工事を始められるでしょう」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文全体の意味は未来であることに注意。そして、空所のあとの動詞がbeginと原形なので、(C)のoughtはまず除外できる。これにはtoが必要。(D)のhad toは過去形なので、これも除外。「もし終えることができれば」という意味合いから、(A)のmustよりも(B)のcouldが適切である。仮定の意味を含んだ文である。"
+    }
+  ],
+  [
+    "368",
+    {
+      "question": "The company is looking to hire someone for this position ——- can understand both computers and financial investments.",
+      "option": [
+        "(A) who",
+        "(B) which",
+        "(C) where",
+        "(D) what"
+      ],
+      "translation": "【問題文訳】「その会社ではコンピューターと財政投資の両方が分かる人をこの職に雇おうとしている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢を見ると、関係代名詞か関係副詞の問題であると判断できる。空所のあとにcan understandと続いているので、空所には主節の関係詞が当てはまる。したがって、関係副詞である(C)のwhereは当てはまらない。関係副詞のあとには必ず主語がくる。(D)のwhatも「先行詞を含む関係代名詞」なので、someoneという先行詞があるこの文では間違い。残りのwhoとwhichでは、先行詞のsomeoneが「人」を表すので、whoが適切である。したがって(A)が正解。"
+    }
+  ],
+  [
+    "370",
+    {
+      "question": "The record shows the shipping company found the package ——- had been missing at a warehouse three days after it had disappeared.",
+      "option": [
+        "(A) what",
+        "(B) who",
+        "(C) that",
+        "(D) how"
+      ],
+      "translation": "【問題文訳】「紛失から3日後にその荷物を配送会社が倉庫で発見したと記録には書いてある」",
+      "answer": "【解答】C",
+      "explanation": "【解説】関係代名詞の意味と用法を考えて判断する。(A)のwhatは先行詞を含む関係代名詞。the packageという先行詞のあるこの文では使えない。(B)のwhoは「人」を表すので、先行詞が「物」のこの文では不適切。(C)のthatが、「人」の場合にも「物」の場合にも使え、主語を表すこともできるので、正しい。(D)のhowは関係副詞で、主語のない節を導くことはできない。"
+    }
+  ],
+  [
+    "372",
+    {
+      "question": "The woman ——- Douglas Harper said was the inspiration for his song, “Wendy,” died last night in Dallas.",
+      "option": [
+        "(A) who",
+        "(B) which",
+        "(C) whom",
+        "(D) whose"
+      ],
+      "translation": "【問題文訳】「ダグラス・ハーパーが、彼女の歌である『ウェンディ』にひらめきを与えたと言った女性が、昨夜ダラスで亡くなった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】先行詞はThe womanで「人」を表す。そして、関係詞に続く節の中で、Douglas Harper saidの部分は挿入句になっている。つまり、節の中の動詞はwasである。したがって、先行詞のThe womanは主語に相当するので、主格の関係代名詞が入る。「人」を示し主格になるのは(A)のwhoだけである。"
+    }
+  ],
+  [
+    "374",
+    {
+      "question": "One of the most revealing aspects of any society is the way ——- its members choose to break social rules.",
+      "option": [
+        "(A) why",
+        "(B) how",
+        "(C) at which",
+        "(D) in which"
+      ],
+      "translation": "【問題文訳】「ある会社の最も暗示的な側面は、その構成員が社会のルールをどのように破ろうとするかである」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前のthe wayに惑わされないこと。the wayは「方法」という意味だが、the way howのようには言わない。この文では、「そのような方法で」という意味になる。inを用いてin the wayとなるので(D)のin whichが当てはまる。理由を述べているわけではないので、(A)のwhyも不適切である。"
+    }
+  ],
+  [
+    "376",
+    {
+      "question": "General Hank Miller is the expert ——- the court wants to subpoena to testify concerning security at embassies.",
+      "option": [
+        "(A) who",
+        "(B) whom",
+        "(C) which",
+        "(D) whose"
+      ],
+      "translation": "【解答】B",
+      "answer": "【解説】選択肢から、関係代名詞の問題であると判断できる。空所に続く節の中で、the court wants to subpoenaにhimという目的語が省略されていると考えられる。したがって、目的格で［人」を表すwhomが正しい。なおsubpoenaは発音に注意。［サピーナ］と発音する。",
+      "explanation": "【重要語句】\ngeneral「将軍」\nexpert「専門家」\nsubpoena「召喚する」\ntestify「証言する」\nconcerning「…に関して」\nembassy「大使館」"
+    }
+  ],
+  [
+    "378",
+    {
+      "question": "The man pictured in the photo below is the professor ——- developed the Kerner method of acting.",
+      "option": [
+        "(A) who",
+        "(B) whom",
+        "(C) whose",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「下の写真に写っている男性は、演技のケルナー法を発展させた教授です」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所には関係代名詞が入る。先行詞はthe professorである。そして、空所の続く節が動詞で始まっているので、先行詞は主語に相当する。したがって、「人」を表し主格になる(A)のwhoが当てはまることになる。"
+    }
+  ],
+  [
+    "380",
+    {
+      "question": "No one has yet figured out ——- the bank robbers entered the bank without being detected.",
+      "option": [
+        "(A) who",
+        "(B) how",
+        "(C) which",
+        "(D) what"
+      ],
+      "translation": "【問題文訳】「銀行強盗が防犯装置にひっかからずにどうやって銀行に侵入したのか、誰にもまだわかっていない」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとの節が主語・動詞・目的語を備えた完全な文の形になっていることから、whoやwhichやwhatは入らないことと判断できる。文脈からも方法を表す(B)のhowが適切である。関係副詞の問題。"
+    }
+  ],
+  [
+    "382",
+    {
+      "question": "The man ——- wife is a doctor at Cornwall University Medical Center serves as a spokesperson for Mayor Hickman.",
+      "option": [
+        "(A) whose",
+        "(B) which",
+        "(C) of whom",
+        "(D) his"
+      ],
+      "translation": "【問題文訳】「コーンウォール大学医療センターの医者を妻に持つその男性は、ヒックマン市長の広報を務めている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】先行詞がThe manで、空所のあとに「冠詞の付いていない名詞」が続いていることがポイント。つまり、「所有格」を表す(A)のwhoseが適切である。(B)のwhichは先行詞が「物」や「動物」のときに使う。関係代名詞whoの所有格は(C)のようにof whomとはならない。(D)のhisでは冠詞や代名詞を持つ名詞が連続することになり、文法的におかしい。"
+    }
+  ],
+  [
+    "384",
+    {
+      "question": "One of the best museums in town is the Metropolitan Museum, ——- is located on Fifth Avenue.",
+      "option": [
+        "(A) which",
+        "(B) and",
+        "(C) that",
+        "(D) where it"
+      ],
+      "translation": "【問題文訳】「市内で最もすぐれた博物館の1つはメトロポリタン美術館で、それは五番街にある」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとに動詞のisがあることから、空所の関係詞は主語に当たる。そして、先行詞が何かを見る。the Metropolitan Museumが先行詞で「物」を表す。主語（主格）になり、「物」を表す関係詞は(A)のwhichのみである。(D)のwhere itはやや紛らわしいが、whereもitもともにthe Metropolitan Museumを意味するので、重複することになる。"
+    }
+  ],
+  [
+    "386",
+    {
+      "question": "The book ——- received this year’s Caplan Prize was Margaret Adler’s third major novel.",
+      "option": [
+        "(A) when",
+        "(B) which",
+        "(C) whose",
+        "(D) why"
+      ],
+      "translation": "【問題文訳】「今年のキャプラン賞を受賞した本はマーガレット・アドラーの3番目に有名な小説だった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】先行詞はThe bookである。そして、空所のあとに動詞が続いているので、主格の関係代名詞が当てはまる。先行詞のThe bookは「物」を表すので、(B)のwhichが正解である。ほかの選択肢は、すべて動詞が続くことはない。"
+    }
+  ],
+  [
+    "388",
+    {
+      "question": "The police are trying to determine the reason ——- the bank’s security alarm never went off.",
+      "option": [
+        "(A) which",
+        "(B) how",
+        "(C) why",
+        "(D) whose"
+      ],
+      "translation": "【問題文訳】「警察は銀行のセキュリティアラームが作動しなかった原因を特定しようとしている」",
+      "answer": "【解答】C",
+      "explanation": "【解説】先行詞がthe reasonであることがポイント。理由を表す関係副詞は(C)のwhyである。(A)のwhichは関係代名詞で、もしthe reasonを先行詞とするならば、続く節の中でthe reasonに相当するものが欠けていなければならない。(B)のhowは「方法、手段」を表す関係副詞。(D)のwhoseのあとには、冠詞の付かない名詞が続く。"
+    }
+  ],
+  [
+    "390",
+    {
+      "question": "The house ——- Michael Banks was born is now a small museum with artifacts of his life. ",
+      "option": [
+        "(A) where",
+        "(B) that",
+        "(C) which",
+        "(D) when"
+      ],
+      "translation": "【問題文訳】「マイケル・バンクスが生まれた家は今は彼の生涯の芸術品を伴った小さな美術館になっている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】先行詞はThe houseである。そして、空所のあとの節がbornまでで、Michael Banks was bornの中にthe houseを示すものがないので、空所にはthe houseを意味する関係代名詞か関係副詞が入ると判断できる。ただし、whichが場所を示す場合はinが必要で、空所の前かbornのあとにinがなければならない。よって正解は(A)のwhereである。"
+    }
+  ],
+  [
+    "392",
+    {
+      "question": "The parent company in Germany was established two decades before the American subsidiary ——- just celebrated 10 years in operation.",
+      "option": [
+        "(A) when",
+        "(B) where",
+        "(C) who",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「ドイツの親会社は、操業10周年を祝ったばかりのアメリカの子会社より20年早く設立された」",
+      "answer": "【解答】D",
+      "explanation": "【解説】先行詞がthe American subsidiaryで、空所のあとにcelebratedという動詞が続いている。justは副詞で、文の構成には直接は関係ない。動詞が続くのは関係代名詞で、(C)のwhoか(D)のwhichである。先行詞が「物」を表すので、whichが適切である。"
+    }
+  ],
+  [
+    "394",
+    {
+      "question": "The bus ——- passengers were all medical personnel was the only one stuck in the snow.",
+      "option": [
+        "(A) whose",
+        "(B) which",
+        "(C) when",
+        "(D) who"
+      ],
+      "translation": "【問題文訳】「乗客がすべて医療関係者だけだったバスが1台だけ、その雪で立ち往生した」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前後が名詞で、passengersに冠詞が付いていないこと、そして、あとに動詞が続いていることがポイント。関係節のなかで、passengersは主語になっている。冠詞の付かない名詞が続くのは(A)のwhoseだけである。whoseの先行詞は「人」でも「もの」でもよい。"
+    }
+  ],
+  [
+    "396",
+    {
+      "question": "Toys which have small parts ——- could be a choking hazard to young children are especially likely to be placed on the group’s Do-Not-Purchase List published every October.",
+      "option": [
+        "(A) that",
+        "(B) so",
+        "(C) even",
+        "(D) then"
+      ],
+      "translation": "【問題文訳】「小さな子供が喉に詰まらせてしまう事故の恐れのある小さな部品のあるおもちゃは、そのグループから毎年10月に発\n行される不買リストに、特に掲載されやすい」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文の構造をしっかり見極めよう。まず、文全体の主語が非常に長い。真ん中あたりのchildrenのあとのareが動詞で、文頭からchildrenまでが主語である。そして、主語の中に関係代名詞が2つも入っている文となっている。2語目のwhichと、空所に入るthatである。つまり、空所には(A)のthatが適する。"
+    }
+  ],
+  [
+    "398",
+    {
+      "question": "Yesterday, the witness stated that he had seen the suspect come out of the bank carrying a weapon ——- the suspect then threw into the bushes.",
+      "option": [
+        "(A) whom",
+        "(B) where",
+        "(C) which",
+        "(D) when"
+      ],
+      "translation": "【問題文訳】「容疑者が凶器を持って銀行から出てきてそれを茂みの中に投げ込んだのを見た、と目撃者は昨日語った」",
+      "answer": "【解答】C",
+      "explanation": "【解説】関係詞の問題は、空所に続く節（文）の中で、空所の関係詞や先行詞がどのような位置付けになっているのかを考えること。この文では、空所に続く文ではthe suspectが主語でthrewが動詞、into the bushesは修飾語句なので、threwの目的語が欠けている。つまり、先行詞のa weaponはthrewの目的語に相当する。したがって、「物」を表し、目的格になる(C)のwhichが正解である。"
+    }
+  ],
+  [
+    "400",
+    {
+      "question": "Two women were at the bus stop, waiting for the bus ——- had become one hour late.",
+      "option": [
+        "(A) that",
+        "(B) why",
+        "(C) of which",
+        "(D) who"
+      ],
+      "translation": "【問題文訳】「女の人が2人、1時間遅れになったバスを待ってバス停にいた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】先行詞がthe busで「物」を表す。そして、空所のあとに動詞句（had become）が続いているので、主格の関係代名詞が当てはまる。主格で「物」を表すのは、(A)のthatのみである。(B)のwhyは「理由」を表す関係副詞。(C)のof whichのあとには主語が続く。(D)のwhoは「人」を表す場合にしか使われない。"
+    }
+  ],
+  [
+    "402",
+    {
+      "question": "The editor has been waiting for a report from the courthouse, ——- will contain the verdict from the trial.",
+      "option": [
+        "(A) when",
+        "(B) which",
+        "(C) who",
+        "(D) where"
+      ],
+      "translation": "【問題文訳】「その編集者は裁判所からの報告を待っている。裁判の判決が盛り込まれているのである」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにwill containが続いていることから、空所の関係詞は主格でなければならない。主格になるのは(B)のwhichと(C)のwhoである。そして、先行詞がa reportで「物」を示すので、whichが適している。(B)が正解。"
+    }
+  ],
+  [
+    "404",
+    {
+      "question": "The candidate most likely to be the next president is Michael McNally, ——- is now head of the Coral Corporation.",
+      "option": [
+        "(A) who",
+        "(B) whom",
+        "(C) which",
+        "(D) that"
+      ],
+      "translation": "【問題文訳】「次期代表取締役として最も可能性のある候補者はマイケル・マクナリー氏で、彼はコーラル・コーポレーションの社長を務めている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとに動詞のisが続いていることがポイント。つまり、空所には主格の関係詞が入る。したがって、まず(B)のwhomが除外される。そして、コンマの前のMichael McNallyが先行詞である。「人」を表せる関係代名詞は(A)のwhoと(D)のthatである。ポイントは空所の前にコンマがあること。thatはこのような「非制限用法」では使えない。したがって(A)のwhoのみが正解となる。"
+    }
+  ],
+  [
+    "406",
+    {
+      "question": "The only occasion ——- produces a call from college-age children to their parents is a request for money.",
+      "option": [
+        "(A) when",
+        "(B) where",
+        "(C) which",
+        "(D) what"
+      ],
+      "translation": "【問題文訳】「大学生の年齢の子供が親に電話をかける唯一の状況は金の無心である」",
+      "answer": "【解答】C",
+      "explanation": "【解説】先行詞は文頭のThe only occasionである。そして、空所のあとに動詞が続いているので、主格の関係代名詞が当てはまる。したがって(C)のwhichが正解。「先行詞にthe onlyのように限定する語句が付いている場合は、関係代名詞にはthatしか使われない」と学習することもあるが、実際には、この文のようにwhichやwhoも使われる。"
+    }
+  ],
+  [
+    "408",
+    {
+      "question": "The mayor insisted the city would continue to reform the police department, an effort ——- he began when he took office.",
+      "option": [
+        "(A) where",
+        "(B) those",
+        "(C) which",
+        "(D) who"
+      ],
+      "translation": "【解答】C",
+      "answer": "【解説】空所の前のan effortが先行詞である。そして、空所のあとがheという主語で始まっている。目的格で「物」を表すので、(C)のwhichが適切である。",
+      "explanation": "【重要語句】\nmayor 「市長」\nreform 「改正する」「改革する」\ntake office「就任する」"
+    }
+  ],
+  [
+    "410",
+    {
+      "question": "The package goes to Technosearch, ——- office is on the second floor of the Regency Building on Post Avenue.",
+      "option": [
+        "(A) whom",
+        "(B) whose",
+        "(C) where",
+        "(D) that"
+      ],
+      "translation": "【問題文訳】「この包みはテクノサーチ社宛てです。そのオフィスはポスト通りのリージェンシービルの2階にあります」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にコンマがあるので、空所には非制限用法を持つ関係詞が入ることになる。また、空所のあとに冠詞を伴わない名詞が続いていることがポイント。つまり、所有格の関係代名詞が当てはまる。所有格の関係代名詞は(B)のwhoseだけである。whoseは先行詞が「人」でも「物」でも使うことができる。"
+    }
+  ],
+  [
+    "412",
+    {
+      "question": "This is the letter ——- the driver describes what happened during the accident on the 18th of March.",
+      "option": [
+        "(A) what",
+        "(B) in which",
+        "(C) why",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「3月18日の事故で何が起こったのかを運転手が記しているのが、この手紙である」",
+      "answer": "【解答】B",
+      "explanation": "【解説】先行詞をthe letterとする関係代名詞が入る。先行詞が存在するので、先行詞を含む関係代名詞の(A) whatは当てはまらない。また、(C)のwhyも先行詞がthe letterであるし、whyは関係副詞なので合わない。the driver describes in the letterと言い換えても自然な文になることから、(D)のwhichではなく(B)のin whichのほうが正しいことになる。"
+    }
+  ],
+  [
+    "414",
+    {
+      "question": "I was born in the small city ——- Wisconsin’s makes its best-known brand of cheese.",
+      "option": [
+        "(A) which",
+        "(B) where",
+        "(C) who",
+        "(D) whom"
+      ],
+      "translation": "【問題文訳】「私はウィスコンシンズが最も有名なブランドのチーズを作っている小さな街で生まれた」",
+      "answer": "【解答】B",
+      "explanation": "【解説】先行詞がthe small cityで場所を表すため、場所を表す関係副詞のwhereが合う。空所以降を見ても、Wisconsin’s makes …という＜主語＋動詞＞という節になっている。したがって(B)のwhereが正解。"
+    }
+  ],
+  [
+    "416",
+    {
+      "question": "Winchester Drive, —— was described in the February 8th Hartford Reader, is a quiet, tree-lined street.",
+      "option": [
+        "(A) which",
+        "(B) where",
+        "(C) that",
+        "(D) when"
+      ],
+      "translation": "【問題文訳】「ウィンチェスター通りは2月8日付けのハートフォード・リーダー紙で説明されているが、閑静な並木道である」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前にコンマがある。つまり「非制限用法」になっている。そして、空所のあとに動詞が続いていることがポイントである。(C)のthatは非制限用法では使われないし、(B)のwhereや(D)のwhenは関係副詞なので、主格になることはない。よって正解は(A)のwhichのみである。"
+    }
+  ],
+  [
+    "418",
+    {
+      "question": "The storms —— hit the coast during July and August were among the most damaging in years.",
+      "option": [
+        "(A) who",
+        "(B) when",
+        "(C) whose",
+        "(D) that"
+      ],
+      "translation": "【解答】D",
+      "answer": "【解説】先行詞がThe stormsで「物」を表す。そして、空所のあとにはhitという動詞が続いている。この条件を満たすのは、(D)のthatのみである。",
+      "explanation": "【重要語句】\ncoast「海岸」"
+    }
+  ],
+  [
+    "420",
+    {
+      "question": "The university has several professors ——- are recognized as eminent scholars in their fields.",
+      "option": [
+        "(A) whom",
+        "(B) who",
+        "(C) whose",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「その大学には、その専門分野では特に優れた学者として知られる教授が何人かいる」",
+      "answer": "【解答】B",
+      "explanation": "【解説】まず先行詞を判断する。several professorsが先行詞である。そして、空所のあとにare recognizedと述部が続いている。つまり、空所の関係詞は「主格」である。「人」を表し主格になる関係詞は(B)のwhoのみである。"
+    }
+  ],
+  [
+    "422",
+    {
+      "question": "Everyone that had been invited to the party attended except for John Dalton, ——- was not feeling well.",
+      "option": [
+        "(A) why",
+        "(B) when",
+        "(C) who",
+        "(D) that"
+      ],
+      "translation": "【問題文訳】「ジョン・ダルトン氏を除き、パーティーに誘われた全員が出席した。彼は気分がすぐれなかったのである」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にコンマがある。つまり「非制限用法」になっている。そして、空所のあとに動詞のwasが続いている。(D)のthatは非制限用法では使われないし、(A)のwhyや(B)のwhereは関係副詞なので、主格になることはない。よって正解は(C)のwhoのみである。"
+    }
+  ],
+  [
+    "424",
+    {
+      "question": "If the governor stays on schedule, she will arrive at the hospital around 11 o’clock for the dedication, ——- will be shown live on numerous news broadcasts.",
+      "option": [
+        "(A) which",
+        "(B) when",
+        "(C) where",
+        "(D) who"
+      ],
+      "translation": "【問題文訳】「予定通りであれば、知事は竣工式に11時ごろ病院に到着し、その模様は多くの報道番組で生中継される予定である」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前にコンマがあり「非制限用法」になっている。そして、空所のあとに＜助動詞＋動詞＞が続いていることがポイントである。先行詞はdedicationまでの文全体の意味を表している。文全体の意味を表し、主格になるのは(A)のwhichのみである。"
+    }
+  ],
+  [
+    "426",
+    {
+      "question": "The patient indicated that —– had started out as a slight cold has developed into pneumonia.",
+      "option": [
+        "(A) how",
+        "(B) where",
+        "(C) what",
+        "(D) which"
+      ],
+      "translation": "【問題文訳】「初めは軽い風邪だったが悪化して肺炎になったと、その患者は説明した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のthatに惑わされないこと。これはindicatedの目的語になる名詞節を導く接続詞である。そして、空所以降が説明した内容に相当する。that以降の主語はcoldまでで、述部がhas developedである。つまり、空所は主語の一部になる。したがって、先行詞を含む関係代名詞であるwhatが適することになる。"
+    }
+  ],
+  [
+    "456",
+    {
+      "question": "When you write back, let me know whether you would like to go to the symphony with me ——- I can get tickets.",
+      "option": [
+        "(A) though",
+        "(B) if",
+        "(C) so",
+        "(D) unless"
+      ],
+      "translation": "【問題文訳】「返事をお書きになる際に、もしチケットが手に入ったら私と演奏会に行ってくださるかどうかを教えてください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】接続詞の問題は、空所の前後の意味のつながりを考える。この文では、空所のあとに続く節が前の節の前提（条件）になっているので、条件を表す(B)のifが適している。(A)のthoughは「逆接」を表す。(C)のsoは、「順接」を表す等位接続詞である。(D)のunlessは「条件」を表すが、「もし…でなければ」という意味なので、逆である。"
+    }
+  ],
+  [
+    "460",
+    {
+      "question": "Concerning the use of a Volvini for the trip, I’d like to know ——- the passenger compartment is roomy enough for six adults.",
+      "option": [
+        "(A) if",
+        "(B) where",
+        "(C) when",
+        "(D) as"
+      ],
+      "translation": "【問題文訳】「ボルビニを旅行に使うことについて、車内が大人6人用に十分に広いかどうかを知りたいのです」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所以降がknowの目的語になっている名詞節である。意味的にも「広いかどうか」が知りたい内容なので、「…かどうか」という意味の(A) ifが適している。(B)や(C)のように、場所や時間を知りたいのではない。通常、(D)のasが名詞節を導く接続詞として使われることは稀である。"
+    }
+  ],
+  [
+    "462",
+    {
+      "question": "Only a compact map was available; ——-, it contained no reference to his hometown, Ortonville.",
+      "option": [
+        "(A) nonetheless",
+        "(B) however",
+        "(C) still",
+        "(D) therefore"
+      ],
+      "translation": "【問題文訳】「小さな地図しか手に入らなかったため、彼の生まれ故郷のオートンビルは載っていなかった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】意味で判断しよう。地図が小さくて故郷の町が載っていなかったわけなので、前の文を受けて、それを肯定する言葉が入る。ひとつずつ当てはめて、意味を確かめることも必要。(A)のnonethelessは「それにもかかわらず」なので、意味が逆。(B)のhoweverも同様。「それにもかかわらず」という意味である。(C)のstillも「それでもなお」という意味で、逆。(D)のthereforeのみが「それなので」という順接を表す。"
+    }
+  ],
+  [
+    "464",
+    {
+      "question": "The lawyers intended to interview the witness on the 14th, but ——- she failed to show up, it had to be rescheduled.",
+      "option": [
+        "(A) while",
+        "(B) although",
+        "(C) since",
+        "(D) however"
+      ],
+      "translation": "【問題文訳】「弁護士は14日に目撃者と面会するつもりだったが、彼女が現れなかったので、日程を変更しなければならなかった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】この文は、2つの文がbutで等位接続されたもの。後半は複文なので、従位接続詞が必要である。(D)のhoweverは副詞なので、従属接続詞としての働きはない。他の3つは文法的には可能だが、意味として適切なのは(C)のsinceのみ。「…なので」という意味を表す。(A)のwhileは「…する一方で」という意味。(B)のalthoughは「…にもかかわらず」という意味で逆接を表す。"
+    }
+  ],
+  [
+    "466",
+    {
+      "question": "——- Mark called early to get the tickets, we were able to get the best seats in the house.",
+      "option": [
+        "(A) However",
+        "(B) But",
+        "(C) Because",
+        "(D) If"
+      ],
+      "translation": "【問題文訳】「切符を取るためにマークが早く電話をしたので、いちばんよい席を取ることができた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「早く電話をした」と「よい席が取れた」は順接の関係にあるので、(C)のBecauseが適切。(A)のHoweverは副詞で、接続詞の役目はできない。なお「取ることができた」はcould getにならないことにも注意。実現した1回の動作には必ずbe able toを使う。(B)のButには従属接続詞の働きはない。(D)のIfは意味が合わない。"
+    }
+  ]
+]

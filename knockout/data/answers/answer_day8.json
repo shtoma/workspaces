@@ -1,0 +1,1502 @@
+[
+  [
+    "1935",
+    {
+      "question": "For safety, please stay behind the white line until the train comes to a complete stop and ——- its doors.",
+      "option": [
+        "(A) opens",
+        "(B) opening",
+        "(C) to open",
+        "(D) opener"
+      ],
+      "translation": "【問題文訳】「危険ですから、列車が完全に停車しドアが開くまで白線の後ろでお待ちください」",
+      "answer": "【解答】A",
+      "explanation": "【解説】until以降の意味を考えよう。andを使って「…し、そして…する」というように、2つのことを並べて述べている。共通の主語はthe trainである。したがってcomesと同じ用法の動詞が適切であり、(A)のopensが正解。"
+    }
+  ],
+  [
+    "1937",
+    {
+      "question": "Please do not speak loudly on cell phones on the train to avoid ——- other passengers of the MTA.",
+      "option": [
+        "(A) disturb",
+        "(B) to disturb",
+        "(C) disturbing",
+        "(D) disturbed"
+      ],
+      "translation": "【問題文訳】「MTAにご乗車のお客様にご迷惑となりますので、電車内で携帯電話で大声で話すのはお控えください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のavoidは、動名詞だけを目的語に取る（to不定詞を目的語に取らない）動詞である。このタイプは止めたり避けたりするような消極的な動詞に多く、ほかにenjoy、finish、deny、mind、considerなどが挙げられる。したがって、動名詞である(C)のdisturbingだけが正解となる。"
+    }
+  ],
+  [
+    "1939",
+    {
+      "question": "Increased security rules are now in effect in this airport which ——- items stored in bottles or jars from being carried in hand-held luggage.",
+      "option": [
+        "(A) permit",
+        "(B) prohibit",
+        "(C) embargo",
+        "(D) suppress"
+      ],
+      "translation": "【問題文訳】「安全規則が強化され、当空港でも現在実施されております。ボトルやびんに入った物を手荷物として持ち込むことができません」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢はいずれも似たような意味合いの動詞である。文全体の意味から考えよう。空所の前のwhichは関係代名詞で、先行詞はsecurity rulesである。空所の動詞に「3単現のs」がついていないことも参考にしよう。つまり、先行詞は複数形。security rules（安全規則）とitems stored in bottles …の関係を考えると、(B)のprohibit（禁止する）が適していると判断できる。"
+    }
+  ],
+  [
+    "1941",
+    {
+      "question": "Passengers may leave their cars and make use of the upper deck of the ferry ——- the whistle blows five minutes before docking at Haverford.",
+      "option": [
+        "(A) until",
+        "(B) up to",
+        "(C) by",
+        "(D) as"
+      ],
+      "translation": "【問題文訳】「ハヴァーフォードに接岸する5分前に笛が鳴りますので、それまでは、お客様は車から離れてフェリーの上部甲板をご利用になれます」",
+      "answer": "【解答】A",
+      "explanation": "【解説】接続詞や前置詞の問題なので、前後の意味のつながりを考える。空所のあとが文の形の節になっているので、前置詞あるいは前置詞句である(B)のup toと(C)のbyは文法的に合わない。(A)のuntilが「…するまでずっと」という継続を表し、適している。(D)は「…しながら」という同時進行を表すので、時間が合わない。"
+    }
+  ],
+  [
+    "1943",
+    {
+      "question": "If the rack above your seat is not large ——- for your luggage, please use the luggage compartment at the end of each car.",
+      "option": [
+        "(A) rather",
+        "(B) hard",
+        "(C) very",
+        "(D) enough"
+      ],
+      "translation": "【問題文訳】「座席上のラックに荷物が入らない場合は、各車両の後尾にある手荷物置き場をご利用ください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前に形容詞があることと、選択肢がすべて副詞であることがポイント。通常、副詞は形容詞の前に付いて修飾するが、この文ではlargeという形容詞のあとに空所がある。選択肢の中で形容詞を後ろから修飾するのは(D)のenoughだけである。"
+    }
+  ],
+  [
+    "1945",
+    {
+      "question": "Remain ——- until we reach the gate and the captain turns off the Fasten Seatbelts sign.",
+      "option": [
+        "(A) seat",
+        "(B) seats",
+        "(C) seated",
+        "(D) seating"
+      ],
+      "translation": "【問題文訳】「ゲートに到着し、機長がシートベルト着用ランプを消すまでは、席に着いたままお待ちください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】remainという動詞の用法に注意する。この動詞はkeepやfeelなどのように、＜主語＋動詞＋主格補語＞の形をとる。つまり、あとには形容詞や動詞の現在分詞、過去分詞などが続き、主語を説明する。したがって、候補となるのは(C)のseatedと(D)のseatingである。そこで、今度はseatの意味と用法を考える。seatは「座らせる」という意味の他動詞なので、「座る、座った状態にする」と言う場合は、seatedと過去分詞を使う。よって(C)が正解。"
+    }
+  ],
+  [
+    "1947",
+    {
+      "question": "You are coming to the ——- of the moving walkway; prepare to step off.",
+      "option": [
+        "(A) corner",
+        "(B) end",
+        "(C) side",
+        "(D) edge"
+      ],
+      "translation": "【問題文訳】「もうすぐ動く歩道が終わります。降りる準備をしてください」",
+      "answer": "【解答】B",
+      "explanation": "【解説】状況を考えよう。「歩く歩道」でのアナウンスである。そして「降りる準備をしてください」という場所に当たるのは歩く歩道の最後、つまりendである。よって(B)が正解。(D)のedgeは紛らわしいが、このように移動してやってきた「終わり、最後」という意味では使わない。最初から切れていてその先がない「端」のことである。"
+    }
+  ],
+  [
+    "1949",
+    {
+      "question": "On this escalator, please stand on the left so that people ——- may pass you on the right.",
+      "option": [
+        "(A) walkers",
+        "(B) to walk",
+        "(C) walked",
+        "(D) walking"
+      ],
+      "translation": "【問題文訳】「エスカレーターでは、歩いている人が右側を通れるように左側にお立ちください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】so thatのあとの構文を考えよう。peopleが主語でmay passが述部、youが目的語である。つまり、空所の語は主語のpeopleを後ろから修飾している。peopleは「自分で歩く」側になるので、現在分詞が適している。「…される側」の場合は過去分詞になる。よって、(D)のwalkingが正しい。(B)のwalkは紛らわしいが、これを当てはめると「歩くべき人々、歩くための人々」のような意味になり、エスカレーターにすでにいる人たちを表現する形としてはおかしい。"
+    }
+  ],
+  [
+    "1951",
+    {
+      "question": "Please insert your picture ID face up into the electronic ticketing machine and click yes when your name ——- on the screen.",
+      "option": [
+        "(A) looks",
+        "(B) turns",
+        "(C) appears",
+        "(D) happens"
+      ],
+      "translation": "【問題文訳】「写真付き証明書を上向きに電子発券機に挿入し、お名前がスクリーンに出ましたらYESを押してください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢がすべて動詞であるので、文の意味から判断する。your nameはwhenに続く節の主語である。そして、on the screenが修飾語句。「名前がスクリーンにどうなるのか」を考えると、「現れる」という意味の(C) appearが適切だと判断できる。"
+    }
+  ],
+  [
+    "1953",
+    {
+      "question": "At this time, we are boarding first-class passengers and adults traveling with children ——- need extra time to enter.",
+      "option": [
+        "(A) who",
+        "(B) whose",
+        "(C) which",
+        "(D) when"
+      ],
+      "translation": "【問題文訳】「これから、ファーストクラスのお客様と、搭乗に時間のかかるお子様連れの大人の方のご搭乗をご案内いたします」",
+      "answer": "【解答】A",
+      "explanation": "【解説】関係代名詞の問題。主語や先行詞などを、まず探し出すこと。空所の前のchildrenが先行詞である。動詞は空所のあとのneed。したがって主語と表す関係代名詞が当てはまる。主語を表し「人」を示す関係代名詞は、(A)のwhoだけである。"
+    }
+  ],
+  [
+    "1955",
+    {
+      "question": "Take your kids to eat at the Happy Frog and they can enjoy ——- in the educational and fun Jungle Adventure.",
+      "option": [
+        "(A) their",
+        "(B) theirs",
+        "(C) them",
+        "(D) themselves"
+      ],
+      "translation": "【問題文訳】「お子様を連れてハッピーフロッグへお食事においでください。お子様が楽しめる教育的でおもしろいジャングルアドベンチャーもございます」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前のenjoyは他動詞で、再帰代名詞を目的語に取り、they enjoy themselvesのように表現する。この形で自動詞的に「楽しむ」という意味になる。なので、(D)が当てはまる。(B)のtheirsは前に出た名詞を受け「彼らのそれ」を表すが、問題文には前に受けるべき名詞がない。(C)のthemは、主語と目的語が同じ場合、目的語は再帰代名詞になるのが約束なので不可。"
+    }
+  ],
+  [
+    "1957",
+    {
+      "question": "——- by Torman will make your home look great and make outdoor painting a thing of the past.",
+      "option": [
+        "(A) Side",
+        "(B) Sides",
+        "(C) Sided",
+        "(D) Siding"
+      ],
+      "translation": "【問題文訳】「トーマンの外壁でお宅の見栄えはぐんと良くなり、外壁の塗装は過去の遺物となるでしょう」",
+      "answer": "【解答】D",
+      "explanation": "【解説】語形を問う問題。sideには名詞の「側面」という意味があるが、the other side of the streetのように主に概念としての面・側を指し、「壁」そのものの意味はない。よって、(A)と(B)は不可。空所のすぐ後にbyがあるので、過去分詞である(C)のSidedを選んでしまいそうだが、後にwill makeと述部が続いており、主語となるものがない。(D)のSidingが「外壁の羽目板」という意味で当てはまる。"
+    }
+  ],
+  [
+    "1959",
+    {
+      "question": "Winter will be here soon and Hudson Sports has all the snowboards, skis and other ——- for your winter sports needs.",
+      "option": [
+        "(A) equipment",
+        "(B) instruments",
+        "(C) utensils",
+        "(D) gadgets"
+      ],
+      "translation": "【問題文訳】「もうすぐ冬です。ハドソンスポーツではあらゆるスノーボード、スキー、その他の道具を揃えてウィンタースポーツのニーズをお手伝いします」",
+      "answer": "【解答】A",
+      "explanation": "【解説】似た意味の名詞から適切なものを選ぶ問題。(A)のequipmentは特定の目的に必要なひとまとまりの「備品、機材」。(B)のinstrumentsは「計器、楽器」。(C)のutensilsは主に調理用具など。(D)のgadgetsは用途を限定しないちょっとした小道具類。この中でスキー用具などとして使えるのは、(A)のequipmentだけである。"
+    }
+  ],
+  [
+    "1961",
+    {
+      "question": "Clothes ——- out softer and brighter when you add Fluff to the rinse cycle of your laundry.",
+      "option": [
+        "(A) came",
+        "(B) comes",
+        "(C) come",
+        "(D) coming"
+      ],
+      "translation": "【問題文訳】「お洗濯のすすぎの段階でフラフを入れると、衣類がより柔らかく鮮やかに仕上がります」",
+      "answer": "【解答】C",
+      "explanation": "【解説】まず主語の形を見て、それに合った形の動詞を選ぶ。clothes「衣類」が複数なので、(B)のcomesは除かれる。またwhenの手前までが主節にならなければならないが、(D)のcomingでは主節に述語がなくなってしまう。またwhen以下従属節の動詞addが現在形なので、主節の時制もそれに合わせる。すると、過去形である(A)のcameが除かれ、正解は(C)のcomeとなる。"
+    }
+  ],
+  [
+    "1963",
+    {
+      "question": "Drink Diet Presco for its refreshing cherry cola taste and its ——- low 7 calories per serving.",
+      "option": [
+        "(A) incredible",
+        "(B) incredibly",
+        "(C) incredibility",
+        "(D) incredibleness"
+      ],
+      "translation": "【問題文訳】「おいしいチェリーコーラ味のダイエット・プレスコをどうぞ。1杯でなんと7カロリーの低さです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の直後の形容詞lowの程度が「信じられない（くらい低い）」ことを表しているので、形容詞を修飾できる副詞を選ぶ。副詞は(B)のincrediblyである。(C)のincredibilityと(D)の incrediblenessは「信じられないこと」という意味になる名詞で、ほぼ同じ意味を表す。(A)のincredibleは形容詞。"
+    }
+  ],
+  [
+    "1965",
+    {
+      "question": "Welcome to the Dazzling Sale where everything here at Maxson’s is 30 to 50 percent off its ——- price.",
+      "option": [
+        "(A) always",
+        "(B) regular",
+        "(C) common",
+        "(D) future"
+      ],
+      "translation": "【問題文訳】「ダズリング・セールへようこそ。このマクソンでは、全商品が通常価格より30％から50％引きです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「通常の・平常の（価格）」を意味する語を選ぶ。(A)のalwaysは副詞なので名詞のpriceに直接付くことはできない。(B)のregular「いつもの、（何らかの規則にしたがって）正規の」が正解。(C)のcommonはcommon sense「常識」のように、「（一般に広まっていて）よくある、通常の」の意味なので、一企業が設定する通常の値段にはふさわしくない。(D)のfutureは「未来の」で意味と時間が合わない。"
+    }
+  ],
+  [
+    "1967",
+    {
+      "question": "Enroll for the fall term at Westfall College and get the skills you need ——- up in the world of business.",
+      "option": [
+        "(A) move",
+        "(B) moved",
+        "(C) moving",
+        "(D) to move"
+      ],
+      "translation": "【問題文訳】「ウェストフォール大学の秋学期に登録して、ビジネス界で出世できるスキルを身につけませんか」",
+      "answer": "【解答】D",
+      "explanation": "【解説】中盤で動詞がget、need、moveと続きわかりづらい。まず文頭のEnrollが命令形なのでand getが第2の命令であると見る。次にneed、moveと動詞が続くので、you needがthe skillsにを修飾する関係詞代名詞節だと判断すると分かりやすい。したがって、空所以降は「…するために」という不定詞の副詞的用法になることが理解できるだろう。したがって(D)のto moveがせいかい。(B)のmovedや(C)のmovingを当てはめると、skillsそのものが出世することになってしまう。"
+    }
+  ],
+  [
+    "1969",
+    {
+      "question": "——- the night away at Felicity, the city’s newest and hottest dance club with hourly drink specials and the music of D.J. Tony.",
+      "option": [
+        "(A) Dance",
+        "(B) Dancers",
+        "(C) Dancing",
+        "(D) Danceable"
+      ],
+      "translation": "【問題文訳】「ファリシティで踊り明かしましょう。街でいちばん新しくホットなクラブで、1時間ごとにスペシャルドリンクとトニーのDJ付きの音楽がお楽しみいただけます」",
+      "answer": "【解答】A",
+      "explanation": "【解説】コンマ以下はすべて、Felicityを説明する修飾語句である。なので、文頭からFalicityまでが「文」になる。とすると、文頭に動詞の原形を入れ、命令形を作るほかないことになる。dance awayで句動詞のような働きをする。「夜を踊り飛ばす」といったニュアンス。Danceを名詞と思い込まないように注意しよう。動詞の原形である(A) Danceが正解。"
+    }
+  ],
+  [
+    "1971",
+    {
+      "question": "Homes at Lester Lake is the new condominium community ——- an hour’s drive from the city, where more couples are enjoying a recreation-filled retirement.",
+      "option": [
+        "(A) as little as",
+        "(B) no less than",
+        "(C) less than",
+        "(D) the least"
+      ],
+      "translation": "【問題文訳】「レスター湖の住宅は新しい分譲地域で、街から車で1時間以内です。大勢のご夫婦が憩いに満ちた老後が楽しめます」",
+      "answer": "【解答】C",
+      "explanation": "【解説】比較を表す語句で間違いやすい。選択肢それぞれの意味を考えよう。(A)のas little asは「量」を表すので、ここでは不適切。(B)のno less thanは「…しか、…ほど多くの、…に劣らず」といういみで、「近い」という利点を訴えたい意味にはならない。(C)のless thanが「…以内で」という意味で適切である。(D)のthe leastは文法的にこの空所には当てはまらない。"
+    }
+  ],
+  [
+    "1973",
+    {
+      "question": "Call Insurance Trust at 1(888)myTRUST and get a ——- to see how much you can save on car insurance by switching your policy to Insurance Trust.",
+      "option": [
+        "(A) draft",
+        "(B) quote",
+        "(C) loan",
+        "(D) check"
+      ],
+      "translation": "【問題文訳】「トラスト保険の1-888-myTRUSTにお電話ください。保険をトラスト保険に変えると自動車保険がいくら節約になるかをお見積もりします」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢がすべて名詞なので、意味から考える。to see（…を知るために）以降の意味と関連付けて考える。車の保険でいくら節約できるがが分かるのは(B)のquote（見積書）である。(A)のdraftは「下書き、草案」なので、具体的に料金が分かるとは限らない。(C)のloanを手にしても、保険料の節約は分からない。(D)のcheckは「小切手」なので、意味がまったく合わない。"
+    }
+  ],
+  [
+    "1975",
+    {
+      "question": "For over 100 years, generations ——- Franklin Meats to provide fresh, nutritious meats at reasonable prices, cut to order.",
+      "option": [
+        "(A) will have trust",
+        "(B) would trust",
+        "(C) trust",
+        "(D) have trusted"
+      ],
+      "translation": "【問題文訳】「100年以上、何世代にもわたってフランクリン・ミートは新鮮で栄養満点の食肉をお手ごろな価格でご信頼いただいてきました。ご注文に応じてカットいたします」",
+      "answer": "【解答】D",
+      "explanation": "【解説】いろいろな時制の語句が並んでいるので、空所の前後の時制で考える。文頭のFor over 100 yearsは「過去から今までの100年以上」という意味を表している。したがって、現在完了形である(D)のhave trustedが適切である。"
+    }
+  ],
+  [
+    "1977",
+    {
+      "question": "Tip Top gives you half off on one month of your membership ——- when a friend tells us you introduced them to the health club.",
+      "option": [
+        "(A) fare",
+        "(B) rate",
+        "(C) fee",
+        "(D) value"
+      ],
+      "translation": "【問題文訳】「ティップ・トップでは、お友達がお客様のご紹介だとおっしゃると1か月の会費が半額になります」",
+      "answer": "【解答】C",
+      "explanation": "【解説】membership feeで「会費」という意味になり、この文全体の意味と合う。(A)のfareは公共設備などの「運賃」を表す。(B)のrateは「為替レート」などの「レート」すなわち利率や、単位あたりの値段を表す語。(C)のfeeはmembership feeのほか、entrance fee「入場料」、medical fee「医療費」などの「手数料」に相当する料金を表す。(D)のvalueは「価値」で、意味が合わない。"
+    }
+  ],
+  [
+    "1979",
+    {
+      "question": "CinemaPlus has reopened on Gratiot Highway with a new sound system and all new seats for a more comfortable and ——- movie-going experience.",
+      "option": [
+        "(A) entertain",
+        "(B) entertaining",
+        "(C) entertainingly",
+        "(D) entertainment"
+      ],
+      "translation": "【問題文訳】「シネマプラスは新しい音響設備を備えてグラチオット・ハイウェイ沿いにリニューアルオープンしました。全席を新しく替え、より快適に映画鑑賞が体験できます」",
+      "answer": "【解答】B",
+      "explanation": "【解説】「快適かつ…な映画鑑賞体験」、つまり、comfortableと空所の語がandを挟んで対等にmovie-going experienceを修飾していると考えるとよい。comfortableが形容詞なので、空所に当てはまるのも形容詞になる。したがって、「おもしろい、愉快な」という意味である(B)のentertainingが適切である。(A)のentertainは動詞、(C)のentertaininglyは副詞、(D)のentertainmentは名詞なので、いずれも不可。"
+    }
+  ],
+  [
+    "1981",
+    {
+      "question": "Dutcher Construction will renovate your home ——- it’s a new roof, a rebuilt kitchen and addition or replacement of your old windows with energy-saving ones.",
+      "option": [
+        "(A) whether",
+        "(B) that",
+        "(C) although",
+        "(D) while"
+      ],
+      "translation": "【問題文訳】「ダッチャー建設では、お宅のリフォームをいたします。屋根を新しく、あるいはキッチンの作り替え、省エネタイプの窓の追加や取り替えなどなんでもかまいません」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢はそれぞれ接続詞として使われるものである。したがって、前後の意味と、典型的に使われる語や表現を見て判断する。it’sのあとに家のリフォームのパターンを述べて選択を求めていることをつかもう。したがって、「選択」を表す(A)のwhetherが適している。"
+    }
+  ],
+  [
+    "1983",
+    {
+      "question": "This Mother’s Day, take that special woman to the brunch at the Hickstone Hotel and show her ——- you appreciate her.",
+      "option": [
+        "(A) what type",
+        "(B) which day",
+        "(C) how much",
+        "(D) where"
+      ],
+      "translation": "【問題文訳】「今度の母の日には特別な女性をヒックストンホテルのブランチにお連れになり、感謝の気持ちをお伝えください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】and以下を直訳すると、「どんなにあなたが感謝しているかということを彼女に示しなさい」となる。したがって、「程度」を表す(C)のhow muchが当てはまる。それ以外は意味が通じない。ちなみに、and以下は＜S＋V＋O＋O＞の文型の命令形になっている。空所以下は直接目的語である。herが間接目的語。"
+    }
+  ],
+  [
+    "1985",
+    {
+      "question": "The new car season is almost here and the Victor dealer nearest you is ready to make you an offer you ——- can’t pass up.",
+      "option": [
+        "(A) simple",
+        "(B) simply",
+        "(C) simplify",
+        "(D) simplicity"
+      ],
+      "translation": "【問題文訳】「新しい車の季節がやってきます。お近くのヴィクター販売店では、きっと見逃せないオファーを準備してお待ちしております」",
+      "answer": "【解答】B",
+      "explanation": "【解説】offerのあとのyou以下がan offerを修飾する関係代名詞節であることが判断できれば、空所の位置に入れるのは副詞である(B)のsimplyだけであると分かる。(A)は形容詞で、この空所には入らない。(C)は「単純化する」という動詞。(D)は「単純」という意味の名詞で、いずれも当てはまらない。"
+    }
+  ],
+  [
+    "1987",
+    {
+      "question": "Cut those heating bills that are ——- your family’s budget with a Kingford heating pump that pays for itself in three years or less!",
+      "option": [
+        "(A) wrecking",
+        "(B) decaying",
+        "(C) destroying",
+        "(D) demolishing"
+      ],
+      "translation": "【問題文訳】「キングフォードの暖房装置で、ご家庭の予算を圧迫している暖房費を安くなさいませんか。3年以内で元が取れます」",
+      "answer": "【解答】C",
+      "explanation": "【解説】似た意味を持つ動詞の用法を確認する問題。(C)のdestroyは、物理的に「破壊する、壊す」という意味のほかにも、「たたきのめす、壊滅的な打撃を与える」のように、より比喩的に使われることもある。ここでは「家庭の予算を非常に圧迫している」という意味になる。これが正解。(A)のwreckは「難破させる、破壊する」で、具体的な破壊にしか使わない。(B)のdecayは「衰えさせる、腐らせる」という意味。(D)のdemolishも「破壊する、撤去する」で、いずれも具体的な破壊を表すので、この文では合わない。"
+    }
+  ],
+  [
+    "1989",
+    {
+      "question": "Skylark Airline, with the best record in the industry for flying on time, ——- be your choice when your time is precious.",
+      "option": [
+        "(A) has",
+        "(B) needs",
+        "(C) should",
+        "(D) ought"
+      ],
+      "translation": "【問題文訳】「スカイライン航空は定刻運行率が業界1位。時間が貴重なお客様が選ぶ航空会社は私たちです」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとに動詞の原形があることがポイント。be動詞をすぐあとに従えることができるのは、選択肢のうち(C)のshouldだけである。(A)のhas、(B)のneeds、(D)のoughtは、いずれもあとにtoが必要。"
+    }
+  ],
+  [
+    "1991",
+    {
+      "question": "Parents, take your little girl to our toy department where 300 Cuddly Kate dolls are available as long as supplies ——-.",
+      "option": [
+        "(A) last",
+        "(B) leave",
+        "(C) stay",
+        "(D) survive"
+      ],
+      "translation": "【問題文訳】「小さなお嬢さんを連れて当店のおもちゃ売り場にどうぞ。300体のカドリー・ケイト人形が待っています。在庫いっぱいのご奉仕です」",
+      "answer": "【解答】A",
+      "explanation": "【解説】as long as以下の主語はsuppliesである。空所には動詞が入る。そして、「在庫がある限り」を意味する動詞を選択する。(A)のlastは自動詞で「続く、足りる」を意味する。これが正解。(B)のleaveは他動詞で「…を残していく」なので、空所のあとに何か必要。(C)のstayは「（立ち去らずに）留まる」で、意味が合わない。(D)のsurviveは「生き残る」で、suppliesに合わない。"
+    }
+  ],
+  [
+    "1993",
+    {
+      "question": "The Swanson Medical Clinic has a team of family and specialist doctors ready to provide excellent patient care for all major ——- plan holders.",
+      "option": [
+        "(A) insure",
+        "(B) insured",
+        "(C) insuring",
+        "(D) insurance"
+      ],
+      "translation": "【問題文訳】「スワンソン医療クリニックでは、ホームドクターや専門医のチームを備えていますから、いつでも優れた診療に対応できます。主要健康保険が使えます」",
+      "answer": "【解答】D",
+      "explanation": "【解説】ある語の派生形が並んでいるので、文法や構文から考えて判断する。空所の前にmajor（主要な）という形容詞がある。そして、空所のあとには名詞がある。したがって、ここでは、形容詞に修飾され、あとに名詞を続けるものが適する。すると、名詞の(D) insuranceのみが当てはまる。"
+    }
+  ],
+  [
+    "2001",
+    {
+      "question": "Get the new Henry Hatter thriller at Jackson Books along with a great selection of children’s books and do-it-yourself guides of ——- kind.",
+      "option": [
+        "(A) any",
+        "(B) all",
+        "(C) every",
+        "(D) other"
+      ],
+      "translation": "【問題文訳】「ジャクソン書店でヘンリー・ハッターの新刊をお求めください。そのほか、幼児本やあらゆる種類の日曜大工ガイドブックの品揃えも豊富です」",
+      "answer": "【解答】C",
+      "explanation": "【解説】名詞を修飾する形容詞を選ぶ問題。意味から考えよう。まず、空所のあとのkindが単数形になっていることから、(B)のallを除外する。allのあとにくる可算名詞は複数形になる。(D)のotherも、前に定冠詞theやanyが付かない場合、あとにくる可算名詞は、通常複数形になる。(A)のanyは、肯定文では「どんな…も」という意味になる。この文では「どんな種類のガイドブック」では意味が合わない。したがって、(C)のeveryが正解。everyのあとには、名詞の単数形が続く。"
+    }
+  ],
+  [
+    "2003",
+    {
+      "question": "Whether its a ceremony or a centerpiece for your dining room, Lingley Flowers creates beautiful arrangements delivered free on short ——-.",
+      "option": [
+        "(A) notice",
+        "(B) information",
+        "(C) mail",
+        "(D) call"
+      ],
+      "translation": "【問題文訳】「宴会用でもご自宅のダイニングルームのお花でも、リングリー花卉店では美しいアレンジをしてご連絡いただいたあとすぐに配達いたします」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢がすべて名詞なので、意味で考える。空所の前のshortに惑わされないこと。携帯電話のメール形式に「ショートメール」というのがあるが、それではない。shortの前のonに注目。shortを省いて考えてみよう。(A)のnoticeを使ったon noticeが「通告されて」という意味でつながる。on short noticeは「急な通知で、（通知を受けて）すぐに」という成語。shortはnotice「通知」の内容が短いことではなく、時間的に間際であること。(B)のinformationを使ったon informationは「情報により」という意味になるが、この文では合わない。(C)のmailはbyを使ってby mailと言う。(D)のcallはonもbyも使えない。"
+    }
+  ],
+  [
+    "2005",
+    {
+      "question": "Watch “Down Home Memories” every Thursday at 8:00 on this NBS station for the hit comedy everyone is talking ——-.",
+      "option": [
+        "(A) to",
+        "(B) with",
+        "(C) in",
+        "(D) about"
+      ],
+      "translation": "【問題文訳】「話題のヒットコメディー『ダウン・ホーム・メモリー」を、毎週木曜日の8時からこのNBS局でご覧ください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】「みんなが話している（ところの）ヒットコメディー」という意味になるようにすると意味が通じる。(A)は、talk toで「…に話しかける」となり、(B)はtalk withで「…と話す」となる。いずれも目的語に「人」がくる。(C)はtalk in（無線誘導する）なので、これも不可。(D)のaboutを使ったtalk aboutが「…（ものごと）について話す」となり、aboutのあとにhit comedyが続く内容で、意味が通じる。"
+    }
+  ],
+  [
+    "2007",
+    {
+      "question": "——- to “Nature Adventure” today and get a free guide to the nation park system as well as the best articles for the modern nature traveler.",
+      "option": [
+        "(A) Read",
+        "(B) Subscribe",
+        "(C) Try",
+        "(D) Purchase"
+      ],
+      "translation": "【問題文訳】「今日『自然アドベンチャー』をご予約購読なさいますと、国立公園制度と現代自然旅行者のトップ記事が載ったガイドを差し上げます」\n【解答】B",
+      "answer": "【解説】選択肢がすべて動詞なので、意味から考える。そして、空所のあとのtoを大きなヒントとする。(A)のreadは、目的語が直接続くため、toは余分。(B)のsubscribeがtoを伴い「（新聞・雑誌などを）予約購読・定期購読する」という意味になる。(C)のtryも目的語が直接続く。to不定詞を従えるときのみtry toの形になる。したがって、toのあとは動詞の原形になるはず。(D)のpurchaseも他動詞で、あとに目的語が直接続く。",
+      "explanation": "【重要語句】\nsubscribe to「予約購読する」"
+    }
+  ],
+  [
+    "2009",
+    {
+      "question": "Heritage Jewelers will engrave your Zuckerman ——- for free and repair it on its lifetime guarantee at all six Heritage locations.",
+      "option": [
+        "(A) watched",
+        "(B) watch",
+        "(C) watcher",
+        "(D) watchful"
+      ],
+      "translation": "【問題文訳】「ヘリテージ宝石店の全6店舗で、あなたのザッカーマン時計に無料で文字入れをし、無期限保証つきで修理いたします」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢を一瞥すると動詞の形を選ぶ問題のようだが、意味で考えよう。(A)のwatchedでは、「ただで見られたZuckermanを彫る」となり、意味がつながらない。(B)のwatchは一見、動詞の原形と思いがちだが、「時計」という名詞でもあることを思い出そう。Engrave … watchで「時計に文字を入れる」という意味になり、これが正解。(C)のwatcherは「見る人、看護人」なので、文字を入れられない。(D)のwatchful（注意深い）も意味が通じない。"
+    }
+  ],
+  [
+    "2011",
+    {
+      "question": "Visit any Sunshine Travel office and arrange for a holiday trip this winter to a tropical island or a ski resort for less ——- you might imagine.",
+      "option": [
+        "(A) which",
+        "(B) that",
+        "(C) than",
+        "(D) what"
+      ],
+      "translation": "【問題文訳】「サンシャイン旅行においでになり、この冬、熱帯の島への休暇旅行やスキーリゾートへのご旅行を、びっくりする安さで手配なさいませんか。」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のlessはlittleの比較級である。比較の対象を示せるのは(C)のthanしかない。forは交換・対価を示すので、特にpriceなどの単語がなくても値段を表すことになる。for less than you might imagineで「あなたが想像しうるどんな値段よりも安く」となり、つまり「びっくりするくらい安く」ということ。ほかの選択肢は、すべて合わない。"
+    }
+  ],
+  [
+    "2013",
+    {
+      "question": "Sleep better tonight on a Silversteen Mattress which gives you the ——- you want for a good night’s sleep.",
+      "option": [
+        "(A) support",
+        "(B) effect",
+        "(C) reason",
+        "(D) policy"
+      ],
+      "translation": "【問題文訳】「シルバースティーン・マットレスで今夜はぐっすりお休みください。あなたをしっかり支え、熟睡に導いてくれます」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢がすべて名詞なので、意味から判断する。関係代名詞のあとのgivesの主語はSilversteen Mattressである。マットレスが「快眠のために与えて」くれそうなものと言えば、(C)のreason（理由）や(D)のpolicy（政策）でないことはすぐに判断できる。(B)のeffect（効果）は迷いそうだが、for …（…のために）なので、意味が逆。「快眠のあとの効果」のような意味合いの文ではない。(A)のsupportが、柱のような物理的な「支え」にも、「心の支え」のような比喩的な表現にも用いられ、この文に合っている。"
+    }
+  ],
+  [
+    "2015",
+    {
+      "question": "Java House coffee is ——- and darker than other brands due to its extra fine ground that you’ll love in your coffee pot each and every morning.",
+      "option": [
+        "(A) heavier",
+        "(B) ampler",
+        "(C) denser",
+        "(D) richer"
+      ],
+      "translation": "【問題文訳】「ジャヴァ・ハウスコーヒーはエキストラファイン挽きですから、ほかのブランドよりもリッチで濃い味です。毎朝のコーヒーがきっとお気に召します」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢に比較級が並んでいるが、すべて違う意味の形容詞なので、意味から判断すること。コーヒーを形容する意味のものが適する。(A)のheavyは「こってりした、しつこい」の意味を含むので、コーヒーの広告としては不適当。(B)のampleは「豊富な、潤沢な」で、味の描写には使われない。(C)のdenseは密度が高いこと。画像などに使う。(D)のrichはすでに日本語になっているが、味わいが豊かでコクのあるさまを表す。(D)が正解。"
+    }
+  ],
+  [
+    "2017",
+    {
+      "question": "Savemore shoppers have just one hour ——- to pick up great bargains in our dairy section on cheese and milk products during our limited two-for-one sale.",
+      "option": [
+        "(A) leaves",
+        "(B) left",
+        "(C) leaving",
+        "(D) to leave"
+      ],
+      "translation": "【問題文訳】「あと1時間で、セイヴモアにご来店のお客様への大バーゲンが終了します。乳製品コーナーではチーズとミルク製品が限定半額販売です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】ある単語の変化形が並んでいるので、文法から判断する。Savemore shoppersが主語で、動詞がhaveである。そして目的語がone hourである。justはone hourを修飾している副詞。動詞のhaveは使役動詞で、目的語のあとに動詞の原形や過去分詞、現在分詞、形容詞などを続け、「…に～させる、…に～してもらう」という意味を表す。この空所には、過去分詞が入り、「1時間が残されている」という意味を表しいている。(B)のleftが正解。"
+    }
+  ],
+  [
+    "2019",
+    {
+      "question": "——- here at National Buffet can choose from six delicious strawberry desserts during Strawberry Month.",
+      "option": [
+        "(A) Dine",
+        "(B) Dining",
+        "(C) Diners",
+        "(D) Dinners"
+      ],
+      "translation": "【問題文訳】「ここナショナルビュッフェのディナーでは、イチゴ月間のあいだ6種類のおいしいイチゴデザートの中からお選びいただけます」",
+      "answer": "【解答】C",
+      "explanation": "【解説】正しい語形の動詞を選ぶ問題。文頭が空欄になっているので、反射的に命令形だと考えてしまいがちだが、あとにcan choose という述部が来ているので、命令形では動詞が重複してしまう。文頭からBuffetまでが主語になると予測できるので、名詞句を作れるものを探すと、(B)のDiningが当てはまると判断できる。"
+    }
+  ],
+  [
+    "2021",
+    {
+      "question": "The central bank has cut the ——- interest rate again, the third cut in the last six months in an attempt to revive the housing industry.",
+      "option": [
+        "(A) primeval",
+        "(B) prime",
+        "(C) prior",
+        "(D) priced"
+      ],
+      "translation": "【問題文訳】「中央銀行はまた利下げに踏み切りました。過去6か月間で3度目の利下げになり、これは住宅産業を活性化する試みです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】似たつづりと意味合いの語が並んでいる。空所のあとにinterest rate（利率）が続いていることから考える。(B)のprimeを当てはめ、prime interest rateとすると、「プライムレート」となり、主語のThe central bank（中央銀行）とも意味が合う。(A)のprimevalは「原始の、太古の」という意味。(C)のpriorには、通常toが続く。"
+    }
+  ],
+  [
+    "2024",
+    {
+      "question": "The head of the minority party in the upper house has said she will ——- for governor with improving the quality of education as her top priority.",
+      "option": [
+        "(A) run",
+        "(B) elect",
+        "(C) vote",
+        "(D) nominate"
+      ],
+      "translation": "【問題文訳】「参議院の少数党党首は、教育問題の改善を最優先課題としてかかげ、知事に立候補することを表明しました」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにfor governorとあることがポイント。forのあとには冠詞のない名詞が続き、run for …で「…に立候補する」という意味を表す。よって(A)が正解。(B)のelectも(C)のvoteも主語は選挙民である。sheは立候補者なので合わない。(D)のnominateも、立候補者は「される側」に当たる。"
+    }
+  ],
+  [
+    "2026",
+    {
+      "question": "This early morning, Marilyn Bridge, ——- woman in the country, passed away at the age of 114 with a 74-year-old grandson at her side.",
+      "option": [
+        "(A) oldest",
+        "(B) an oldest",
+        "(C) the oldest",
+        "(D) among the oldest"
+      ],
+      "translation": "【問題文訳】「今朝早く、我が国最高齢の女性であるマリリン・ブリッジさんが、74歳の孫に見とられながら114歳で亡くなりました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢のoldestは最上級である。形容詞の最上級には定冠詞のtheが付く。theが付いているのは(C)のthe oldestと(D)のamong the oldestである。文の構成から、This early morningは「時」を表す副詞句で、主語ではない。Marilyn Bridgeが主語で、空所からcountryまでが、この人物を説明する並列の語句である。空所のあとのwomanが単数形になっているので、(D)のようにamongを前に付けることはできない。よって(C)のthe oldestが正解。"
+    }
+  ],
+  [
+    "2028",
+    {
+      "question": "Our local Chiefs are once again in first ——- in the Western League with a 3-0 win over the Rangers last night at Ranger Stadium.",
+      "option": [
+        "(A) site",
+        "(B) place",
+        "(C) scene",
+        "(D) location"
+      ],
+      "translation": "【問題文訳】「我が地元のチーフスは、昨夜レンジャー・スタジアムでレンジャーズを3対0で下し、再びウェスターンリーグの首位に立ちました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢に名詞が並んでいるので、文の意味との結び付きで考えよう。あとにin the Western Leagueというリーグ名が続いているので、firstという語から、「1位になった」という意味にすべきである。(B)のplaceが「（順序を表す）場所、位置」という意味で適切である。(A)のsiteは1つ1つの場所を表すので使えない。(C)のsceneは「場面、出来事」である。(D)は「地域」や「配置」を意味し、siteと同じように、順位を表す位置としては使えない。"
+    }
+  ],
+  [
+    "2030",
+    {
+      "question": "The verdict has just come in for the Stillman ——- trial with a unanimous vote of not guilty for the 40-year-old defendant.",
+      "option": [
+        "(A) murderously",
+        "(B) murderer",
+        "(C) murderous",
+        "(D) murder"
+      ],
+      "translation": "【問題文訳】「スティルマン殺人事件の裁判で、陪審員による判決が出ました。満場一致で40歳の被告に対して無罪を言い渡しました」",
+      "answer": "【解答】D",
+      "explanation": "【解説】ある語の派生形が並んでいるので、構文から文法的に考える。空所の前のStillmanの前にtheがあり、空所のあとにtrial（裁判）という名詞がある。したがって、空所には、形容詞あるいは形容詞の役割をする語が入る。(A)のmurderouslyは副詞である。(B)のmurdererは「殺人者」という名詞、(C)のmurderousは「殺人の」という形容詞だが、空所のあとのtrialが殺人を犯すわけではないので、この空所には合わない。(D)のmurderは「殺人」という名詞だが、これが正解。＜名詞＋名詞＞の形で、前の名詞が形容詞の役割をしている。"
+    }
+  ],
+  [
+    "2032",
+    {
+      "question": "The two largest supermarkets in the state will ——- if talks now going on in Rockland are successful.",
+      "option": [
+        "(A) buy",
+        "(B) acquire",
+        "(C) merge",
+        "(D) absorb"
+      ],
+      "translation": "【問題文訳】「現在ロックランドで続けられている会談が成功しますと、この州で最大の2つのスーパーマーケットが合併する模様です」",
+      "answer": "【解答】C",
+      "explanation": "【解説】それぞれ意味の違う名詞が並んでいるので、文法的に考えても違いは分からない。意味から判断しよう。ただ、目的語を必要とする動詞かそうではないのかといった文法の判断はすること。前半に大きな2つのスーパーのことが出ている。そして、後半には「交渉がうまく行けば」とある。この2つの意味を考えると、(C)のmerge（合併する）が適切だと判断できる。(B)のacquireと(D)のabsorbは「…を買収する」、「…を吸収する」のように、目的語を必要とする。空所のあとに目的語がないので、mergeしか当てはまらない。"
+    }
+  ],
+  [
+    "2034",
+    {
+      "question": "Ed Parks, the director of “Deadly Fire,” has chosen Jack Douglas as the lead for “Kiss of Poison” ——- Douglas’s career in comedy.",
+      "option": [
+        "(A) despite",
+        "(B) though",
+        "(C) while",
+        "(D) since"
+      ],
+      "translation": "【問題文訳】「『凄惨な火事』の監督であるエド・パークス氏は、コメディアンとしての芸歴を持つジャック・ダグラスを『毒の口づけ』の主役に選びました」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢に前置詞や接続詞が並んでいるので、意味と文法の両方から判断しよう。空所のあとは語句になっているので、空所には前置詞が当てはまる。前置詞は(A)のdespiteである。これが正解。(D)のsinceは前置詞の用法も接続詞の用法もあるが、前置詞の場合は、あとに「過去の時」を表す表現が続く。この文には合わない。"
+    }
+  ],
+  [
+    "2036",
+    {
+      "question": "The unexpected popularity of light trucks made at the Pickford factory ——- National Motors scrambling to hire additional workers.",
+      "option": [
+        "(A) having",
+        "(B) to have",
+        "(C) have",
+        "(D) has"
+      ],
+      "translation": "【問題文訳】「ピックフォード工場で生産中の軽トラックが予想外の人気で、ナショナルモーターズでは労働者の追加採用に四苦八苦です」",
+      "answer": "【解答】D",
+      "explanation": "【解説】文の構造と意味をしっかり見極めること。主語は文頭からfactoryまでである。途中にmadeという動詞があるが、これは「過去分詞の後置修飾」で、at the Pickford factoryを伴って前のlight trucksを修飾しているものである。したがって、空所には文全体の述語が入る。述語としての形になっているのは、(C)のhaveと(D)のhasである。主語の中心となる語はpopularityで単数を表すので、(D)のhasが正解。"
+    }
+  ],
+  [
+    "2038",
+    {
+      "question": "WXCB radio interviews a local Forest Ridge man who hopes to —— the world record for non-stop roller coaster riding.",
+      "option": [
+        "(A) compete",
+        "(B) violate",
+        "(C) overcome",
+        "(D) break"
+      ],
+      "translation": "【問題文訳】「WCCBラジオでは、地元フォレスト・リッジの男性にインタビューし、ジェットコースター連続乗車の世界記録への期待についてお聞きします」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢に動詞が並んでいるので、動詞の意味から考えよう。空所のあとにthe world record（世界記録）があることがポイント。「記録を破る」という意味で、(D)のbreakが当てはまる。(A)のcompete（…と競争する）は、自動詞で、compete against …やcompete for …のように使う。(C)のovercomeは「…に打ち勝つ」という意味だが、recordを目的語にすることはない。"
+    }
+  ],
+  [
+    "2040",
+    {
+      "question": "Dixon Dairy will close its plant in Lindsey in an attempt to cut overhead ——- ice cream prices continue to fall.",
+      "option": [
+        "(A) although",
+        "(B) as",
+        "(C) therefore",
+        "(D) that"
+      ],
+      "translation": "【問題文訳】「アイスクリームの価格が下げ止まらないため、ディクソン乳業は経費削減のためリンジー工場を閉鎖することになりました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢のすべてが接続詞あるいは接続詞的働きをする副詞なので、文の意味から考える。つまり、主節と従属節のつながりを考える。空所以降が「値段が下げ止まらない」という意味で、主節の前半が「工場を閉鎖する」となっている。したがって、「順接」を表す(B)のasが当てはまる。(C)のthereforeは副詞で接続詞的な働きをするが、この空所に当てはめると「…なので～」が逆になる。"
+    }
+  ],
+  [
+    "2042",
+    {
+      "question": "After 117 years at the same location, Tutley Tea ——- its doors for the last time on Water Street.",
+      "option": [
+        "(A) closes",
+        "(B) brews",
+        "(C) finishes",
+        "(D) repairs"
+      ],
+      "translation": "【問題文訳】「タトリー・ティーは117年間同じ場所で営業を続けてきましたが、ついにウォーター通りの店を閉店します」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにits doorsがあることがポイント。close one’s doorsで「閉店する」という意味を表す。(B)のbrewと(C)のfinishはdoorと意味がつながらない。(D)のrepairはdoorを目的語にとることはできるが、文全体の意味と合わない。"
+    }
+  ],
+  [
+    "2044",
+    {
+      "question": "Don Francis announced today he would seek a third term as mayor of Pleasington rather than ——- into the race for senator.",
+      "option": [
+        "(A) jump",
+        "(B) jumps",
+        "(C) jumping",
+        "(D) to jump"
+      ],
+      "translation": "【問題文訳】「ドン・フランシス氏は、今日、プリージングトン市長の3期目を目指すことにし、上院への出馬は見送ると発表しました」",
+      "answer": "【解答】A",
+      "explanation": "【解説】同じ語の派生形が並んでいるので、文法から考えるとよい。空所の前にrather thanがあるので、前後を比較していると考えられる。空所のあとの「上院への出馬」と比較しているのは、「市長の3選を目指すこと」である。ここではseekという動詞と比較される(A)のjumpが正解である。ほかの選択肢には、前半に比べられるような形のものがない。"
+    }
+  ],
+  [
+    "2046",
+    {
+      "question": "The marriage of Kim Wicks and her manager, Ted Collins, seems ——- for a break up, but the two insist they will still work together.",
+      "option": [
+        "(A) head",
+        "(B) heading",
+        "(C) headed",
+        "(D) header"
+      ],
+      "translation": "【問題文訳】キム・ウィックスとマネージャーのテッド・コリンズ氏との結婚は破談となる模様ですが、二人は今後も一緒に仕事をしていくと主張しています」",
+      "answer": "【解答】C",
+      "explanation": "【解説】headの派生形が並んでいる。文法的に考えよう。空所の前にseemsという動詞がある。このseemは、あとにto不定詞や動詞の現在分詞、過去分詞などを続け「…と思われる」という意味を表す。that節が続くこともある。これから考えると、可能性があるのは(B)のheadingと(C)のheadedである。主語の中心となる語がmarriageなので、過去分詞である(C)のheadedが当てはまる。head for …は「…に向かわせる」という他動詞の意味なので、「…に向かう」という意味は受動態で表す。"
+    }
+  ],
+  [
+    "2048",
+    {
+      "question": "Air Olympus will join the Star System Reservation group and expects the move will allow it to ——- Greek Air.",
+      "option": [
+        "(A) overact",
+        "(B) overlap",
+        "(C) overflow",
+        "(D) overtake"
+      ],
+      "translation": "【問題文訳】「オリンパス航空はスターシステム・リザベーション・グループに加盟することにしました。こうした動きでギリシャ航空を買収できると期待しています」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢のつづりが似た動詞の意味を考えよう。文全体はandでつながれた重文である。そして、後半のexpectsのあとに接続詞のthatが省略されており、そのthat節の中の主語はthe moveである。述部がwill allowである。the moveは前半の「加盟することにした」という全体の意味を指しており、itはAir Olympusである。航空会社がGreek Airという航空会社をどうするかとなれば、(D)のovertake（追い付く、買い付ける）が適切である。"
+    }
+  ],
+  [
+    "2050",
+    {
+      "question": "The Hope emerald was stolen early Monday ——- the security truck carrying it was robbed in heavy downtown traffic.",
+      "option": [
+        "(A) which",
+        "(B) when",
+        "(C) who",
+        "(D) where"
+      ],
+      "translation": "【問題文訳】「月曜日早く、エメラルド『ホープ』は、運搬中の警備トラックが中心街の交通渋滞の中強奪されました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前後の意味とearly Mondayの用法を考える。空所のあとに＜主語（the security truck carrying it）＋述語＞の文の形が続いているので、空所には関係詞が入ると判断できる。先行詞がMondayで「時」を表すので、空所には「時を表す関係副詞」である(B)のwhenが適切である。"
+    }
+  ],
+  [
+    "2052",
+    {
+      "question": "Coach Greg Williams of the Chargers gets fired ——- the Chargers worst season in six years.",
+      "option": [
+        "(A) follow",
+        "(B) followed",
+        "(C) following",
+        "(D) follower"
+      ],
+      "translation": "【問題文訳】「チャージャーズの監督グレッグ・ウィリアムズ氏は、チャージャーズがこの6年間で最悪の成績に終わり、解任されました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】文の構成を見極めよう。主語は文頭からChargersまでである。述部がget firedである。そして、空所以降は修飾語句になっている。そして「語句」になっていることに注意すること。つまり、語句の前に付く前置詞の働きをする選択肢が適切である。(C)のfollowingが「…のあとに、…に続いて」という意味で適切である。"
+    }
+  ],
+  [
+    "2054",
+    {
+      "question": "The Museum of Modern Art announced the “Jewels of the Queen” exhibition ——- a record-breaking 400,000 visitors.",
+      "option": [
+        "(A) invited",
+        "(B) attracted",
+        "(C) catalogued",
+        "(D) attended"
+      ],
+      "translation": "【問題文訳】「現代美術博物館の発表によりますと、『女王の宝石展』に過去最高の40万人が訪れたということです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢に動詞の過去形が並んでいる。主語と目的語の関係から考えよう。announcedのあとに接続詞のthatが省略されており、そのthat節の中の主語がthe “Jewels of the Queen” exhibitionである。これが「記録的な40万人の訪問者」をどうしたのかを考える。(B)のattractedが「魅了した、呼び込んだ」という意味で適切である。visitorsはinviteされたわけではないし、また、exhibitionは(A)のinviteの主語にはなれない。(D)のattendでは主語と目的語が逆。"
+    }
+  ],
+  [
+    "2056",
+    {
+      "question": "Consumer ——- for smaller cars give the Fiesta factory in Georgetown a new lease on life.",
+      "option": [
+        "(A) prefer",
+        "(B) preferred",
+        "(C) preferences",
+        "(D) preferential"
+      ],
+      "translation": "【問題文訳】「消費者の嗜好が小型車に向いてきたため、ジョージタウンのフィエスタ工場がまた活況を呈しております」",
+      "answer": "【解答】C",
+      "explanation": "【解説】文の構成をしっかり見極めよう。主語は文頭からcarsまでで、giveが動詞である。なので、空所には述語動詞になる形は当てはまらない。つまり、(A)のpreferと(B)のpreferredは不可である。さらに、Consumerが単数形だという点からも、(A)のpreferは適さない。(D)のpreferentialは形容詞で、この空所には当てはまらない。(C)のpreferencesが正解。consumer preferenceで「消費者の好み」という意味になる。"
+    }
+  ],
+  [
+    "2058",
+    {
+      "question": "A 7.7 magnitude earthquake has just ——- western Afghanistan with unconfirmed reports of heavy damage in many villages.",
+      "option": [
+        "(A) struck",
+        "(B) swung",
+        "(C) disturbed",
+        "(D) flooded"
+      ],
+      "translation": "【問題文訳】「マグニチュード7.7の地震がアフガニスタン西部を襲い、未確認ながら、多くの村で大きな被害が出ている模様です」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文の意味と選択肢の意味との関連から判断する問題。主語の中心となる語はearthquakeである。そして、空所のあとのwestern Afghanistanが動詞の目的語である。「地震が襲う」と言う場合の動詞にはstrikeを使う。(A)のstruckがstrikeの過去形で、適切である。"
+    }
+  ],
+  [
+    "2060",
+    {
+      "question": "Demonstrators took to the streets in Sydney where a meeting of high-level environmental officials failed ——- on measures against global warming.",
+      "option": [
+        "(A) agree",
+        "(B) agreeing",
+        "(C) agreement",
+        "(D) to agree"
+      ],
+      "translation": "【問題文訳】「環境部門の高官たちが集まったシドニーで、地球温暖化対策が合意に至らなかったため、デモ隊が街頭デモを繰り広げました」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前の動詞がfailedであることがポイント。failは目的語にto不定詞をとり、「…することに失敗する」という意味になる。したがって(D)のto agreeが正解。ほかの選択肢の形はいずれも適さない。"
+    }
+  ],
+  [
+    "2062",
+    {
+      "question": "Twenty-three local fashion designers will join this year’s British Fashion Week to shine a spotlight on an industry once thought ——-.",
+      "option": [
+        "(A) die",
+        "(B) dying",
+        "(C) death",
+        "(D) dead"
+      ],
+      "translation": "【問題文訳】「一度はすたれたと思われた業界にスポットライトを当てるため、23人の地元のファッションデザイナーたちが今年のイギリスファッションウィークに参加します」",
+      "answer": "【解答】D",
+      "explanation": "【解説】意味と形の似た品詞が選択肢に並んでいる。構文と文法から考えよう。空所の前のthoughtという動詞と空所の関係を考えてみよう。thoughtの前にonceがあるが、thoughtは空所の語を従えて、前のan industryという名詞を修飾している過去分詞である。thinkは受動態の形で、あとに形容詞や動詞の過去分詞を続け「…だと思われている」という意味を表す。これから考えると、(B)のdyingと(D)のdeadが可能性のある語である。dyingという進行形は時制としては未来のことを意味する語なので、ここでは合わない。deadが正解。「すたれたと思われていた」という意味になる。"
+    }
+  ],
+  [
+    "2064",
+    {
+      "question": "Gold prices reach a record high ——- worries that exchange rates may continue their wild fluctuations.",
+      "option": [
+        "(A) during",
+        "(B) among",
+        "(C) between",
+        "(D) amid"
+      ],
+      "translation": "【問題文訳】「為替相場が乱高下を続けるという懸念のなか、金相場が過去最高値をつけました」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢が似たような意味の前置詞なので、意味の違いを考えて判断しよう。(A)のduringは「…のあいだに」という意味だが、あとには「時間の幅」を表す表現が続く。この文のworriesは合わない。(B)のamongは、「いくつかの数えられるもののあいだに」ということ。(C)のbetweenは「2つのもののあいだ」である。(D)のamidが「いろいろなもののあいだに」という意味で、あとに名詞の単数形を続けることもできる。これが正解。"
+    }
+  ],
+  [
+    "2066",
+    {
+      "question": "Drug-testing results show the gold medal winner for the women’s 10,000- ——- race will be keeping her place in the record books.",
+      "option": [
+        "(A) meter",
+        "(B) meter’s",
+        "(C) meters",
+        "(D) meters’"
+      ],
+      "translation": "【問題文訳】「薬物検査の結果、女子の1万メートルの金メダリストの名前は、そのまま記録に残ることになりました」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前に数字があり、あとに名詞が続いていることがポイント。数字のあとに名詞の単数形を続け、形容詞の役割をする。したがって(A)のmeterが正解。このmeterは複数形にはならない。【例】a ten-year-old boy「10歳の男の子」"
+    }
+  ],
+  [
+    "2068",
+    {
+      "question": "“Crash” ——- “Fighting the World” at the box office as the week’s top-grossing film in the national ranking.",
+      "option": [
+        "(A) mentioned",
+        "(B) displaced",
+        "(C) scheduled",
+        "(D) launched"
+      ],
+      "translation": "【問題文訳】「映画の全国興行収益成績ランキングで、今週『世界を敵に』に代わって『クラッシュ』がトップに立ちました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所をはさんで前後に映画のタイトルが並んでいることから考える。「勝った」、「追い抜いた」などの意味が考えられる。選択肢の動詞の意味を見てみると、(B)のdisplacedが「取って代わった」という意味で適している。つまり、「逆転した」ということである。(D)のlaunchedは「何かを始める」という意味で、この文のように前後に同じような映画のタイトルが並ぶのはおかしい。"
+    }
+  ],
+  [
+    "2070",
+    {
+      "question": "A third farm reports ——- of swine flu amid calls for a change in the wholesale meat testing system.",
+      "option": [
+        "(A) preference",
+        "(B) recovery",
+        "(C) evidence",
+        "(D) testimony"
+      ],
+      "translation": "【問題文訳】「肉の卸売りでの検査体制の変更の声が出ている中、3つ目の農家が豚インフルエンザを通報してきました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】A third farmが主語でreportsが動詞である。reportsを「レポート」という名詞だと思い込むと、文の意味が取れなくなる。amidは「…の真っ最中に」という意味。swine fluは「豚インフルエンザ」である。こうした内容から考えると、(C)のevidence（証拠、証言、痕跡）が適切である。(B)のrecoveryは「回復」という意味で紛らわしいが、あとにはfromを伴う。"
+    }
+  ],
+  [
+    "2072",
+    {
+      "question": "A six-alarm blaze at the Ridgeway warehouse leaves Hadley’s ——- business in ruins.",
+      "option": [
+        "(A) big",
+        "(B) bigger",
+        "(C) biggest",
+        "(D) the biggest"
+      ],
+      "translation": "【問題文訳】「6回の出動命令が出されたリッジウェイ倉庫の大火災で、ハドリー市最大の会社が廃墟となってしまいました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のHadley’sの役割の判断がポイント。(A)のbigであれば、Hadley’sの前に冠詞が必要。(B)のbiggerは比較級なので、文の中に比較の対象が述べられる必要がある。(C)のbiggestが正解。形容詞の最上級には定冠詞のtheが付くが、このように名詞の所有形が前に付くと、theは省略される。同じ理由から、(D)のthe biggestはtheが余分である。"
+    }
+  ],
+  [
+    "2074",
+    {
+      "question": "Weston Hospital moves into its new facility as the only ——- medical center in southern Hatfield County.",
+      "option": [
+        "(A) comprehend",
+        "(B) comprehension",
+        "(C) comprehensively",
+        "(D) comprehensive"
+      ],
+      "translation": "【問題文訳】「ウェストン病院が新しい施設に移転し、ハットフィールド郡南部でただ1つの総合病院となります」",
+      "answer": "【解答】D",
+      "explanation": "【解説】派生形が並んでいるので、文の構成や文法から考える。空所の前にthe onlyがあり、あとにmedical centerという名詞句が続いているので、空所には形容詞が当てはまると考えられる。形容詞は(D)のcomprehensiveである。「総合的な」という意味。comprehensive medical centerで「総合病院」となる。"
+    }
+  ],
+  [
+    "2076",
+    {
+      "question": "More area middle schools have closed as a preventive measure while the influenza ——- moves into its third week.",
+      "option": [
+        "(A) epidemic",
+        "(B) symptoms",
+        "(C) penetration",
+        "(D) prevalence"
+      ],
+      "translation": "【問題文訳】「インフルエンザの流行が3週目に入り、予防対策としてさらに多くの中学校が学校閉鎖に踏み切っています」",
+      "answer": "【解答】A",
+      "explanation": "【解説】while以降では、theから空所の語までが主語で、movesが動詞である。したがって、move into its third weekを述語にできる名詞が主語となる。(A)のepidemic（流行）が正解。(B)のsymptomは「存在する症状」なのでmove intoは合わない。(C)のpenetrationは「突き刺す」という意味の名詞形なので、これも合わない。(D)のprevalenceは「流行している率」のこと。したがって、これも適切ではない。"
+    }
+  ],
+  [
+    "2078",
+    {
+      "question": "A study ——- water supply in 2020 will require a shift toward low water use agriculture.",
+      "option": [
+        "(A) predicts",
+        "(B) is predicted",
+        "(C) to predict",
+        "(D) predicted"
+      ],
+      "translation": "【問題文訳】「ある研究によりますと、2020年の水の供給状態では、水の使用を少なくする農業に移行する必要が出てくるだろうということです」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文の構成を見極めよう。主語はA studyだけである。そして、空所の語はその動詞に相当する。空所のあとに接続詞のthatが省略されている。that節の主語がwater supply in 2020で、その述部がwill requireである。したがって、空所の形として可能性がないのが(C)のto predictである。(A)のpredictsが正解。主語が3人称単数であるし、続く節が未来形になっていることから適切である。A studyは「予測する側」になるので、受動態である(B)のis predictedは不適切である。節の時制が未来形なので、過去形の(D) predictedも使えない。"
+    }
+  ],
+  [
+    "2080",
+    {
+      "question": "James Quince, president of Quince Media, ——- he had allowed faulty accounting practices that inflated the company’s stock price.",
+      "option": [
+        "(A) questioned",
+        "(B) admitted",
+        "(C) accepted",
+        "(D) permitted"
+      ],
+      "translation": "【問題文訳】「クィンス・メディア社の社長ジェームス・クィンス氏が、不正会計によって会社の株価を上げたことを認めました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとの意味合いから考える。不正をやっていたことという内容なので、「しぶしぶ認めた」という意味になる(B)のadmittedが適切である。主語は質問される側に当たるので、(A)のquestionedは合わない。(C)のacceptedは「受け入れた」なので、後半の意味と合わない。(D)のpermittedは「許した」である。"
+    }
+  ],
+  [
+    "2082",
+    {
+      "question": "Heavy rains on Friday increased the danger of landslides ——- the hills, which are east of the city with Copanga Canyon most at risk.",
+      "option": [
+        "(A) at",
+        "(B) of",
+        "(C) in",
+        "(D) on"
+      ],
+      "translation": "【問題文訳】「金曜日の豪雨でがけ崩れの危険が増し、市の西方にあるコパンガ・キャニオンの丘陵地帯では最も危なくなってきています」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前後で意味をしっかり理解しよう。空所のあとのthe hillsが複数形になっていることがポイント。「谷あいで、山あいで」と言うときはin the hills、in the mountainsのように、前置詞はinを使い、続く名詞を複数形にする。"
+    }
+  ],
+  [
+    "2084",
+    {
+      "question": "Motorists were surprised this morning as the storm system predicted to bring rain during the night ——- left a heavy blanket of snow.",
+      "option": [
+        "(A) thus",
+        "(B) nevertheless",
+        "(C) still",
+        "(D) instead"
+      ],
+      "translation": "【問題文訳】「夜のうちは雨だろうと予測されていた嵐が大雪に転じ、今朝は車のドライバーたちをびっくりさせています」",
+      "answer": "【解答】D",
+      "explanation": "【解説】副詞や接続詞が選択肢に並んでいるので、意味から判断しよう。(A)のthusは、前に述べたことに対して「その結果として、それ故に」という意味を表す。「雨の予想に反して」という内容なので、thusは合わない。(B)のneverthelessは「それにもかかわらず」という意味なので、これも不可。(C)のstillは「それでもなお」という意味。予想に反したことを言うのには合わない。(D)のinsteadが適切である。「それではなく、それどころか」という意味である。"
+    }
+  ],
+  [
+    "2086",
+    {
+      "question": "Temperatures will rise on Sunday as warm air flows up from the Gulf and skies clear ——-.",
+      "option": [
+        "(A) signify",
+        "(B) signification",
+        "(C) significant",
+        "(D) significantly"
+      ],
+      "translation": "【問題文訳】「湾から暖かい空気が入り込み、日曜日の気温は上昇し、空は快晴の模様です」",
+      "answer": "【解答】D",
+      "explanation": "【解説】文の構成と文法から考えよう。主節はSundayまで。as以降は従属節である。この節の中に2つの文がandで結ばれている。andのあとのskiesは主語である。動詞がclearなので、空所には、その動詞を説明する（修飾する）副詞が当てはまる。副詞は(D)のsignificantlyである。"
+    }
+  ],
+  [
+    "2088",
+    {
+      "question": "Residents should take cover underground until 9:00 p.m. as numerous tornadoes are ——- to cross Hamilton County.",
+      "option": [
+        "(A) expected",
+        "(B) planned",
+        "(C) considered",
+        "(D) waited"
+      ],
+      "translation": "【問題文訳】「ハミルトン郡ではいくつもの竜巻が予測されるため、住民の皆さんは午後9時までは地下に避難してください」",
+      "answer": "【解答】A",
+      "explanation": "【解説】「竜巻がやってくる」ということと選択肢の動詞の意味合いを考えて判断しよう。(A)のexpectを「期待して待つ」と思い込まないように注意。竜巻は「期待されないもの」なので、expectは間違いだと思ってしまいかねない。「…と思う」くらいの意味合いである。よって、(A)のexpectedが正解。竜巻は「計画される」ものでも「待たれる」ものでもないので、(B)のplannedと(D)のwaitedは間違い。(C)のconsideredも「考慮される」なので、意味が合わない。"
+    }
+  ],
+  [
+    "2090",
+    {
+      "question": "For the third night in a row, a frost threatens orange growers making ——- necessary to heat area orchards.",
+      "option": [
+        "(A) that",
+        "(B) it",
+        "(C) to be",
+        "(D) if"
+      ],
+      "translation": "【問題文訳】「3夜連続で霜の恐れがありますので、オレンジ栽培農家は地域の果樹園を温める必要があります」",
+      "answer": "【解答】B",
+      "explanation": "【解説】構文をしっかり見極めよう。コンマ以降では、a frostが主語で、threatensが動詞、orange growersが目的語である。そして、making以降は「分詞構文」である。necessaryのあとにto不定詞があることがポイント。＜make＋仮目的語のit＋形容詞＋to不定詞＞の形になっている。「…することが必要となる」という意味。よって、空所には(B)のitが当てはまる。"
+    }
+  ],
+  [
+    "2092",
+    {
+      "question": "New compulsory water restrictions were announced today, forcing golf courses to stop ——- fairways and shutting down the Johnson Fountain in Central Park.",
+      "option": [
+        "(A) water",
+        "(B) watering",
+        "(C) watered",
+        "(D) to water"
+      ],
+      "translation": "【問題文訳】「新しい節水基準が今日発表され、ゴルフコースではフェアウェイへの散水はできなくなり、セントラルパークのジョンソン噴水は断水となりました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にstopがあることがポイント。stopは目的語として動名詞をとる。不定詞は不可。stopに不定詞が続くと「…するために立ち止まる、…するために止める」という意味になる。ここでは「…するのを止める」という意味なので、動名詞である(B)のwateringが適切である。"
+    }
+  ],
+  [
+    "2094",
+    {
+      "question": "The city will open 12 cooling centers for residents hoping to get away from the heat that continues to ——- the local area.",
+      "option": [
+        "(A) grip",
+        "(B) watch",
+        "(C) chill",
+        "(D) enjoy"
+      ],
+      "translation": "【問題文訳】「この地方に相変わらず留まっている熱波から逃れられるよう、市では住民のために12箇所の冷房施設をオープンさせる予定です」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所に当てはまる動詞の主語が何なのかを判断する。continuesの前のthatは関係代名詞で、先行詞はthe heatである。つまり、the heatが空所の動詞の主語に当たる。「熱波」が当地に対してなすことなので、(A)のgrip（留まる、しっかりつかまる）が適切である。"
+    }
+  ],
+  [
+    "2096",
+    {
+      "question": "Take an umbrella with you today as the bright weather outside will change ——- in the early afternoon.",
+      "option": [
+        "(A) potentially",
+        "(B) previously",
+        "(C) dramatically",
+        "(D) suggestively"
+      ],
+      "translation": "【問題文訳】「外は晴れていますが、午後早く大きく変化しますので、今日は傘を持ってお出かけください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢はいずれも副詞なので、意味で判断する。「晴れた天気が変わる」のであるから、「急激に」という意味の(C) dramaticallyが適切である。(A)のpotentiallyは「潜在的に、将来の可能性として」という意味だが、能力的なことを言うので、天候の話には使えない。(B)のpreviouslyは「前もって」なので、changeと合わない。(D)のsuggestivelyは「思わせぶりに」なので、天候の話題とは合わない。"
+    }
+  ],
+  [
+    "2098",
+    {
+      "question": "Watch out for high winds today, especially ——- you’re crossing any of the bridges in a lighter vehicle.",
+      "option": [
+        "(A) whether",
+        "(B) whenever",
+        "(C) because",
+        "(D) if"
+      ],
+      "translation": "【問題文訳】「特に軽い車両で橋を渡るようでしたら、今日は強風に十分注意してください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとの内容と前半の「注意しましょう」との関係を考えよう。あとにany of the bridgesとあることもポイント。「もし渡るようなことがあれば」という意味合いになっていると判断できる。したがって(D)のifが適切である。(B)のwheneverは「…するときはいつでも」なので、any of the bridgesと意味がそぐわない。"
+    }
+  ],
+  [
+    "2100",
+    {
+      "question": "Flooding on the Mocton River will crest today at Wilton where waters will be seven feet ——- flood stage.",
+      "option": [
+        "(A) on",
+        "(B) above",
+        "(C) to",
+        "(D) than"
+      ],
+      "translation": "【問題文訳】「モックトン川の洪水が今日ウィルトンでピークに達するでしょう。警戒水位を7フィート超える模様です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにseven feetと数詞を伴った表現があることに注目。空所のあとにflood stage（警戒水位）とあるので、「それよりも高い」と考えられ、(B)のaboveが適切だと判断できる。(C)のtoはwaters will beのbeと合わない。比較している内容でもないので、(D)のthanも使えない。"
+    }
+  ],
+  [
+    "2102",
+    {
+      "question": "Dress warm tonight as a cold air mass will move into the area and temperatures will be ——- late November.",
+      "option": [
+        "(A) as cold as",
+        "(B) colder",
+        "(C) colder and colder",
+        "(D) the coldest of"
+      ],
+      "translation": "【問題文訳】「この地方に今夜寒気団が張り出してきますので、暖かい装いが必要です。気温は、11月下旬並みの寒さになります」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢の内容と空所以降のlate Novemberとの兼ね合いで考えよう。「11月下旬と同じくらい寒く」という意味になる(A)のas cold asが適切である。比較の文ではないので、(B)のcolderは使えない。(C)のcolder and colderは「ますます寒くなる」という意味だが、late Novemberと合わない。(D)のthe coldest ofであれば、あとはin Novemberのようになる。"
+    }
+  ],
+  [
+    "2104",
+    {
+      "question": "A new record ——- for April was recorded today in Preston with the mercury climbing to 97, two degrees higher than the previous record.",
+      "option": [
+        "(A) height",
+        "(B) highly",
+        "(C) high",
+        "(D) highest"
+      ],
+      "translation": "【問題文訳】「今日、今までの記録を2度上回る97度になり、プレストンで4月としては最高気温を記録しました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前後の単語の意味と用法を考えよう。空所の前のrecordは「記録的な」という意味の形容詞である。newも形容詞。new recordで「新記録の」という形容詞の用法になっている。new recordには「新記録」という名詞の意味もある。形容詞のあとに続くのであるから、空所には名詞が入る。(C)のhighが「高さ」という意味の名詞である。(A)のheightも「高さ」という意味の名詞だが、物理的な高さに使い、気温の高さには使えない。"
+    }
+  ],
+  [
+    "2106",
+    {
+      "question": "This weekend ought to ——- our first one without any rain in the last four weeks, so get out those barbecue grills!",
+      "option": [
+        "(A) is",
+        "(B) be",
+        "(C) time",
+        "(D) on"
+      ],
+      "translation": "【問題文訳】「この4週間で、この週末は初めて雨が降らない見込みです。バーベキューセットを持ち出す絶好の機会です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のtoは不定詞をつくるtoである。ought to …は「…するはずだ、…であるべきだ」という意味の助動詞の用法を持つ。したがって、空所には動詞の原形のbeが入る。(B)が正解。"
+    }
+  ],
+  [
+    "2108",
+    {
+      "question": "The last year has gone into the record books as the driest one in 14 years with rainfall only 70 percent of the year ——-.",
+      "option": [
+        "(A) before",
+        "(B) already",
+        "(C) recently",
+        "(D) formerly"
+      ],
+      "translation": "【問題文訳】「去年はこの14年で最も雨が少なかった年として記録されることになりました。降水量は一昨年のわずか70パーセントでした」",
+      "answer": "【解答】A",
+      "explanation": "【解説】まず、冒頭で「去年」のことを述べている。そして、最後に「その前の年」と比較して言っている。「その前の年」はthe year beforeのように、yearのあとにbeforeを続けて表現する。(A)が正解。(D)のformerlyは、the former yearのように言うと、「その前の年」という意味になる。"
+    }
+  ],
+  [
+    "2110",
+    {
+      "question": "The pollen count will be 11.4 tomorrow, so hay-fever sufferers are advised to stay ——- when possible.",
+      "option": [
+        "(A) at indoor",
+        "(B) in indoors",
+        "(C) indoor",
+        "(D) indoors"
+      ],
+      "translation": "【問題文訳】「明日の花粉の量は11.4になる模様です。ですから、花粉症の方はできるだけ家の中で過ごされるのがいいかもしれません」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前の語が動詞なので、空所には副詞が適切である。「屋内で」はindoorsと1語で表現する。doorsは複数形になる。(B)のin indoorsはinが余分。"
+    }
+  ],
+  [
+    "2112",
+    {
+      "question": "Hurricane Sylvia is threatening coastal areas with elevated wind speeds in 24 hours and landfall ——- in 36 hours.",
+      "option": [
+        "(A) like",
+        "(B) liking",
+        "(C) likeness",
+        "(D) likely"
+      ],
+      "translation": "【問題文訳】「ハリケーン・シルビアのため沿岸部では警戒が必要です。向こう24時間は風は強さを増し、およそ36時間後に上陸する模様です」",
+      "answer": "【解答】D",
+      "explanation": "【解説】文の構成を見極めよう。空所の前のlandfall（台風の上陸）は、前のelevated windと並列で使われている名詞である。空所の語はあとに続いているin 36 hoursを修飾する副詞である。「およそ36時間後」という意味。選択肢の中で副詞は(D)のlikelyだけである。「たぶん、おそらく」という意味。likelyには「ありそうな」という形容詞の意味もある。"
+    }
+  ],
+  [
+    "2114",
+    {
+      "question": "Showers may fall in scattered areas, but this will have no ——- on the overall drought condition which is now entering its 16th week.",
+      "option": [
+        "(A) result",
+        "(B) cause",
+        "(C) effect",
+        "(D) choice"
+      ],
+      "translation": "【問題文訳】「所によりにわか雨になるでしょう。ただ、もう16週目になろうとしている全域の旱魃には何ら影響はない模様です」",
+      "answer": "【解答】C",
+      "explanation": "【解説】butのあとのthisの意味を考えよう。これは前の「にわか雨があること」を指している。にわか雨と「全体の干ばつの状態との意味合いを考える。空所の前にnoがあるので、「影響がない」と考えられ、(C)のeffectが適切である。(A)のresultは紛らわしいが、「干ばつの状態に対する結果」では、意味が通じない。"
+    }
+  ],
+  [
+    "2116",
+    {
+      "question": "Fires are ——- at Rio Norte following lightning strikes that ignited dry grasslands earlier today.",
+      "option": [
+        "(A) burns",
+        "(B) burning",
+        "(C) burned",
+        "(D) to burn"
+      ],
+      "translation": "【問題文訳】「今日草原で起きた落雷による自然火災によって、リオ・ノルテは炎に包まれています」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にbe動詞があるので、be動詞に続くことができるものをまずチェックする。(A)のburns以外は、すべて可能性がある。それで、次に続く文の内容を考える。following lightningで、現在のことを述べていることになるので、(B)のburningが正解。火は自ら燃えるものなので、受動態の(C) burnedは不適切。(D)のto burnを続けると、「燃えることになる」となり、that以降の時制とも合わない。"
+    }
+  ],
+  [
+    "2118",
+    {
+      "question": "Patches of fog in low-lying areas will burn off ——- 10:00 a.m. and daytime temperatures should be mild throughout the afternoon.",
+      "option": [
+        "(A) at",
+        "(B) until",
+        "(C) by",
+        "(D) after"
+      ],
+      "translation": "【問題文訳】「低平地の霧は午前10時までには晴れ上がり、日中の気温は午後いっぱい穏やかでしょう」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとに時間を示す表現がある。そして、その前が未来形である。burn offは「（霧が）次第に消えていくもの」なので、(A)のatを使った「10時きっかり」はおかしい。(B)のuntilは「…までずっと（続く）」ことを意味するので、burn offと合わない。(C)のbyが「…までに（消え去っている）」という意味で、適切である。(D)のafterでは後半の内容と矛盾する。"
+    }
+  ],
+  [
+    "2120",
+    {
+      "question": "With snowfall in the Mt. Astor area of two centimeters per hour today, the risk of avalanches is elevated and people are warned to ——- climbing.",
+      "option": [
+        "(A) avoid",
+        "(B) endure",
+        "(C) respect",
+        "(D) insist"
+      ],
+      "translation": "【問題文訳】「アストー山地方では今日、降雪が1時間当たり2センチになり、雪崩の危険が高まっていますので、登山は避けるよう呼びかけています」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとにclimbingという動名詞が続いていることがポイント。目的語として動名詞をとり、文の意味に合致するのは(A)のavoidである。(B)のendureは「耐える」という意味で、「登るのを止める」意味にはならない。(C)のrespectは目的語にto不定詞を取る。(D)のinsistは、insist on …の形になる。"
+    }
+  ],
+  [
+    "2122",
+    {
+      "question": "Lovely spring weather has ——- arrived, and it’s time to start transplanting your potted plants into your garden.",
+      "option": [
+        "(A) final",
+        "(B) finally",
+        "(C) finalized",
+        "(D) finalists"
+      ],
+      "translation": "【問題文訳】「ようやく春らしくなってきました。鉢植えを庭に移植し始める時期になりました」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にhasがあり、あとに過去分詞がある。つまり、現在完了形の文である。hasと過去分詞のあいだに入るのは副詞で、(B)のfinallyが適切である。"
+    }
+  ],
+  [
+    "2124",
+    {
+      "question": "The thunderstorm last night went on for nearly an hour in Compton but ——- reached El Torro where only brief showers were seen.",
+      "option": [
+        "(A) barely",
+        "(B) surely",
+        "(C) almost",
+        "(D) mostly"
+      ],
+      "translation": "【問題文訳】「コンプトンでは昨夜、雷雨が1時間近くも続きましたが、エル・トーロまでは届かずわずかににわか雨が見られただけでした」",
+      "answer": "【解答】A",
+      "explanation": "【解説】冒頭のThe thunderstormと最後のonly brief showersとの関連を考える。「一方は雷雨で、もう一方は少しのにわか雨」だったわけだから、否定の意味を表す(A)のbarelyが適している。"
+    }
+  ],
+  [
+    "2126",
+    {
+      "question": "Unusually warm temperatures could be a problem this afternoon during the running of the Wickfield Marathon, so drink water ——- it is offered.",
+      "option": [
+        "(A) so",
+        "(B) until",
+        "(C) nonetheless",
+        "(D) whenever"
+      ],
+      "translation": "【問題文訳】「今日の午後は季節外れの暖かさで、ウィックフィールド・マラソンは大変かもしれません。どの給水所でも水分の補給をしましょう」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとがit is offeredと「節」になっている。最初の「非常に気温が上がる」という内容と、マラソンの途中での注意事項を述べている文なので、「水が出されたらいつでも」という意味になる(D)のwheneverが適切である。"
+    }
+  ],
+  [
+    "2128",
+    {
+      "question": "Haverston will be cool and dry on Friday with rains early on Saturday and warmer weather as Saturday ——-.",
+      "option": [
+        "(A) progress",
+        "(B) progresses",
+        "(C) progressive",
+        "(D) progressively"
+      ],
+      "translation": "【問題文訳】「ハバーストンでは、金曜日は涼しくて乾燥するでしょう。土曜日早く雨になり、次第に暖かくなっていく見込みです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】派生形が並んでいるので、文法と文の構成から考える。Saturdayの前のasが接続詞であることに気づくこと。「土曜日が進行するにつれて」という意味になる。しがたって、この空所には動詞が当てはまる。Saturdayは3人称単数なので、「3単現のs」が付いている(B)のprogressesが正解である。"
+    }
+  ],
+  [
+    "2130",
+    {
+      "question": "Dress warm if you are going to the Pirates’ game as temperatures at Gordon Stadium will be below ——- all afternoon.",
+      "option": [
+        "(A) cold",
+        "(B) snow",
+        "(C) freezing",
+        "(D) condition"
+      ],
+      "translation": "【問題文訳】「ゴードンスタジアムでは午後いっぱい氷点下のままでしょうから、パイレーツの試合には温かくしてお出かけください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のbelowがポイント。気温のことを述べている文であるので、belowに続いて意味を成すのは(C)のfreezingである。below freezingで「氷点下」ということ。"
+    }
+  ],
+  [
+    "2132",
+    {
+      "question": "Temperatures will not drop much tomorrow but significantly drier air will make the heat much more ——-.",
+      "option": [
+        "(A) bears",
+        "(B) bearing",
+        "(C) bearable",
+        "(D) bearably"
+      ],
+      "translation": "【問題文訳】「明日は気温はあまり下がりませんが、非常に乾燥した空気のため暑さはずいぶんしのぎやすくなるでしょう」",
+      "answer": "【解答】C",
+      "explanation": "【解説】文の構成を考えよう。＜make＋目的語＋目的格補語＞の形になっている。much moreは、その補語に付いたもの。形容詞が当てはまる。形容詞は(B)のbearingと(C)のbearableである。暑さ自体が耐えるわけではないので、(B)のbearingは使えない。(C)のbearableが正解。"
+    }
+  ],
+  [
+    "2134",
+    {
+      "question": "——- be surprised if you find frost on your car tomorrow morning as cold air will move in during the night.",
+      "option": [
+        "(A) No",
+        "(B) Not",
+        "(C) Don’t",
+        "(D) Won’t"
+      ],
+      "translation": "【問題文訳】「夜のうちに寒気団が張り出してきますので、明日の朝は車に霜が降りていてびっくりするかもしれません」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとに動詞の原形のbeが続いているので、可能性があるのは(C)のDon’tと(D)のWon’tであるが、文全体が「禁止の命令文」になっているので、Don’tが正解である。"
+    }
+  ],
+  [
+    "2136",
+    {
+      "question": "Beaverton will have a beautiful day today with highs in the low 20s and slight ——- out of the southwest.",
+      "option": [
+        "(A) breezes",
+        "(B) temperatures",
+        "(C) blizzard",
+        "(D) climate"
+      ],
+      "translation": "【問題文訳】「ビーバートンの今日は美しく晴れ渡り、最高気温は20度前半で南西の弱い風が吹くでしょう」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとがout of the southwestとなっているので、風のことを表現していることになる。(A)のbreezesが「そよ風、微風」という意味で適切である。(C)のblizzardも風の一種だが、「吹雪」なので、with highs in the low 20sと矛盾する。"
+    }
+  ],
+  [
+    "2138",
+    {
+      "question": "Be careful if you’re sailing on Lake Lewis in the afternoon ——- the winds will likely shift from the south to the north.",
+      "option": [
+        "(A) wherever",
+        "(B) that",
+        "(C) when",
+        "(D) although"
+      ],
+      "translation": "【問題文訳】「今日の午後、南風が北風に変わる恐れがありますので、ルイス湖でセーリングをなさる場合は十分に注意してください」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のin the afternoonが何を意味するのか、文の中でどういう役割なのかを考えよう。後半は関係副詞に導かれる節になっており、空所には関係副詞が入る。そして、afternoonは先行詞である。afternoonは「時」を表すので、関係副詞は(C)のwhenになる。"
+    }
+  ],
+  [
+    "2140",
+    {
+      "question": "Put on ——- sunscreen at the beach today as the sun will be bright even if the temperatures remain mild.",
+      "option": [
+        "(A) spare",
+        "(B) prefabricated",
+        "(C) cautious",
+        "(D) extra"
+      ],
+      "translation": "【問題文訳】「今日の気温は穏やかなままですが日差しが強くなりますので、海岸では日焼け止めを多めに付けましょう」",
+      "answer": "【解答】D",
+      "explanation": "【解説】後半の「日差しが強くなる」という内容と、sunscreenの役目を考えよう。日焼け止めを多く塗るべきなので、(D)のextraが適切である。(A)のspareでは意味が通じない。空所のあとのsunscreenには「日よけ格子」という意味があり、(B)のprefabricated（プレハブの）が使えるように思えるが、日よけの屋根と考えても、空所の前のput onと合わなくなる。プレハブの屋根であれば、冠詞が必要だし、put onではなく、put up（建てる）でなければならない。"
+    }
+  ]
+]

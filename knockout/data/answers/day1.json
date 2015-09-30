@@ -1,0 +1,1302 @@
+[
+  {
+    "questionId": "468",
+    "question": "There is a restaurant in the vicinity which is expensive, but meals are worth their prices ——- the food is excellent.",
+    "option": [
+      "(A) although",
+      "(B) in case",
+      "(C) because",
+      "(D) therefore"
+    ],
+    "translation": "【問題文訳】「高級地の近くにレストランがありますが、料理はすばらしく値段だけの価値があります」",
+    "answer": "C",
+    "explanation": "【解説】空所の前後が順接になっていることに注目。(A)のalthoughは「…だけれども」という意味で逆接になる。(B)のin caseは「もし…だとよくないから」という意味で条件を表す。(C)のbecauseが「…なので」という意味で順接になる。(D)のthereforeは副詞で、従属接続詞としての用法はない。しかも、料理の質と値段の関係が逆になってしまう。"
+  },
+  {
+    "questionId": "470",
+    "question": "The sale of the motel has been proposed, ——- no one has shown any interest so far.",
+    "option": [
+      "(A) but",
+      "(B) or",
+      "(C) for",
+      "(D) as well as"
+    ],
+    "translation": "【問題文訳】「モーテルの販売が提出されたが、今のところだれも興味を示していない」",
+    "answer": "A",
+    "explanation": "【解説】文全体が重文になっているので等位接続詞が必要。「提案された」ことと「興味を示していない」ことは、意味上逆接になっている。したがって(A)のbutしか当てはまらない。"
+  },
+  {
+    "questionId": "472",
+    "question": "——- the software seemed like a good investment, the firm decided against purchasing it.",
+    "option": [
+      "(A) Because",
+      "(B) However",
+      "(C) Why not",
+      "(D) Although"
+    ],
+    "translation": "【問題文訳】「そのソフトウェアはよい投資のように思えたが、会社は購入しない決断を下した」",
+    "answer": "D",
+    "explanation": "【解説】the firm decided against purchasing itがポイント。逆接の意味を表す従属節を導く接続詞が必要である。選択肢の中では、逆接の意味になるのは(D)のAlthoughしかない。"
+  },
+  {
+    "questionId": "474",
+    "question": "The contractor promises to have the building finished this month ——- the weather remains good.",
+    "option": [
+      "(A) unless",
+      "(B) provided",
+      "(C) since",
+      "(D) so that"
+    ],
+    "translation": "【問題文訳】「請負業者は、好天が続けば今月建設工事を終了させると約束した」",
+    "answer": "B",
+    "explanation": "【解説】空所の前後の内容を比較すると、肯定の仮定になっているので、(A)のunlessは、意味が逆である。(B)のprovidedは動詞の過去分詞だが、接続詞としての働きがあり、「…なので、…ということを条件に」という順接の意味がある。(B)が正解。今後のことであり、好天が続くかどうか分からないわけだから、(C)のsinceも当てはまらない。(D)のso thatは「…するために」という意味で、意味が合わない。"
+  },
+  {
+    "questionId": "476",
+    "question": "Dr. Okamoto is one of the top psychologists in the world, ——- he has knowledge, patience, and a good personality.",
+    "option": [
+      "(A) but",
+      "(B) or",
+      "(C) and",
+      "(D) while"
+    ],
+    "translation": "【問題文訳】「岡本博士は世界のトップクラスの心理学者で、知識と忍耐力と優れた人柄を兼ね備えている」",
+    "answer": "C",
+    "explanation": "【解説】文の意味上、前半と後半は順節の関係にある。したがって、当てはまるのは(C)のandのみである。(D)のwhileは従属接続詞で、「…する一方で」という意味。ここでは文の意味に合わない。"
+  },
+  {
+    "questionId": "478",
+    "question": "The Italian movie reviewed on the 23rd of September in this column was quite beautiful, ——- its ending was too predictable.",
+    "option": [
+      "(A) then",
+      "(B) but",
+      "(C) or",
+      "(D) if"
+    ],
+    "translation": "【問題文訳】「9月23日付のこのコラムで批評されたイタリアの映画はとても美しかったが、結末が容易に予想できるものだった」",
+    "answer": "B",
+    "explanation": "【解説】前後に動詞を含む文［節］があり、内容的に相反することを述べているので逆接の接続詞が入ると判断できる。重文で逆接、つまり反対の意味を表すのは(B)のbutのみである。"
+  },
+  {
+    "questionId": "481",
+    "question": "——- the customer had a reservation, when she got to the hotel, she found all the rooms occupied.",
+    "option": [
+      "(A) Because",
+      "(B) However",
+      "(C) Even though",
+      "(D) Nevertheless"
+    ],
+    "translation": "【問題文訳】「その客は予約をしてあったが、彼女がホテルに着くと満室であることが判明した」",
+    "answer": "C",
+    "explanation": "【解説】中ほどのwhen she got to the hotelは挿入された節。これを省いても意味は通じる。全体の意味を考えると、通常、予約を入れてあればすぐにテーブルにつけるはずだが、「席が占領されていた」と述べている。つまり、前後の節の内容が相反することになる。したがって、逆接の接続詞が入る。(C)のEven thoughが適している。(A)のBecauseは意味が逆。順接になる。(B)のHoweverや(D)のNeverthelessは副詞で、接続詞的な使われ方をするが、従属接続詞としての用法はない。"
+  },
+  {
+    "questionId": "483",
+    "question": "Mr. Kaufmann requested that Nancy work overtime ——- her project was behind schedule.",
+    "option": [
+      "(A) therefore",
+      "(B) even though",
+      "(C) because",
+      "(D) unless"
+    ],
+    "translation": "【問題文訳】「カウフマン氏はナンシーの仕事が予定より遅れていたため、彼女に残業をするよう要請した」",
+    "answer": "C",
+    "explanation": "【解説】あとの文［節］が前の文［節］の理由になっているので、理由を表す接続詞である(C)のbecauseが入る。(A)のtherefore は「それだから」という意味で、話が矛盾する。(B)のeven thoughも(D)のunlessも内容が逆。ちなみに、request thatの構文では、that節の中では、主語が何であっても、動詞は原形か《should+原形》になる。"
+  },
+  {
+    "questionId": "485",
+    "question": "The insurance agency just moved into the 2387 Center Road office in March, ——- already it is getting too crowded.",
+    "option": [
+      "(A) because",
+      "(B) but",
+      "(C) so",
+      "(D) since"
+    ],
+    "translation": "【問題文訳】「保険会社はセンターロード2387番地のオフィスへ3月に移転したが、すでに混雑してきている」",
+    "answer": "B",
+    "explanation": "【解説】空所の前後の意味を考えると、時間の流れが「前半→後半」となっている。そして、意味が逆になっているので、重文で反意を表す(B)のbutが適していることになる。(A)のbecauseでは、意味と時間の流れが逆。(C)のsoでは引っ越したことと混んできていることの意味が合わない。(D)のsinceもbecauseと同じ理由から不適切。"
+  },
+  {
+    "questionId": "487",
+    "question": "The serviceperson sent to repair the copier arrived ——- the first shift employees were still at work.",
+    "option": [
+      "(A) after",
+      "(B) while",
+      "(C) before",
+      "(D) until"
+    ],
+    "translation": "【問題文訳】「コピー機の修理のために派遣された修理人は、第1シフトの従業員がまだ仕事をしているうちに到着した」",
+    "answer": "B",
+    "explanation": "【解説】were still at workはwere still workingと同じ意味なので、時間の幅を表すwhileかwhenでないと意味が通じない。(C)のbeforeは不可。また(D)のuntilは「…までずっと」という継続の意味を表すので、持続できる意味の動詞（stay, talkなど）と共に用いる。arrive, begin のように一過性の動詞にはby「…までに」を使う。"
+  },
+  {
+    "questionId": "489",
+    "question": "——- it is you want to include in the garage sale, make sure it is clearly marked with a price tag before the sale begins.",
+    "option": [
+      "(A) However",
+      "(B) Whomever",
+      "(C) Whatever",
+      "(D) Whenever"
+    ],
+    "translation": "【問題文訳】「ガレージセールに出品したい物は何でも、販売が始まるまでに値札にはっきり値段が付いていることを確認してください」",
+    "answer": "C",
+    "explanation": "【解説】(A)のhoweverのあとには、通常、形容詞か副詞が続く。このような従属接続詞の形にはならない。include in the garage saleと述べているので、「人」を表す(B)のwhomever は合わない。(C)のwhateverが「何であれ、あればそれを」という意味になり、適している。この文のようにitで言及される。(D)のwheneverは時間を表すので、この文では不自然。"
+  },
+  {
+    "questionId": "491",
+    "question": "There is a movie theater conveniently located downtown, ——- its sound system is so poor that the audience is seldom satisfied with the showings.",
+    "option": [
+      "(A) except",
+      "(B) if",
+      "(C) for",
+      "(D) since"
+    ],
+    "translation": "【問題文訳】「繁華街の便利な場所に映画館があるが、音響設備があまりにひどく、観客は上映に対してほとんど満足していない」",
+    "answer": "A",
+    "explanation": "【解説】空所の前後の意味を考えること。「映画館が至便な所にある」と述べ、そのあと、「音響がよくないので、満足しない」と書かれている。つまり、逆接である。選択肢の中で逆接の意味を表すのは(A)のexceptだけである。"
+  },
+  {
+    "questionId": "493",
+    "question": "——- pollution control equipment is costly to install, some industries hesitate to commit to its use.",
+    "option": [
+      "(A) Although",
+      "(B) However",
+      "(C) So",
+      "(D) Because"
+    ],
+    "translation": "【問題文訳】「公害防止設備は導入する費用が高いため、その使用に二の足を踏んでいる業界もある」",
+    "answer": "D",
+    "explanation": "【解説】「コストがかかる」のと「ためらっている」という文意から、逆接の接続詞にはならない。よって(A)のAlthoughや(B)のHoweverは意味が合わない。さらに、howeverは副詞なので、この空所には文法的にも不可。(C)のSoは等位接続詞なので、この空所には使えない。(D)のBecauseが「装置に金がかかる」ということと「設置をためらっている」という内容に合う。"
+  },
+  {
+    "questionId": "495",
+    "question": "The members of the tour have had exceptionally good weather ——- they arrived in England.",
+    "option": [
+      "(A) when",
+      "(B) while",
+      "(C) since",
+      "(D) for"
+    ],
+    "translation": "【問題文訳】「そのツアーの参加者たちは、イングランドに到着して以来、特に好天に恵まれている」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとにthey arrivedのように一時の動作を表す動詞がきているので、期間を表す(B)のwhileは使えない。また、時間の流れや時制を考えると、(A)のwhenも不適切である。主節の現在完了形と従属節の過去形という時制から、「過去から現在までの継続」を表す(C)のsinceが適している。(D)のforは接続詞として用いられると「というのは…だから」という理由を表し、この文には合わない。"
+  },
+  {
+    "questionId": "497",
+    "question": "Many people respect Mr. Yates ——- he single-handedly built the new playground at Fairfax Elementary School.",
+    "option": [
+      "(A) while",
+      "(B) therefore",
+      "(C) because",
+      "(D) but"
+    ],
+    "translation": "【問題文訳】「フェアファックス小学校に独力で新しい運動場を作ったので、多くの人がイェーツ氏を尊敬している」",
+    "answer": "C",
+    "explanation": "【解説】空所の前後の意味の関係と時間の差を考えよう。運動場を作ったのは過去で、人がイェーツ氏を尊敬しているのは現在である。時間の差があるので、(A)のwhileは合わない。(B)のthereforeでは時間の関係と事実の関連が逆。(C)のbecauseが「…なので」となり、意味が合う。(D)のbutも時間の差と事実の関連が合わない。"
+  },
+  {
+    "questionId": "499",
+    "question": "James Martin is the top salesperson month after month, ——- he finds time to do volunteer work at the community health clinic.",
+    "option": [
+      "(A) so",
+      "(B) or",
+      "(C) and",
+      "(D) while"
+    ],
+    "translation": "【問題文訳】「ジェームス・マーティンは毎月毎月業績トップの販売員であり、かつ、地域の診療所でボランティア活動をする時間も作っている」",
+    "answer": "C",
+    "explanation": "【解説】(A)のsoは「…なので」という意味で、「トップの販売員である」ことと「ボランティアをする」関連性が希薄。(B)のorも意味がつながらない。(C)のandが「…もするし～もする」という意味で適切である。(D)のwhileは「…するが一方」という意味で、逆接の意味をもつので、意味が合わない。"
+  },
+  {
+    "questionId": "501",
+    "question": "The value of the company’s stock has risen during the past year ——- not as much as many analysts had predicted.",
+    "option": [
+      "(A) because",
+      "(B) but",
+      "(C) so",
+      "(D) since"
+    ],
+    "translation": "【問題文訳】「昨年、その会社の株価は上昇したが、多くのアナリストが予想したほどではなかった」",
+    "answer": "B",
+    "explanation": "【解説】空所の前後の意味を考えよう。「株価が上がった」ということと「アナリストが予想したほどではない」という内容を比較すると逆接になっているので、(B)のbutが適切である。ほかの選択肢はすべて「順接」を表す。"
+  },
+  {
+    "questionId": "503",
+    "question": "All of the federal judges would insist people rise ——- they entered or left their courtrooms.",
+    "option": [
+      "(A) whichever",
+      "(B) whenever",
+      "(C) however",
+      "(D) whoever"
+    ],
+    "translation": "【問題文訳】「すべての連邦裁判官たちは、彼らが法廷に入退出するときはいつでも、傍聴人に起立を求めるものだ」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとの意味から考えよう。空所のあとは「法廷に入退出する」という内容になっている。(A)のwhichever（～のどちらでも）は、この内容と関連性が感じられない。(B)のwheneverが「…するときはいつでも」という意味で合う。(C)のhoweverは、通常あとに形容詞か副詞を伴い、「いかに…でも」という意味になるので、ここでは不可。(D)のwhoeverは「だれが…しても」という意味で、これも内容と関連性がない。"
+  },
+  {
+    "questionId": "505",
+    "question": "——- the economy enters a recession like the current one, the union worries about its members being laid off.",
+    "option": [
+      "(A) Whichever",
+      "(B) However",
+      "(C) Whatever",
+      "(D) Whenever"
+    ],
+    "translation": "【問題文訳】「現在のように景気が悪くなるといつも、労働組合は組合員が解雇されるのではないかと心配する」",
+    "answer": "D",
+    "explanation": "【解説】コンマの前後の意味を考えよう。「不景気になること」と「心配になる」ことの関連を考えると、(A)のWhicheverの意味するものとの関連性がない。(B)のHoweverのあとには形容詞か副詞が続く。(C)のWhateverも「不景気になることと心配になること」の関連性が見出せない。(D)のWheneverが「…するといつも」という意味で、前後の意味がつながる。"
+  },
+  {
+    "questionId": "507",
+    "question": "For safety, please wear your seatbelt ——- the captain has turned off the fasten-seatbelt sign.",
+    "option": [
+      "(A) until",
+      "(B) while",
+      "(C) from",
+      "(D) since"
+    ],
+    "translation": "【問題文訳】「安全のため、機長がシートベルト着用のサインを消すまで、シートベルトをご着用ください」",
+    "answer": "A",
+    "explanation": "【解説】文意とwear your seatbeltという「状態」を表している内容から「継続」を表すuntilが当てはまることが容易に判断できると思うが、他の3つが正解にならないことも確認しておこう。後半はある一瞬を示す内容なので(B)のwhileは使えない。(C)のfromは接続詞ではなく前置詞である。したがって、この空所には合わない。(D)のsinceは「…ということなので」という意味だと考えても、「…以来ずっと」という意味だと考えても、意味がつながらない。"
+  },
+  {
+    "questionId": "509",
+    "question": "Although the seaside cottages are equipped with neither televisions ——- stereos, guests continually report the accommodations to be excellent.",
+    "option": [
+      "(A) and",
+      "(B) nor",
+      "(C) even",
+      "(D) or"
+    ],
+    "translation": "【問題文訳】「海辺のそのコテージはテレビもステレオも設置されていないのだが、宿泊施設がすばらしかったと報告してくる泊り\n客が引きを切らない」",
+    "answer": "B",
+    "explanation": "【解説】文の内容と構文から適切な接続詞を判断しよう。televisions1の前にneitherがあることがポイント。with neither A nor Bの形で「AもBもなくて」という意味になる。(A)のandの場合はboth A and Bのようになる。(C)のevenは強意の副詞で、この文には合わない。(D)のorはeither A or Bの構文になる。"
+  },
+  {
+    "questionId": "511",
+    "question": "Be sure to distribute the daily mail to all departments of the company ——- it arrives from the post office.",
+    "option": [
+      "(A) as long as",
+      "(B) whenever",
+      "(C) as soon as",
+      "(D) the last time"
+    ],
+    "translation": "【問題文訳】「手紙が郵便局から着き次第、必ず社の全ての部署にその日の手紙を配布すること」",
+    "answer": "C",
+    "explanation": "【解説】選択肢に時間に関するが集まっているので、空所の前後の時間的な関係を考えよう。空所の直後のitはthe daily mailを指している。mailは単数形で受ける。「郵便局から郵便が届く時間」と「配達すること」の関連を考えると、「…したらすぐに」という意味の(C) as soon asが適していると判断できる。(B)のwheneverも正しいように思えるが、daily mailの意味合いとwheneverは相容れない内容であるので、使えない。"
+  },
+  {
+    "questionId": "513",
+    "question": "The letter sold at the auction was torn ——- valuable because it dated to the early years of the writer’s career.",
+    "option": [
+      "(A) thus",
+      "(B) or",
+      "(C) so",
+      "(D) yet"
+    ],
+    "translation": "【問題文訳】「オークションで売られたその手紙は破れていたが高値が付いた。なぜなら、その作家の経歴の初期のころに遡るもの\nだったからである」",
+    "answer": "D",
+    "explanation": "【解説】選択肢はすべて接続詞である。したがって、空所の前後の意味合いが「順接」になっているのか「逆接」になっているのかを考える。この文では、前半が「手紙は破れていた」で後半が「高値が付いた」となっているので、逆接と考えるのがよい。したがって、butと同じ意味のyetが適している。(D)が正解。"
+  },
+  {
+    "questionId": "515",
+    "question": "The results showed an exact tie between Sveltene ——- Superlux in market popularity with each brand of hand lotion enjoying a seven-percent share.",
+    "option": [
+      "(A) and",
+      "(B) but",
+      "(C) yet",
+      "(D) nor"
+    ],
+    "translation": "【問題文訳】「市場人気調査の結果によると、スベルティーンとスーパーラックスがハンドローション市場でまったく同順位で並び、それぞれ7％を占めている」",
+    "answer": "A",
+    "explanation": "【解説】空所の直前のSvelteneの前にbetweenがあることがポイント。between A and B（AとBのあいだで）が使われており、(A)のandが当てはまる。ほかの選択肢では、このbetweenの存在が意味を成さないことになり、不可。"
+  },
+  {
+    "questionId": "517",
+    "question": "——- you have either an article or a short notice for the May issue of the newsletter, please submit it by April 20.",
+    "option": [
+      "(A) Whether",
+      "(B) Though",
+      "(C) If",
+      "(D) Since"
+    ],
+    "translation": "【問題文訳】「会報5月号に載せる記事あるいは簡単なお知らせがありましたら、4月20日までにご提出ください」",
+    "answer": "C",
+    "explanation": "【解説】文尾に近いplease以降が主節で、文頭（空所）からnewsletterまでが、選択肢の接続詞に導かれる従属節である。全体の意味と照らし合わせながら選択肢の意味と用法を考えてみよう。(A)のwhetherは「…かどうか」という意味の接続詞だが、これは名詞節を作り、この文には適合しない。(B)のthoughは「…にもかかわらず」という意味なので、これも合わない。(C)のifが「もし…ならば」で適している。(D)のsinceは「…以来ずっと」という意味で、主節には現在完了形が続くのがふつう。"
+  },
+  {
+    "questionId": "519",
+    "question": "Many people suffer from runny noses or reddening of their eyes ——- they are exposed to pollen produced early in the spring.",
+    "option": [
+      "(A) whoever",
+      "(B) wherever",
+      "(C) however",
+      "(D) whenever"
+    ],
+    "translation": "【問題文訳】「春先に飛来する花粉にさらされるといつでも、多くの人たちが鼻水や目が赤くなる症状に悩まされる」",
+    "answer": "D",
+    "explanation": "【解説】やや難しい問題である。それぞれの選択肢を当てはめ、文全体としてどんな意味と役割になるのかを考えて選ぼう。(A)のwhoeverは「…する人はだれでも」という意味で、主語になる。したがって、ここでは不可。(B)のwhereverは「どこで…しても」という意味で、この文では文法上当てはまるが、文尾にearly in the springという「時」を表す表現があるので、意味がよくつながらない。(C)のhowever（どのように…しても）も、意味が弱い。(D)のwheneverが文尾のearly in the springとマッチして適切である。"
+  },
+  {
+    "questionId": "521",
+    "question": "The breed of dog is usually friendly ——- may bite when confronted with a stranger who exhibits aggressive behavior.",
+    "option": [
+      "(A) so",
+      "(B) because",
+      "(C) since",
+      "(D) but"
+    ],
+    "translation": "【問題文訳】「その犬種は通常は人懐こいが、攻撃的な行動をとる見知らぬ人と出会ったりすると噛み付くかもしれない」",
+    "answer": "D",
+    "explanation": "【解説】主語がThe breed of dogで、述部がis usually friendlyである。そして、空所の直後にもmay biteという述部がある。これがポイント。主語と共有する述部があるということなので、重文になり、当てはまるのは、(A)のsoか(D)のbutになる。soの場合は「順接」と言って同じような意味合いが続くはずである。この文では、人懐こいことと噛み付くことがあることは相反することになるので、soではなくbutでなければならない。したがって(D)が正解。"
+  },
+  {
+    "questionId": "523",
+    "question": "The letter stated that his job would continue only through May, ——- Mr. William’s boss asked him to stay on until June.",
+    "option": [
+      "(A) while",
+      "(B) but",
+      "(C) when",
+      "(D) that"
+    ],
+    "translation": "【問題文訳】「手紙には彼の仕事は5月いっぱいまでしか続かないと書いてあったが、ウィリアム氏の上司は6月まで残るように頼ん\nだ」",
+    "answer": "B",
+    "explanation": "【解説】空所の前後の意味を考えよう。through Mayとuntil Juneを対比させていることからも考えよう。「5月いっぱいと言ってきたが、6月までと頼まれた」という意味になり、butで接続するのが適切である。(B)が正解。"
+  },
+  {
+    "questionId": "525",
+    "question": "Many motorists used Jackson Street today ——- the Eisenhower Freeway was under reconstruction.",
+    "option": [
+      "(A) thus",
+      "(B) yet",
+      "(C) because",
+      "(D) still"
+    ],
+    "translation": "【問題文訳】「アイゼンハワー・フリーウェイが工事中だったので、多くの運転者が今日はジャクソン通りを使った」",
+    "answer": "C",
+    "explanation": "【解説】Jackson Streetを使うこととunder construction（工事中）の関連を考えると、「理由」を述べていると判断される。したがって(C)のbecauseが適する。(A)のthusは「そういうわけなので」という意味で、前半が理由になり、意味がおかしくなる。(B)のyetはbutと同じ意味で、これも理由のありかがおかしい。(D)のstillは「それでもなお」という意味で、これも意味のつながりがおかしい。"
+  },
+  {
+    "questionId": "527",
+    "question": "The chemicals will be transported by train instead of sending them by plane, ——- it is cheaper yet equally reliable for timely delivery.",
+    "option": [
+      "(A) before",
+      "(B) during",
+      "(C) upon",
+      "(D) as"
+    ],
+    "translation": "【問題文訳】「安い上に、時間に正確な配達にも同等の信頼がおけるので、その化学物質は飛行機ではなく電車で運ばれるだろう」",
+    "answer": "D",
+    "explanation": "【解説】空所の前後の意味を考える。また、文法から考えても、空所のあとに＜主語＋述語＞の節が続いているので、前置詞である(Bのduringと(C)のuponは使えない。(A)のbeforeでは、列車で運ぶとことその信頼性との関係が表現できない。(D)のasが「理由」を表すので、適切である。"
+  },
+  {
+    "questionId": "530",
+    "question": "One of ——- popular jobs for American teenagers is working in a fast-food restaurant. ",
+    "option": [
+      "(A) most",
+      "(B) a most",
+      "(C) the most",
+      "(D) the most of"
+    ],
+    "translation": "【問題文訳】「アメリカの10代の若者の間で最も人気のある仕事のひとつはファーストフードレストランで働くことである」",
+    "answer": "C",
+    "explanation": "【解説】空所の前にone ofがあること、そして、空所のあとが複数形の名詞（名詞句）があることがポイント。＜one of the most＋複数名詞＞で「最も…のものの1つ」という意味を表す。最上級のものは1つしかないはずだが、このように複数形で表現する。英語の常套句なので覚えておきたい。mostは最上級なのでtheが付く。よって、(A)や(B)は文法的に不可。(D)はofが余分。mostは形容詞なので、ofでつなぐことはできない。"
+  },
+  {
+    "questionId": "532",
+    "question": "Conditions in the afternoon will not be as windy ——- they were yesterday, so crowds at the beach are likely to increase.",
+    "option": [
+      "(A) how",
+      "(B) as",
+      "(C) that",
+      "(D) than"
+    ],
+    "translation": "【問題文訳】「午後の状態は昨日ほど風は強くないだろう。なので、ビーチの人出は増えると思われる」",
+    "answer": "B",
+    "explanation": "【解説】空所の前にwindyという形容詞があり、その前にasがあることがポイント。＜as＋形容詞や副詞の原級＋as＞の形で「…と同じほど～」という意味を表す「同等比較」である。今日の午後の風の強さを昨日と比較している。(D)のthanは比較級といっしょに使う。"
+  },
+  {
+    "questionId": "534",
+    "question": "Looking at pork and beef prices, the ——- are usually higher than the former in this country.",
+    "option": [
+      "(A) latter",
+      "(B) later",
+      "(C) last",
+      "(D) latest"
+    ],
+    "translation": "【問題文訳】「豚肉と牛肉の値段を見ると、この国では通常、後者のほうが高い」",
+    "answer": "A",
+    "explanation": "【解説】than the formerがポイント。何かを比較している。空所の前にtheが付いているが、ここには比較級が入る。the former（前者）に対する「後者」である。「後者」という意味にはthe latterを使う。(A)のlatterも(B)のlaterもlateの比較級だが、laterは「時間」に使い、latterは「順序」を表す。formerは「前の」「前職の」という意味でもよく使われる。\n［例］the former president「前大統領」"
+  },
+  {
+    "questionId": "536",
+    "question": "Please fill out the following questionnaire, which will take ——- a few minutes.",
+    "option": [
+      "(A) no less than",
+      "(B) so short that",
+      "(C) not much more",
+      "(D) no more than"
+    ],
+    "translation": "【問題文訳】「次のアンケートにお応えください。数分もかかりませんので」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとにa few minutesがあることに注意。名詞句になるので、空所に当てはまる語句の最後に前置詞（つまり、ここではthan）が必要である。したがって、(B)と(C)は文法的に当てはまらない。(Aのno less thanでは「…もの」という意味になってしまい、文全体の意味の「記入してください。時間がかかりませんから」という内容にそぐわない。「…しか」という意味になる(D)が適切である。"
+  },
+  {
+    "questionId": "538",
+    "question": "Downtown traffic congestion is currently one of Boston’s ——- problems, according to a survey of local residents.",
+    "option": [
+      "(A) as big as",
+      "(B) so big",
+      "(C) biggest",
+      "(D) the biggest"
+    ],
+    "translation": "【問題文訳】「住民への調査によると、中心街の交通渋滞は、現在、ボストンの最重要問題の1つになっている」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとにproblemsという複数名詞がone of the … biggest となっているところに注目。最上級のあとには複数名詞がきて「最も～な…のうちの1つ」の意味になる。ほかはすべて単数になっているので不可。"
+  },
+  {
+    "questionId": "540",
+    "question": "The Swansons had ——- offers to buy their car than they expected to get from their ad in the Daily News.",
+    "option": [
+      "(A) many",
+      "(B) more",
+      "(C) most",
+      "(D) much"
+    ],
+    "translation": "【問題文訳】「スワンソン社が受けた自動車購入の注文は、『デイリー・ニュース』の広告によって期待したよりも多かった」",
+    "answer": "B",
+    "explanation": "【解説】あとにthan they expected to …があることに注目しよう。つまり、比較の文である。したがって、manyの比較級であるmoreが適する。(B)が正解。(A)のmanyは原級である。(C)のmostは最上級なので、通常は、前に定冠詞のtheが付く。(D)は不可算名刺の前に付くので、これも合わない。"
+  },
+  {
+    "questionId": "542",
+    "question": "The price was twice ——- much as we expected to spend for a one-night stay, but we had to take it as four hotels had already said they had no rooms available.",
+    "option": [
+      "(A) so",
+      "(B) that",
+      "(C) as",
+      "(D) more"
+    ],
+    "translation": "【問題文訳】「その料金は私たちが思っていた1泊の予算の2倍だったが、4つのホテルですでに空き部屋がないと言われていたので、受け入れざるを得なかった」",
+    "answer": "C",
+    "explanation": "【解説】空所の直後に形容詞のmuchがあり、そのあとにasがあることがポイント。「同等比較」を表現するas … as～の形になる。したがって(C)が正解。(A)のsoを使ったso … as～の形もあるが、この場合は「～するほど…」という意味になり、あとにto不定詞が続く。ここではその形になっていない。to spendは直前のexpectedにかかっているので、so … asにはならない。"
+  },
+  {
+    "questionId": "544",
+    "question": "Though it looks longer on the map, taking Highways 48 and 219 would be the ——- way to get to Redhouse.",
+    "option": [
+      "(A) faster",
+      "(B) much as fast",
+      "(C) more fast",
+      "(D) mostly fast"
+    ],
+    "translation": "【問題文訳】「地図上ではもっと遠回りに思えるが、レッドハウスに行くには48号線から219号線に入るほうが速いだろう」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のtheに惑わされないように、文の意味をしっかり考えよう。選択肢の中には、通常theのあとに続く最上級がない。(D)のmostlyは最上級に思えるが、「大抵は、大部分は」という意味の副詞で、意味が合わない。冒頭でlongerという比較級が使われていることがポイント。「48号線から219号線に入ること」を何かと比較して述べている文である。比較しているので、比較級である(A)のfasterが適している。"
+  },
+  {
+    "questionId": "546",
+    "question": "Mobile phones which include the new security system are the ——- of all the ones currently on the market.",
+    "option": [
+      "(A) most expensive",
+      "(B) expensive more",
+      "(C) more expensive",
+      "(D) so expensive"
+    ],
+    "translation": "【問題文訳】「新しいセキュリティシステムを組み込んだ携帯電話は、現在の市場では最も値段が高い」",
+    "answer": "A",
+    "explanation": "【解説】空所の前にtheがあるということと、あとにof all the ones …が続いていることがポイント。of all the …は、最上級を表す典型的な表現である。したがって、最上級の(A) most expensiveが正解。(B)は語順が合わない。(C)は比較級なので、theとそぐわない。(D)のso expensiveは、通常、so … thatの構文で使うので、この文には適さない。"
+  },
+  {
+    "questionId": "548",
+    "question": "The European colonial powers have changed from centers of influence to ——- states within a multi-state alliance.",
+    "option": [
+      "(A) slower",
+      "(B) weaker",
+      "(C) shorter",
+      "(D) smaller"
+    ],
+    "translation": "【問題文訳】「ヨーロッパの植民地保有国は権力の中心であったが、複数国家同盟の中でより力の弱い国家へと変化してきた」",
+    "answer": "B",
+    "explanation": "【解説】選択肢がすべて比較級なので、この問題は文法や構文で考えても正解は出せない。文の意味から考えよう。from … to～が使われていることもポイント。また、powersとstatesが同じ意味（国家）を表していることにも気付こう。「権力のある国家」だったのが変化してきたわけだから、(B)のweakerを使って「弱まってきた」とするのが適切である。"
+  },
+  {
+    "questionId": "550",
+    "question": "Mr. Dewitt is ——- most senior executives at this company following the reorganization caused by the merger.",
+    "option": [
+      "(A) one of the",
+      "(B) one of",
+      "(C) one",
+      "(D) one of a"
+    ],
+    "translation": "【問題文訳】「合併による再編成のあと、今、デューイット氏はこの会社で最も高い地位に属する役員の一人である」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとにmost seniorという最上級が続いていることがポイント。通常、最上級の前にはtheが付く。theがあるのは、(A)のone of theだけである。これが正解。\n【重要語句】"
+  },
+  {
+    "questionId": "552",
+    "question": "Lotus Dragon is by far the ——- Korean restaurant of all in Suffolk County in the opinion of this writer.",
+    "option": [
+      "(A) better",
+      "(B) good",
+      "(C) best",
+      "(D) worse"
+    ],
+    "translation": "【問題文訳】「この記者の意見では、ロータスドラゴンはサフォーク郡の中ではダントツにおいしい韓国料理店である」",
+    "answer": "C",
+    "explanation": "【解説】空所の前のby farがポイント。これは比較級または最上級を修飾し、「はるかに、ダントツにに」という意味を表す。また、空所の前にtheがあるので、最上級である(C)のbestが適する。ほかの選択肢は、原級や比較級なので、この空所には適さない。"
+  },
+  {
+    "questionId": "554",
+    "question": "The Gobi Desert, characterized by bare rock ——- sand, is one of the driest places on earth.",
+    "option": [
+      "(A) rather",
+      "(B) at most",
+      "(C) much more",
+      "(D) more than"
+    ],
+    "translation": "【問題文訳】「砂と言うより岩肌で特徴のあるゴビ砂漠は、地球上で最も乾燥した場所のひとつである」",
+    "answer": "D",
+    "explanation": "【解説】砂漠の状態を表現した文である。空所の前のbare rockとあとのsandを比較していることを理解しよう。文の意味も「砂と言うよりもむき出しの岩」となるので、(D)のmore thanが適している。(A)のratherは2つを比較するのではなく、全体（ほかのもの）に比べて「どちらかと言うと」という意味を表す場合に使う。"
+  },
+  {
+    "questionId": "556",
+    "question": "This year’s medical convention was one of the ——- heavily reported with daily news broadcasts on a variety of networks.",
+    "option": [
+      "(A) so",
+      "(B) far",
+      "(C) most",
+      "(D) much"
+    ],
+    "translation": "【問題文訳】「今年の医学会は、様々なキー局の日々の報道番組の中で最も大きく伝えられたニュースのひとつであった」",
+    "answer": "C",
+    "explanation": "【解説】＜one of+最上級+複数名詞＞の形。「最も…のうちの1つ」という意味になる。したがって、空所には形容詞の最上級が当てはまる。選択肢の中で最上級は(C)のmostだけである。"
+  },
+  {
+    "questionId": "558",
+    "question": "The convention center located downtown has succeeded because it can accommodate ——- 15,000 people at one time.",
+    "option": [
+      "(A) as much as",
+      "(B) no fewer than",
+      "(C) no more than",
+      "(D) less than"
+    ],
+    "translation": "【問題文訳】「中心街にあるその会議場は、1度に15,000人も収容できるので、成功してきている」",
+    "answer": "B",
+    "explanation": "【解説】選択肢に紛らわしい意味合いの語句が並んでいるので、文の意味との兼ね合いで選ぼう。会議場の成功の状況を述べている文である。つまり、空所のあとの15,000は賛辞を含む意味合い。(A)のas much asは不可算名詞に使う。15,000とは加算の表現があるので、適さない。(B)のno fewer thanが「少なくとも…に達する」という意味で、可算名詞に使う。これが正解。(C)のno more thanも可算名詞に使うが、「…しか、たったの…」という意味なので、賛辞のこの文には適さない。(D)も「…より少ない」なので、同じ理由から適さない。"
+  },
+  {
+    "questionId": "561",
+    "question": "With fall turning into winter, the mornings have grown ——-and frost has become a common sight.",
+    "option": [
+      "(A) more briskly",
+      "(B) briskly",
+      "(C) brisker",
+      "(D) briskest"
+    ],
+    "translation": "【問題文訳】「秋から冬へ向かうにつれて朝が清々しくなり、霜をよく見かけるようになった」",
+    "answer": "C",
+    "explanation": "【解説】briskは「（風などが）清々しい、身の引き締まるような」という形容詞で、brisk－brisker－briskestと活用する。＜grow＋比較級＞の形になっていることに気付くこと。「だんだん…になる」という意味を表す。したがって、この空所には比較級である(C)のbriskerが適する。"
+  },
+  {
+    "questionId": "563",
+    "question": "The judges at the baking competition felt the cinnamon apple pie tasted ——- than the dark chocolate pudding.",
+    "option": [
+      "(A) sweet",
+      "(B) sweetly",
+      "(C) sweeter",
+      "(D) more sweetly"
+    ],
+    "translation": "【問題文訳】「焼き菓子コンテストの審査員たちはシナモンアップルパイをダークチョコレートプリンよりも甘く感じた」",
+    "answer": "C",
+    "explanation": "【解説】空所の前の動詞のtasteは不完全自動詞で、SVCの文型になる。Cは補語で、形容詞になる。空所が補語に相当するので、形容詞が当てはまる。よって、(B)と(D)は使えない。空所のあとにthanがあるので、比較級の(C) sweeterが適切である。"
+  },
+  {
+    "questionId": "565",
+    "question": "Far ——- tourist class tickets are sold than business class ones on the airline’s website, at airline ticket counters and through travel agents.",
+    "option": [
+      "(A) more",
+      "(B) further",
+      "(C) rather",
+      "(D) than"
+    ],
+    "translation": "【問題文訳】「その航空会社のウェブサイトやチケットカウンター、旅行代理店などを通して見ても、ビジネスクラスの航空券よりもエコノミークラスのほうがはるかに売れている」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のFarがポイント。「はるかに、大いに、ずっと」という意味で、「程度」を表す。そして、空所のあとにtouristという名詞が続いているので、空所には形容詞が当てはまる。したがって、修飾される形容詞は、「数」や「量」を表すものがふさわしい。(A)のmoreがfarと結びついて「はるかに多くの」という意味でふさわしい。(B)のfurtherはfarの比較級の1つで、farと重ねて使うのは意味を成さない。(C)のratherは副詞、(D)のthanは前置詞で、この空所には文法的にも適さない。"
+  },
+  {
+    "questionId": "567",
+    "question": "The weather service announced that, through yesterday, this is already one of the four ——- winters we’ve had in the 128 years since local records began being kept.",
+    "option": [
+      "(A) so cold",
+      "(B) colder than",
+      "(C) coldest",
+      "(D) as cold"
+    ],
+    "translation": "【問題文訳】「気象サービス会社は、昨日、これは当地で記録され始めて以来128年間で最も寒い4回の冬の1つであると発表した」",
+    "answer": "C",
+    "explanation": "【解説】空所の前にfourがあるが、その前にone of theがあることに気付くこと。つまり、空所には最上級が適する。したがって(C)のcoldestが正解。"
+  },
+  {
+    "questionId": "569",
+    "question": "Mr. West and Mr. Hamilton have been employees of the company for almost ten years, yet they still produce ——- design ideas among the engineers.",
+    "option": [
+      "(A) more fresh",
+      "(B) most fresh",
+      "(C) much fresher",
+      "(D) the freshest"
+    ],
+    "translation": "【問題文訳】「ウェスト氏とハミルトン氏はその会社の社員になってほぼ10年になるが、エンジニアの中で今でも最も斬新なデザインのアイデアを生み出している」",
+    "answer": "D",
+    "explanation": "【解説】文尾のamong the engineersがポイント。「（3つ以上の）…の中で」という意味なので、最上級が適する。最上級の主語は1つに限定されると思い込まないこと。このようにtheyという複数を表す主語でも最上級になり得る。(D)のthe freshestが正解。freshは-erや-estを付けて比較級や最上級を表すので、(B)のmost freshは間違い。"
+  },
+  {
+    "questionId": "589",
+    "question": "——- the day was clear and sunny, the graduation was held indoors in the school auditorium.",
+    "option": [
+      "(A) Because",
+      "(B) If",
+      "(C) Although",
+      "(D) Despite"
+    ],
+    "translation": "【問題文訳】「明るく晴れた日だったが、卒業式は学校の講堂内の屋内で行われた」",
+    "answer": "C",
+    "explanation": "【解説】主節と従属節の意味のつながりを考えること。意味上、逆接になっている。逆接の接続詞は(C)のAlthoughである。(D)のDespiteも「…に関わらず」という意味を表すが、これは接続詞ではなく前置詞。あとには語句が続く。この文ではthe dayからsunnyまでは文の形の「節」なので、despiteは使えない。"
+  },
+  {
+    "questionId": "591",
+    "question": "——- college tuition is expensive, the enrollment rate at Manchester College keeps going up year after year.",
+    "option": [
+      "(A) According to",
+      "(B) On account of",
+      "(C) Because",
+      "(D) Even though"
+    ],
+    "translation": "【問題文訳】「授業料が高いにもかかわらず、マンチェスター大学の入学登録率は年々増えている」",
+    "answer": "D",
+    "explanation": "【解説】文頭からexpensiveまでの節（従属節）とthe enrollment rate以降の節（主節）の意味の関係を考える。そして、選択肢の用法と意味を考える。(A)のAccording toは前置詞句で、あとには語句が続く。おなじように、(B)のOn account ofも「…という理由で」という意味を表す前置詞句。したがって(A)と(B)は間違い。授業料が高いことと入学登録率の関係は「逆接」になるので、(D)のEven thoughが適切である。"
+  },
+  {
+    "questionId": "593",
+    "question": "Many subscribers in the 30- to 40-year-old age group read the Franklin Herald ——- they have their breakfasts.",
+    "option": [
+      "(A) while",
+      "(B) in the time",
+      "(C) during",
+      "(D) along"
+    ],
+    "translation": "【問題文訳】「30代から40代の多くの購読者が、朝食中に『フランクリン・ヘラルド』紙を読んでいる」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとの構文を考えよう。節（文の形）が続いているので、空所には接続詞しか当てはまらない。(A)のwhileのみが接続詞で、あとの選択肢はすべて前置詞（句）である。これらのあとには語句が続く。"
+  },
+  {
+    "questionId": "595",
+    "question": "Mr. Henderson said he would not attend the movie premiere ——- the network guaranteed television coverage of the event.",
+    "option": [
+      "(A) instead of",
+      "(B) unless",
+      "(C) except",
+      "(D) without"
+    ],
+    "translation": "【問題文訳】「テレビ局がこのイベントの放映を確約しないのであれば、その試写会には出席しないと、ヘンダーソン氏は言った」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとの構文を見る。＜主語＋述語＞の節（文の形）になっている。the networkが主語。空所には接続詞しか当てはまらない。(B)のunlessのみが接続詞。あとの選択肢はすべて前置詞（句）である。(C)のexceptは紛らわしいが、これも前置詞。あとには語句（that節に導かれる節を含む）が続く。"
+  },
+  {
+    "questionId": "597",
+    "question": "All of the members of the local delegation voted for the legislation ——- Robert Young of District 27.",
+    "option": [
+      "(A) unless",
+      "(B) instead of",
+      "(C) except",
+      "(D) minus"
+    ],
+    "translation": "【問題文訳】「27区選出のロバート・ヤング氏を除く地元議会の全議員が、その法案に賛成票を投じた」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとに動詞がないことを確認しよう。つまり「語句」が続いている。したがって、空所には接続詞である(A)のunlessは当てはまらない。(B)のinstead ofは前置詞句であとには語句が続くが、「…ではなく」という意味なので、ここには適さない。(C)のexceptが「…を除いて」という意味で、一人だけ反対票を投じた意味に合う。(D)のminusも意味が通じない。"
+  },
+  {
+    "questionId": "599",
+    "question": "The reporters normally take their seats ——- the speakers of the press conference arrive.",
+    "option": [
+      "(A) ahead of",
+      "(B) prior to",
+      "(C) before",
+      "(D) in advance of"
+    ],
+    "translation": "【問題文訳】「通常、記者たちは、会見の話し手が到着する前には着席しているものだ」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとは語句のように見えるが、文尾のarriveが動詞であることに気づくこと。つまり、＜主語+動詞＞を備えた節になっている。したがって、空所には接続詞が当てはまる。(C)のbeforeには、前置詞のほかに接続詞の働きもある。ほかの3つには接続詞としての用法はない。"
+  },
+  {
+    "questionId": "601",
+    "question": "——- a guest of exceptional importance arrives at the airport, a limousine is used to transport the person to his or her hotel.",
+    "option": [
+      "(A) Sometimes",
+      "(B) Whenever",
+      "(C) Occasionally",
+      "(D) While"
+    ],
+    "translation": "【問題文訳】「特別に重要な来賓が空港に到着するといつも、その人物をホテルに送るためにリムジンが使われる」",
+    "answer": "B",
+    "explanation": "【解説】文の構文をしっかり見極めよう。a guest of exceptional importanceが主語で、arrivesが動詞。つまり＜主語＋動詞＞の「節」になっている。したがって、空所には接続詞が当てはまる。接続詞は(B)のWheneverと(D)のWhileだが、While は「…する間ずっと」という意味なので、arriveという「一時的な動作」を表す動詞といっしょには使えない。(B)のWheneverが正解。"
+  },
+  {
+    "questionId": "603",
+    "question": "——- the pizza was piping hot, it was allowed to cool slightly before the people at the table started to eat.",
+    "option": [
+      "(A) Because",
+      "(B) If",
+      "(C) Although",
+      "(D) Despite"
+    ],
+    "translation": "【問題文訳】「そのピザは非常に熱かったので、テーブルの人たちは少し冷ましてから食べ始めた」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとが＜主語＋動詞＞の節になっている。接続詞が当てはまる。また、従属節と主節の意味のつながりを考えよう。「熱かったので冷ました」という意味になるべきである。したがって、「…なので」という意味の(A) Becauseが当てはまる。(C)のAlthoughは「…にも関わらず」という意味なので、逆。"
+  },
+  {
+    "questionId": "605",
+    "question": "The Italian prime minister decided not to attend the funeral in Athens ——- there was a security problem.",
+    "option": [
+      "(A) though",
+      "(B) because of",
+      "(C) due to",
+      "(D) since"
+    ],
+    "translation": "【問題文訳】「治安上の問題があったため、イタリアの首相はアテネで行われる葬儀に出席しないことに決めた」",
+    "answer": "D",
+    "explanation": "【解説】文中にコンマがないので、構文が分かりにくいが、文頭からAthensまでが主節で、空所以降が従属節である。2つの節の意味のつながりを考えよう。「警備上の問題」と「出席を取り止めたこと」の関係を考えると、「…なので」という意味を表す(D)のsinceが適していると判断できる。(A)のthoughは意味が反対。(B)のbecause ofと(C)のdue toは前置詞句なので、あとには名詞句が続く。"
+  },
+  {
+    "questionId": "607",
+    "question": "——- the forecast called for warm and sunny weather, it rained all through the afternoon.",
+    "option": [
+      "(A) Except for",
+      "(B) However",
+      "(C) Despite",
+      "(D) Even though"
+    ],
+    "translation": "【問題文訳】「天気予報では晴れて暖かくなるということだったが、午後はずっと雨だった」",
+    "answer": "D",
+    "explanation": "【解説】文の構成と意味から、逆接の従属接続詞が入ると判断できるだろう。(A)のExcept forと(C)のDespiteは前置詞（句）なので、あとには語句が続く。よって、合わない。(B)のHoweverには接続詞的な意味と用法もあるが、この文に該当する従属接続詞としての用法はない。したがって、正解は(D)のEven thoughになる。"
+  },
+  {
+    "questionId": "609",
+    "question": "——- the groom walked to the front of the church, he realized that he had left the ring at home.",
+    "option": [
+      "(A) After",
+      "(B) Beyond",
+      "(C) Later",
+      "(D) Following"
+    ],
+    "translation": "【問題文訳】「教会の前まで歩いてきてから、新郎は家に指輪を忘れてきたことに気がついた」",
+    "answer": "A",
+    "explanation": "【解説】空所の直後からchurchまでは節（文の形）になっている。したがって、従属接続詞が入る。(A)のAfterに前置詞と接続詞の働きがあり、この空所では接続詞として当てはまる。Afterが正解。(B)のBeyondと(D)のFollowingは前置詞で、あとには語句が続く。(C)のLaterは副詞で、ここでは意味も合わないので、使えない。"
+  },
+  {
+    "questionId": "611",
+    "question": "Mrs. King still has the chalk drawing that her daughter made of her ——- the daughter was completely unknown as an artist.",
+    "option": [
+      "(A) when",
+      "(B) while",
+      "(C) during",
+      "(D) as"
+    ],
+    "translation": "【問題文訳】「キング夫人は、娘が芸術家として全く知られていない時期に彼女をチョークで描いた絵を、今でも持っている」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとが＜主語＋述語＞の「節」になっているので、接続詞が入る。(A)のwhenが「…のころ、…の時期に」という意味を表し、適している。(B)のwhile「…しているとき」という、ある行動を伴った「期間」を表すので、この文には適さない。(D)のduringは前置詞で不可。(D)のasは「…しながら」というように動作を表す動詞といっしょに使われるので、while同様、ここでは使えない。"
+  },
+  {
+    "questionId": "613",
+    "question": "The customer was furious ——- the bank clerk would not cash her check without adequate identification.",
+    "option": [
+      "(A) how",
+      "(B) which",
+      "(C) with",
+      "(D) that"
+    ],
+    "translation": "【問題文訳】「十分な身分証がないからと言って銀行員が小切手を現金にしなかったことに、その客は激怒した」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとの構文を考えよう。＜主語＋述語＞の「節」が続いている。したがって、空所には従属接続詞が当てはまる。そして、空所の前のwas furiousにも注目。be furious that …で「…ということに激怒する」という意味を表す。したがって(D)のthatが適している。(B)のwhichは関係代名詞だと考えると先行詞が足りないし、間接疑問文を作る疑問詞だと考えると、空所の直後にtheがあるのが文法的に合わない。"
+  },
+  {
+    "questionId": "615",
+    "question": "Miss Chandler had a good job, but she gave it up ——- she got married and had a child.",
+    "option": [
+      "(A) still",
+      "(B) during",
+      "(C) too",
+      "(D) after"
+    ],
+    "translation": "【問題文訳】「チャンドラーさんはいい仕事に就いていたが、結婚して子供ができるとそれを手放した」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとが＜主語＋述語＞の「節」になっている。文の構成上、当てはまるのは接続詞。したがって(D)のafterのみが当てはまる。(A)のstillは「今でもまだ」という意味の副詞。この空所には合わない。(B)のduringは前置詞なので不可。そして(C)のtooも副詞なので、当てはまらない。"
+  },
+  {
+    "questionId": "617",
+    "question": "The car’s engine is so old that it needs to warm up ——- several minutes before it runs smoothly enough to be driven.",
+    "option": [
+      "(A) that",
+      "(B) after",
+      "(C) for",
+      "(D) until"
+    ],
+    "translation": "【問題文訳】「その車のエンジンはとても古いので、しっかり運転できるようになるまで何分か温める必要がある」",
+    "answer": "C",
+    "explanation": "【解説】beforeのあとにit runsのように＜主語＋述語＞があるので惑わされないこと。これはbeforeに続く節である。空所に直接続くのはseveral minutesという語句になる。したがって、空所には前置詞が当てはまる。「時間の長さ」を表す(C)のforが適切である。(A)のthatは接続詞で不適切。(B)のafterは前置詞だが、あとのbeforeとの意味の関係から、合わない。(D)のuntilのあとにはseveral minutesのように幅のある時間帯を示す語句は続かない。"
+  },
+  {
+    "questionId": "619",
+    "question": "Joan Langford arrived on time ——- the fact that she had missed the flight she had originally intended to take.",
+    "option": [
+      "(A) despite",
+      "(B) in spite",
+      "(C) besides",
+      "(D) although"
+    ],
+    "translation": "【問題文訳】「ジョーン・ランフォードさんは、もともと乗ろうと思っていた飛行機に乗りのそこねたが、間に合って到着した」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとのthat以降に＜主語＋述語＞の「節」が続いていることに惑わされないこと。空所に直接かかるのはthe factだけである。しがたって前置詞が当てはまる。(A)のdespiteが前置詞で、despite the fact that she …で「彼女が…という事実にもかかわらず」という意味になる。(B)のin spiteにはofが不足している。in spite ofであれば正解。(C)のbesidesは意味が合わない。(D)のalthoughは接続詞なので、不可。"
+  },
+  {
+    "questionId": "621",
+    "question": "——- the weekend, every room in the hotel was rented out due to a newly introduced discount.",
+    "option": [
+      "(A) When",
+      "(B) In",
+      "(C) While",
+      "(D) Over"
+    ],
+    "translation": "【問題文訳】「新しく紹介された割引料金のため、そのホテルは週末満室だった」",
+    "answer": "D",
+    "explanation": "【解説】the weekendを伴った副詞句になる。(A)のwhenのあとに名詞が続くこともあるが、それは＜主語＋述語＞が省略されて補語である名詞が残った構文のときで、用法としては接続詞のまま。前置詞としての働きはない。the weekend は一時点を表すので、(B)のinも使えない。また、(C)のwhileは接続詞なので、あとには節が続く。(D)のoverが正解。over the weekendで「週末」という意味になる。"
+  },
+  {
+    "questionId": "623",
+    "question": "——- the morning commute on the train, numerous passengers read books or work on laptop computers to pass the time.",
+    "option": [
+      "(A) While",
+      "(B) During",
+      "(C) When",
+      "(D) In "
+    ],
+    "translation": "【問題文訳】「朝、電車での通勤中、多くの乗客が本を読んだりノートパソコンで仕事をしたりして時間を過ごしている」",
+    "answer": "B",
+    "explanation": "【解説】numerous passengers以降が主節で、それまでは副詞句。空所のあとに続いているのは語句である。したがって前置詞が当てはまる。前置詞は(B)のDuringと(D)のInである。語句の中心になっている語はmorningではなくcommuteなので、InではなくDuringが適切である。接続詞のWhileやWhenのあとには《主語＋述語》の節が続く。"
+  },
+  {
+    "questionId": "625",
+    "question": "Many people still chew tobacco or smoke cigarettes ——- the well-documented health hazard such behavior causes.",
+    "option": [
+      "(A) although",
+      "(B) due to",
+      "(C) nevertheless",
+      "(D) in spite of"
+    ],
+    "translation": "【問題文訳】「喫煙がもたらす健康被害がはっきり裏付けされているにもかかわらず、多くの人がいまだに噛みタバコをやったりタバコを吸ったりしている」",
+    "answer": "D",
+    "explanation": "【解説】空所のあとの構文をよく考えよう。the well-documented health hazardとsuch behavior causesのあいだに関係代名詞が省略されている。したがって、空所の語または語句がかかるのは語句ということになる。つまり、接続詞は不可。(A)のalthoughは接続詞なので、使えない。(B)のdue toは「…のせいで」なので、文全体の意味がおかしくなる。(C)のneverthelessは「それにもかかわらず」という意味で、副詞。よって、文法的に不可。(D)のin spite ofが「…にもかかわらず」という意味で、あとに名詞が続き、この空所に適している。"
+  },
+  {
+    "questionId": "627",
+    "question": "——- the recent increase in interest rates, local home sales remain strong and construction continues at a steady pace.",
+    "option": [
+      "(A) Because",
+      "(B) In spite of",
+      "(C) Even though",
+      "(D) During"
+    ],
+    "translation": "【問題文訳】「最近の利率の上昇にもかかわらず、当地の住宅販売は依然として強く、堅実なペースで建設が続いている」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとに続いているのが語句なので、前置詞（句）でなければならない。(A)のBecauseと(C)のEven thoughは接続詞で、あとには節が続く。(B)のIn spite ofが前置詞句で「…にもかかわらず」という意味を表し、文意に適している。(D)のDuringは「…のあいだ」で、合わない。"
+  },
+  {
+    "questionId": "629",
+    "question": "He accepted the job offer, ——- he thought the remuneration was not entirely satisfactory.",
+    "option": [
+      "(A) in spite of",
+      "(B) as if",
+      "(C) however",
+      "(D) even though"
+    ],
+    "translation": "【問題文訳】「報酬はあまり満足できるものとは思えなかったが、彼はその仕事を引き受けた」",
+    "answer": "D",
+    "explanation": "【解説】コンマ以降の節の意味が「…ではなかったが」となっているので、主節と従属節は逆接の関係。(A)のin spite ofや(C)のhoweverも逆接を表すが、in spite ofは前置詞句で名詞相当語句が続き、howeverは接続詞ではなく副詞なので、いずれもここでは使えない。(D)のeven thoughが文法的にも意味的にも適している。"
+  },
+  {
+    "questionId": "631",
+    "question": "The advertising agency is famous ——- the high quality of its work as well as its quick service.",
+    "option": [
+      "(A) for",
+      "(B) with",
+      "(C) in",
+      "(D) because"
+    ],
+    "translation": "【問題文訳】「その広告代理店は速やかな対応と同様に仕事の質の高さでも有名だ」",
+    "answer": "A",
+    "explanation": "【解説】空所の前のfamousがポイント。(A)のforを入れてbe famous for …とするのがよい。be well-known for ～とほぼ同じ意味を表し、文全体の意味と合う。(B)のwithを使ったbe famous withという表現はない。(C)のinを入れても、意味を成さない。(D)のbecauseのあとには節が続くので、文法的に不適切である。"
+  },
+  {
+    "questionId": "633",
+    "question": "——- to avoid delays in receiving your tax refund, please file your return well before the deadline.",
+    "option": [
+      "(A) Because",
+      "(B) So that",
+      "(C) In order",
+      "(D) Since"
+    ],
+    "translation": "【問題文訳】「税金の還付金の受け取りが遅れないように、締め切りの十分前までに確定申告をしてください」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとが＜to+不定詞＞になっていることに注意。(C)のIn orderが当てはまり、In order to avoidとなる。「遅れを避けるために」という意味。(A)のBecauseのみの場合は、あとに節が続く。(B)のSo thatも同じ。あとには節が続く。(D)のSinceのあとには節も語句も続くが、それぞれ「…以来」、「…なので」という意味なので、文全体の意味と合わない。"
+  },
+  {
+    "questionId": "635",
+    "question": "Please take your seat at least five minutes ——- the start of the performance listed on this ticket.",
+    "option": [
+      "(A) before",
+      "(B) since",
+      "(C) by",
+      "(D) while"
+    ],
+    "translation": "【問題文訳】「このチケットに記載の演目が始まる少なくとも5分前までにはご着席ください」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとに続いているのは「節」ではなく「語句」であることに注意。したがって、前置詞が当てはまる。(A)のbeforeが適切。「…の前までに」という意味。空所の前が命令形なので、(B)のsinceは使えない。(C)のbyは「…までに」という意味だが、the startは合わない。by the time whenのような語句が続く。(D)のwhileは「…している間に」という意味で、接続詞。文法的に合わない。"
+  },
+  {
+    "questionId": "637",
+    "question": "——- famous groups appear at the auditorium, customers line the sidewalks trying to buy tickets.",
+    "option": [
+      "(A) In",
+      "(B) While",
+      "(C) When",
+      "(D) Over"
+    ],
+    "translation": "【問題文訳】「有名なグループがそのホールにやってくると、客がチケットを買うために歩道に列を作る」",
+    "answer": "C",
+    "explanation": "【解説】空所のあとが＜主語＋述語＞の節になっていることに注意。つまり、接続詞が当てはまる。接続詞は(B)のWhileと(C)のWhenである。whileは、ある時間の長さを表す表現といっしょに使うので、この文のようにappearとは合わない。よって(C)のWhenが正解。"
+  },
+  {
+    "questionId": "639",
+    "question": "Many guests falsely believe that the open-air sculpture museum can be visited ——- the evening hours.",
+    "option": [
+      "(A) throughout",
+      "(B) all",
+      "(C) although",
+      "(D) by"
+    ],
+    "translation": "【問題文訳】「多くの客は、その屋外彫刻美術館に夜の間もずっと来場できると勘違いしている」",
+    "answer": "A",
+    "explanation": "【解説】空所のあとがthe evening hoursという語句になっている。「…のあいだずっと」という前置詞でなければならない。(A)のthroughoutが「…のあいだずっと」という意味で合う。(B)のallは形容詞あるいは代名詞で、この空所には不適切。(C)のalthoughは接続詞なので、不可。(D)のbyは前置詞だが、時間を表す場合は、by the time of …やby the time when …のようになる。"
+  },
+  {
+    "questionId": "641",
+    "question": "Students are not advised to sign up for the survey of Western civilization course ——- they are prepared to work hard.",
+    "option": [
+      "(A) despite",
+      "(B) unless",
+      "(C) whether",
+      "(D) except"
+    ],
+    "translation": "【問題文訳】「一生懸命に勉強する心構えがないようであれば、西欧文明概論の受講はお勧めしません」",
+    "answer": "B",
+    "explanation": "【解説】あとに＜主語+述部＞の「節」が続いているので、空所には接続詞が当てはまる。(A)のdespiteは前置詞で、あとには「語句」が続く。(D)のexceptも前置詞で、あとには語句が続く。that節が続くこともあるが、thatは必ず必要。文法上当てはまるのは(B)のunlessと(C)のwhetherだが、前後の意味のバランスから、「もし…でなければ」と逆接を表すunlessが適切。"
+  },
+  {
+    "questionId": "643",
+    "question": "The negotiators decided ——- the contract would extend three years, rather than the previous two.",
+    "option": [
+      "(A) about",
+      "(B) how",
+      "(C) why",
+      "(D) that"
+    ],
+    "translation": "【問題文訳】「交渉していた人たちは、契約を前回の2年ではなく3年に延長することに決定した」",
+    "answer": "D",
+    "explanation": "【解説】並んでいる選択肢から、「理由」なのか「手段」なのか、「内容」なのかなどを考えて空所に当てはまるものを判断しよう。空所以降の内容は、契約の変更の事実を述べているだけである。したがって、(B)のhowや(C)のwhyなどは適さない。また、空所以降が＜主語＋述語＞の「節」になっているので、前置詞である(A)のaboutは文法的に不可。(D)のthatが適している。「…ということを決定した」という意味。"
+  },
+  {
+    "questionId": "645",
+    "question": "——– you have a question about your passport application, please fill out the form and hand it in at Window 7",
+    "option": [
+      "(A) Instead",
+      "(B) Except",
+      "(C) Unless",
+      "(D) Without"
+    ],
+    "translation": "【問題文訳】「パスポートの申請に関してご質問がなければ、用紙に記入し、7番窓口に提出してください」",
+    "answer": "C",
+    "explanation": "【解説】選択肢が前置詞、接続詞、副詞で成り立っている。なので、空所のあとが「節」か「語句」かを判断する。you have a question …は「節」である。したがって、節を導く接続詞が入る。(C)のUnlessはif … notという意味。(A)のInsteadは副詞（instead ofは前置詞句だが）、(B)のExceptは「…ということを除いて」という意味で前置詞。except forでも使われる。(D)のWithoutは前置詞で、いずれも使えない。"
+  },
+  {
+    "questionId": "647",
+    "question": "The network feels the evening news broadcast will not succeed ——- Amanda Simpson in the role of news anchor.",
+    "option": [
+      "(A) unless",
+      "(B) instead of",
+      "(C) without",
+      "(D) although"
+    ],
+    "translation": "【問題文訳】「そのキー局は、アマンダ・シンプソンさんがニュースキャスターを務めなくては、その夕方のニュース報道番組はうまく行かないだろうと感じている」",
+    "answer": "C",
+    "explanation": "【解説】空所以降が「節」か「語句」かを考えよう。述語がないので「語句」である。よって、接続詞である(A)のunlessと(D)のalthoughは適さない。(B)のinstead ofは「…ではなくて～」という意味で、代替要素が必要。ここではAmanda Simpson以外に何も述べていないので、意味が通らない。(C)のwithoutが適する。「シンプソン氏がいなければ」ということ。"
+  },
+  {
+    "questionId": "678",
+    "question": "If the performance had been canceled earlier in the day, announcements ——- been made on local radio and television stations.",
+    "option": [
+      "(A) could",
+      "(B) could have",
+      "(C) can be",
+      "(D) can"
+    ],
+    "translation": "【問題文訳】「もしその日のもっと早い段階で公演がキャンセルされていれば、地元のラジオやテレビ局から報道することができたのだが」",
+    "answer": "B",
+    "explanation": "【解説】空所のあとに過去分詞のbeenが続いていることがポイント。つまり、空所の最後の語はhaveでなければならない。それを満たすのは(B)のcould haveだけである。(A)のcouldと(D)のcanのあとには原形が続く。(C)のcould beではbe動詞が2つ続くことになり、不可。"
+  },
+  {
+    "questionId": "680",
+    "question": "If the runway were longer, larger jets ——- land and the airport would be busier.",
+    "option": [
+      "(A) could have been",
+      "(B) can",
+      "(C) could",
+      "(D) could have"
+    ],
+    "translation": "【問題文訳】「滑走路がもっと長ければ、より大きなジェット機が着陸でき、空港もにぎわっているのだろうけど」",
+    "answer": "C",
+    "explanation": "【解説】if節にwere longerと過去形が使われていることがポイント。いわゆる「仮定法過去」である。現在の事実と反することを仮定する文である。仮定法過去の主節は＜主語＋助動詞の過去形＋動詞の原形＞の形になる。空所のあとのlandは、ここでは「着陸する」という動詞であるから、空所には助動詞の過去形だけが当てはまる。したがって(C)のcouldが正解。"
+  },
+  {
+    "questionId": "682",
+    "question": "Had the advertisements been ready for the June 3rd issue, it ——- the first use of the new slogan.",
+    "option": [
+      "(A) has been",
+      "(B) should be",
+      "(C) would have been",
+      "(D) had been"
+    ],
+    "translation": "【問題文訳】「もし広告が6月3日発行までに準備できていれば、その号が新しいスローガンを最初に使ったものになっていたのだが」",
+    "answer": "C",
+    "explanation": "【解説】文頭からissueまでの構文を理解しよう。これは疑問文ではなく、倒置を使った仮定法の文である。If the advertisements had been ready …と同じ意味である。「仮定法過去完了」の文なので、主節は＜主語＋助動詞の過去形＋have＋過去分詞＞の形になる。これを満たすのは(C)のwould have beenだけである。"
+  },
+  {
+    "questionId": "684",
+    "question": "Bellman’s Catering will call you back soon if you’ll leave your name, phone number and any message you’d like to leave at the moment.",
+    "option": [
+      "(A) early",
+      "(B) soon",
+      "(C) recently",
+      "(D) just"
+    ],
+    "translation": "【問題文訳】「お名前と電話番号、今お伝えになりたいメッセージなどありましたら、残してください。ベルマンズ・ケータリングはすぐに折り返しお電話いたします」",
+    "answer": "B",
+    "explanation": "【解説】will call you backとあるので、未来のことである。未来のことでcall backに適切な副詞は(B)のsoonである。(A)のearlyは「時間的に早く」で、「短い時間で」という意味はない。"
+  },
+  {
+    "questionId": "686",
+    "question": "Had we built twice as many cars, we ——- sold all of them last year.",
+    "option": [
+      "(A) would have",
+      "(B) would not",
+      "(C) have",
+      "(D) will not"
+    ],
+    "translation": "【問題文訳】「もし当社が2倍の自動車を生産していれば、去年のうちに全部を売ることができたのだが」",
+    "answer": "A",
+    "explanation": "【解説】この文は疑問文ではない。倒置構文で「仮定法過去完了」を表している。つまり、過去の事実に反することを仮定して述べている文である。「もし2倍の車の台数を生産していれば」ということ。仮定法過去完了の主節は＜主語＋助動詞の過去形＋have＋過去分詞＞の形になる。空所のあとのsoldが過去分詞なので、残りは(A)のwould haveである。"
+  },
+  {
+    "questionId": "688",
+    "question": "If you ——- the ambulance service, someone would have arrived at your location within five minutes.",
+    "option": [
+      "(A) called",
+      "(B) would call",
+      "(C) had called",
+      "(D) have called"
+    ],
+    "translation": "【問題文訳】「救急車を呼んでいれば、誰かが5分以内にあなたのところにかけつけたのに」",
+    "answer": "C",
+    "explanation": "【解説】主節に相当するsomeone以降の構文を見る。主節が＜主語＋would have arrived＞の形になっている。「仮定法過去完了」の文である。したがって、if節の中は＜had＋過去分詞＞の形になる。これを満たすのは(C)のhad calledである。"
+  },
+  {
+    "questionId": "690",
+    "question": "——- anyone enter the building while the alarm is on, the police will instantly know.",
+    "option": [
+      "(A) Were",
+      "(B) Does",
+      "(C) Will",
+      "(D) Should"
+    ],
+    "translation": "【問題文訳】「警報器の作動中に何者かが建物に侵入すれば、警察が即座に知ることになります」",
+    "answer": "D",
+    "explanation": "【解説】文の途中にコンマがあり、そのあとに＜主語＋述語＞が続いているので、選択肢に動詞や助動詞があり、構文的には疑問文に見えるが、これは疑問文ではなく、仮定法の文である。主節が過去形になっていないので、「現在の事実に反する仮定」ではなく不確かな未来を表している。したがって(D)のShouldを使うのがよい。(A)のWereは文法的に合わない。(B)のDoesや(C)のWillでは仮定の意味を表せない。"
+  },
+  {
+    "questionId": "692",
+    "question": "The candidate wished she ——- the answer to the question asked at the debate two days before the election.",
+    "option": [
+      "(A) had known",
+      "(B) knew",
+      "(C) will know",
+      "(D) would know"
+    ],
+    "translation": "【問題文訳】「選挙の2日前の討論で尋ねられた質問の答えを知っていればよかったと、その候補者は思った」",
+    "answer": "A",
+    "explanation": "【解説】文の意味を考えよう。「…ということを願った」とあり、文尾が「選挙の2日前に」とある。つまり、過去のことに対してwishedと言っているのであるから、過去の事実に反することを願っている文である。＜wish＋主語＋had＋過去分詞＞で表現する。したがって、(A)のhad knownが適切である。ちなみに、この構文は時制の一致をしない。つまり、wishedと過去形になっても、あとの＜had+過去分詞＞はそのままである。"
+  },
+  {
+    "questionId": "694",
+    "question": "The customer could have received a refund or a replacement purchase if he ——- only kept his receipt.",
+    "option": [
+      "(A) has",
+      "(B) was",
+      "(C) had",
+      "(D) should have"
+    ],
+    "translation": "【問題文訳】「レシートを持ってさえいれば、その客は返金か代わりの購入品を受け取れたのだ」",
+    "answer": "C",
+    "explanation": "【解説】主節の構文を検証する。＜助動詞の過去形＋have＋過去分詞＞になっている。つまり、「仮定法過去完了」の文である。仮定法過去完了の従属節、つまりif節の中は＜had＋過去分詞＞になる。空所のあとにonlyがあるが、そのあとのkeptが過去分詞なので、空所にはhadだけが当てはまる。したがって、正解は(C)のhadである。"
+  },
+  {
+    "questionId": "696",
+    "question": "Many people in the earthquake zone wish they ——- earthquake resistant homes years ago.",
+    "option": [
+      "(A) build",
+      "(B) built",
+      "(C) have built",
+      "(D) had built"
+    ],
+    "translation": "【問題文訳】「その地震地帯の多くの人たちは、何年も前に耐震構造の家を建てるべきだったと思っている」",
+    "answer": "D",
+    "explanation": "【解説】空所の前にtheyをはさんでwishがあることがポイントだが、これだけで判断してはいけない。文尾にyears agoとあることが決め手。過去の事実と反することを願っている文で、「仮定法過去完了」になる。したがってtheyのあとの空所には＜had＋過去分詞＞が当てはまる。よって(D)が正解。"
+  },
+  {
+    "questionId": "698",
+    "question": "Customers could have received autographed copies of the new compact disc, ——- they entered the store at opening time.",
+    "option": [
+      "(A) were",
+      "(B) if",
+      "(C) have",
+      "(D) had"
+    ],
+    "translation": "【問題文訳】「客は開店時間に入店すれば、サイン入りの新発売のCDが買えたのだが」",
+    "answer": "D",
+    "explanation": "【解説】主節、つまり前半が＜could have＋過去分詞＞になっていることがポイント。「仮定法過去完了」の文である。空所以降が従属節で、通常はif節になる。しかし、ここでは(B)のifは正解ではない。なぜか。theyのあとがenteredと過去形になっているからである。ifを使うと、前半は仮定法過去完了で後半が仮定法過去という矛盾した文になってしまう。両方とも仮定法過去完了にするためには、(D)のhadを使い、倒置構文にしなければならない。"
+  },
+  {
+    "questionId": "700",
+    "question": "If it ——- rained the previous Sunday, attendance at the golf tournament could have topped 16,000 spectators.",
+    "option": [
+      "(A) will not",
+      "(B) has not",
+      "(C) had not",
+      "(D) would not"
+    ],
+    "translation": "【問題文訳】「この前の日曜日に雨が降らなければ、そのゴルフトーナメントの観客は16,000人を超えていたはずだ」",
+    "answer": "C",
+    "explanation": "【解説】if節が空所になっているので、主節の構文を見て判断する。attendance at the golf tournamentが主語で、そのあとが＜助動詞の過去形＋have＋過去分詞＞になっている。したがって「仮定法過去完了」の問題である。実現しなかった過去の出来事に対する仮定を表す。主節は＜had＋過去分詞＞である。よって、正解は(C)のhad notである。"
+  },
+  {
+    "questionId": "702",
+    "question": "If the library had remained open for another hour per day, additional staff salaries ——- amounted to nearly 20,000 dollars a month.",
+    "option": [
+      "(A) will have",
+      "(B) would have",
+      "(C) had",
+      "(D) would have been"
+    ],
+    "translation": "【問題文訳】「図書館が毎日あと1時間長く開いていれば、スタッフの追加の給料は月に2万ドル近くになっていただろう」",
+    "answer": "B",
+    "explanation": "【解説】if節がhad remainedで＜had＋過去分詞＞になっている。したがって、過去の事実に反することを仮定する「仮定法過去完了」の文である。主節は＜would have＋過去分詞＞の形になる。文法的には(B)のwould haveと(D)のwould have beenが可能である。あとは意味で判断する。主節の主語のadditional staff salariesは、自ら達するものなので自動詞。よって、受動態の(D)は間違い。(B)が正解。"
+  },
+  {
+    "questionId": "704",
+    "question": "The newest model of the widely advertised personal stereo system would sell well if it ——- available.",
+    "option": [
+      "(A) had been",
+      "(B) was",
+      "(C) were",
+      "(D) is"
+    ],
+    "translation": "【問題文訳】「広く宣伝されているその新型携帯用ステレオセットが入荷していれば、よく売れているのだろうけど」",
+    "answer": "C",
+    "explanation": "【解説】空所の前の主語（it）に惑わされないこと。文全体の意味と文法を考えよう。would sellとifが使われており、意味的にも「入荷しないから売りようにも売れない」というニュアンスである。「仮定法過去」の文になっているので、主語がitであっても動詞にはwereを使う。したがって(C)が正解。(A)の場合は、主節が＜助動詞の過去形＋have＋過去分詞＞の形になっていなければならない。"
+  },
+  {
+    "questionId": "706",
+    "question": "——- for his life preserver, the captain would have drowned in the sea when his ship went down.",
+    "option": [
+      "(A) But",
+      "(B) And",
+      "(C) So",
+      "(D) Yet"
+    ],
+    "translation": "【問題文訳】「もし救命具がなかったら、その船長は彼の船が沈没したとき溺れ死んでいただろう」",
+    "answer": "A",
+    "explanation": "【解説】空所の直後にforがあることを見逃さないこと。後半がwould have drownedのように「仮定法過去完了」の表現になっていることもポイントである。つまり、前半はifを使わない仮定法になる。but for …で「もし…がなかったら」という意味を表す。したがって(A)が正解。"
+  },
+  {
+    "questionId": "713",
+    "question": "When ——- with oil, it is important to remember that it changes the flavor of the food that is cooked in it.",
+    "option": [
+      "(A) cooking",
+      "(B) cooked",
+      "(C) cooks",
+      "(D) cook"
+    ],
+    "translation": "【問題文訳】「油を使って料理をするときは、食材の香りが変わってしまうことを知っておくことが大切である」",
+    "answer": "A",
+    "explanation": "【解説】文頭からoilまでが従属節で、it is以降が主節。選択肢に動詞の分詞や原形などが並んでいるので、Whenのあとに＜主語＋be動詞＞が省略されていると考えられる。それで、主語が何になるのかを判断する。主節を見ると、the foodあるいはそれに相当するものと考えられ、when節の中では受動態で表現するのが適切である。＜主語＋be動詞＞が省略されているので、残るのは(B)のcookedである。"
+  },
+  {
+    "questionId": "715",
+    "question": "Because the suspect found the door locked, it has been suggested that he walked around the house ——- for an open window to climb through.",
+    "option": [
+      "(A) look",
+      "(B) looks",
+      "(C) looking",
+      "(D) looked"
+    ],
+    "translation": "【問題文訳】「その容疑者はドアに鍵がかかっていることに気付いたので、登って入れる開いた窓を探して、家の周りを歩き回ったと考えられている」",
+    "answer": "C",
+    "explanation": "【解説】主節、つまりit has been以降の構文と意味を考えよう。… suggested that以降のhe walked around the houseは、これ自体で意味を成す文になっている。したがって、空所以降は、意味に彩りを添える「修飾語句」になる。lookの動作主はheなので、現在分詞を使った「分詞構文」にするのがよい。よって(C)のlookingが正解。"
+  },
+  {
+    "questionId": "717",
+    "question": "——- through the ranks, Colonel Miller eventually became the highest army officer at the New York base.",
+    "option": [
+      "(A) To rise",
+      "(B) Rising",
+      "(C) Risen",
+      "(D) To be rising"
+    ],
+    "translation": "【問題文訳】「ミラー大佐は軍隊の階級を昇進し、ついにニューヨーク基地で最高位の陸軍将校になった」",
+    "answer": "B",
+    "explanation": "【解説】コンマのあとのColonel Miller以降が完全な文になっていることを確認しよう。つまり、文頭の空所からranksまでは修飾語句である。riseの動作主はColonel Millerで「昇進する側」になるので、受動態の意味になる(C)のRisenは不適切である。(D)のTo be risingのように進行形は意味を成さない。(A)のTo riseは正しいように思えるが、副詞的用法の不定詞として考えると「昇進するために」となり、あとの「最高位になった」という意味と矛盾する。(B)のRisingが正解。"
+  },
+  {
+    "questionId": "719",
+    "question": "Among the prominent officials ——- the meeting, were two heads of state and three foreign ministers.",
+    "option": [
+      "(A) to attend",
+      "(B) attending",
+      "(C) attended",
+      "(D) attend"
+    ],
+    "translation": "【問題文訳】「会議に出席している高官の中には2人の国家元首と3人の外相が含まれていた」",
+    "answer": "B",
+    "explanation": "【解説】構文がむずかしい。後半のwere以降が主節だが、倒置構文になっている。空所の語は続くthe meetingを従えて前のthe prominent officialsを修飾している。いわゆる「分詞の後置修飾」である。分詞の後置修飾で注意すべき点は、「する側」か「される側」かということ。ここではofficialsは「出席する側」なので、自動詞のattendingが適切である。したがって(B)が正解。"
+  },
+  {
+    "questionId": "722",
+    "question": "The lights and fans went out suddenly, ——- everyone on the subway which soon slid to a halt.",
+    "option": [
+      "(A) in surprise",
+      "(B) surprised",
+      "(C) surprisingly",
+      "(D) surprising"
+    ],
+    "translation": "【問題文訳】「電気と送風機が突然停止して地下鉄に乗っていたみんなをびっくりさせたが、それはまもなくゆっくり停車した」",
+    "answer": "D",
+    "explanation": "【解説】主節、つまり文頭からsuddenlyまでが完全な文になっていることを確認しよう。そして、コンマ以下が語句になっていることにも注目。つまり、空所には(D)のsurprisingが入り、分詞構文となっている。"
+  }
+]

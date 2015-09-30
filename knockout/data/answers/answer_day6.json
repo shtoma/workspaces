@@ -1,0 +1,1502 @@
+[
+  [
+    "1536",
+    {
+      "question": "The ——- of the rumor that the product was defective turned out to be an information leak by the management of a rival firm.",
+      "option": [
+        "(A) sauce",
+        "(B) sense",
+        "(C) source",
+        "(D) sins"
+      ],
+      "translation": "【問題文訳】「その製品が欠陥品だという噂の元は、ライバル会社の経営陣がリークした情報だったと判明した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】文全体の主語は、文頭からdefectiveまで。述部がturned out to beである。defectiveの前にもwasというbe動詞があるが、これは関係代名詞thatに導かれる節の中の動詞である。主語を形成する語句にrumorがあり、「噂の…」という意味になる。そして、それが「情報の漏洩」だったわけだから、「元、情報源」という意味の(C) sourceが適している。これが正解。"
+    }
+  ],
+  [
+    "1538",
+    {
+      "question": "The crowd ——- loudly when the actress and her escort stepped out of her limousine and entered the theater at the premiere of her latest movie.",
+      "option": [
+        "(A) appalled",
+        "(B) applauded",
+        "(C) appeased",
+        "(D) appeared"
+      ],
+      "translation": "【問題文訳】「その女優と付き人がリムジンから降り立ち、彼女の最新映画の初演が行われている劇場へ入ると、群集が盛大な拍手\nを送った」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の直前のcrowd（群集）がloudly（声高く）することを考える。(A)のappallは「ショックを与える」という意味。リムジンから出てくる女優に対する行為としては適切ではない。(B)のapplaudが「声援を送る、拍手する」という意味で、この文の状況に適している。これが正解。(C)のappeaseは「なだめる、和らげる」で、合わない。(D)のappear（現れる）もloudlyに合わない。"
+    }
+  ],
+  [
+    "1540",
+    {
+      "question": "The students ——- the teacher to postpone the test by pleading for an extra weekend to study.",
+      "option": [
+        "(A) let",
+        "(B) made",
+        "(C) got",
+        "(D) had"
+      ],
+      "translation": "【問題文訳】「生徒たちは勉強にあと1回週末がほしいと嘆願し、先生にテストを延期してもらった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】使役動詞の用法を問う問題。目的語がthe teacherで、そのあとにto postponeという不定詞が続いていることがポイント。選択肢の使役動詞のうち、＜目的語＋to不定詞＞の形になるのは(C)のgetのみ。あとはすべて＜目的語＋原形動詞＞の形が続く。"
+    }
+  ],
+  [
+    "1542",
+    {
+      "question": "Online encyclopedias offer a ——- of knowledge about a vast range of subjects for little or no charge to the user.",
+      "option": [
+        "(A) wealthier",
+        "(B) wealthily",
+        "(C) wealthy",
+        "(D) wealth"
+      ],
+      "translation": "【問題文訳】「オンライン辞書は、ユーザーに対して少額または無料で広範囲なテーマについて知識の宝庫を提供してくれる」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前に不定冠詞のaがあり、あとにofがあるので、空所には名詞が当てはまる。ただ、aがあるというだけで名詞だと早とちりしてはいけない。aの場合は、そのあとに形容詞が続くことが多いからである。選択肢の中では(D)のwealthだけが名詞で、「裕福、豊富」という意味。(A)のwealthierは「豊富な、裕福な」という意味の形容詞(C)のwealthyの比較級である。(B)のwealthilyは「豊富に、裕福に」という意味の副詞。よって(D)が正解。"
+    }
+  ],
+  [
+    "1544",
+    {
+      "question": "The governor admitted his tax reform proposal was ——- during the current legislative session.",
+      "option": [
+        "(A) dead",
+        "(B) deaden",
+        "(C) died",
+        "(D) death"
+      ],
+      "translation": "【問題文訳】「知事は今の議会開催中は税制改革の建議を凍結させることを認めた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】動詞に思える語がいくつかあるが、文の構造から、主語と動詞を見極めよう。admittedとhis tax reform proposalのあいだに接続詞のthat（…ということ）が省略されている。したがって、his tax reform proposalはthat節の中の主語に当たる。そして、述部がwasである。まず、(C)のdiedは自動詞dieの過去形なので、wasのあとには続かない。そして、(D)のdeathもこのままの形では適さない。(B)のdeadenは一見過去分詞のように見えるが、実は「死滅させる、弱める」という意味の動詞の原形。したがってwasには続かない。正解は(A)のdeadである。be deadで「死んでいる、凍結されている」という意味になる。"
+    }
+  ],
+  [
+    "1546",
+    {
+      "question": "The woman has ——- many hours at her favorite café, drinking tea and writing in the journal she started keeping when she arrived in Paris.",
+      "option": [
+        "(A) paid",
+        "(B) given",
+        "(C) brought",
+        "(D) spent"
+      ],
+      "translation": "【問題文訳】「お茶を飲んだりパリに到着したときに書き始めた日記を書いたりしながら、女性は気に入ったカフェで何時間も過ご\nしてきた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにmany hoursのように「時間」を表す語句があるので、「過ごす」という意味の(D) spent（spendの過去形）が適切である。(A)のpayは「時間」を目的語にとることはない。(B)のgiveの場合、many hoursのあとに「人」などを表す間接目的語が必要である。(C)のbringはpayと同じように、「時間」を目的語にとることはない。"
+    }
+  ],
+  [
+    "1548",
+    {
+      "question": "High humidity ——- drawers in wooden dressers to stick and become hard to open if not occasionally lubricated.",
+      "option": [
+        "(A) causes",
+        "(B) concerns",
+        "(C) prevents",
+        "(D) dictates"
+      ],
+      "translation": "【問題文訳】「木製の棚の引き出しはときどき滑りをよくしておかないと、高い湿気で詰まって開けにくくなる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】主語であるHigh humidityの意味と役割を見極め、また、あとに続く文の構造を見て判断しよう。つまり、空所の動詞の目的語であるdrawers in wooden dressersのあとにto不定詞が続いていることがポイント。＜目的語＋to不定詞＞が続くのは(A)のcauseだけである。「…が～する原因となる」という意味を表す。(B)のconcern（心配させる）は意味が合わない。(C)のpreventは「…させない」という意味で意味が合うが、prevent … from –ingの形になる。(D)のdictateは「命令する」という意味で、合わない。"
+    }
+  ],
+  [
+    "1550",
+    {
+      "question": "The match on October 4 between Kingford and West Springdale was one of the most exciting games ——- this season.",
+      "option": [
+        "(A) still",
+        "(B) yet",
+        "(C) once",
+        "(D) already"
+      ],
+      "translation": "【問題文訳】「10月4日のキングフォードとウェスト・スプリングデールとの対戦は、今シーズンで最もエキサイティングな試合の1つだった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の直前にあるexciting gamesの前にthe mostという最上級の表現があることがポイント。選択肢の4つの副詞の中で最上級とともに使われ、「…の中でいちばん、今までで」という意味を表すのは(B)のyetだけである。他の副詞は、この文の中では意味を成さない。"
+    }
+  ],
+  [
+    "1552",
+    {
+      "question": "Commuters arriving at the station by car should ——- advantage of the new drive up area behind the taxi stand.",
+      "option": [
+        "(A) get",
+        "(B) have",
+        "(C) take",
+        "(D) make"
+      ],
+      "translation": "【問題文訳】「駅まで車でやってくる通勤客たちは、タクシー乗り場の裏にある新しい車寄せ場を利用すべきだ」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにadvantage of …が続いていることがポイント。take advantage of …で「…を有効利用する、…を活用する」という意味を表す。ほかの動詞はどれも当てはまらない。"
+    }
+  ],
+  [
+    "1554",
+    {
+      "question": "——- yourself to any of these magazines provided by fellow members of the gardening club.",
+      "option": [
+        "(A) Give",
+        "(B) Let",
+        "(C) Take",
+        "(D) Help"
+      ],
+      "translation": "【問題文訳】「ガーデニング・クラブの会員仲間からご提供いただいたこちらの雑誌は、ご自由にどうぞ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の直後の表現に注目。yourself to …となっている。(D)のhelpを使ったhelp oneself to …が「…を自由に取る、…を勝手に食べる」という意味で適している。toのあとが「もの」になっていることもポイント。(A)のgiveの場合、give … to～という形をとるが、toのあとには「もの」ではなく「人」が続く。(B)のletは目的語のあとに動詞の原形がくる。(C)のtakeは「連れて行く」という意味になるので、この文には合わない。"
+    }
+  ],
+  [
+    "1556",
+    {
+      "question": "The police have ——- not determined whether the new crime was committed by the same suspect wanted for attacks in the area.",
+      "option": [
+        "(A) still",
+        "(B) only",
+        "(C) yet",
+        "(D) just"
+      ],
+      "translation": "【問題文訳】「その新しい犯罪が、その地域での襲撃事件で指名手配されている同じ容疑者による犯行なのかどうか、警察はまだ特\n定できずにいる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文全体の意味と、空所の前後の語句の時制を考えよう。そして、否定文になっていることと空所の位置がポイント。(A)のstillが、「ある状態が続いている」ことを表し、適している。犯人を割り出せない状態が続いていることを適切に表現するのに、stillは適切な用法である。(B)のonlyはこの空所では意味を成さない。(C)のyetは「まだ…していない」という意味では当てはまるが、位置が不適切。この文にyetを入れるとすれば、determinedのあとになる。"
+    }
+  ],
+  [
+    "1558",
+    {
+      "question": "The leaves of the trees throughout the park ——- bright red during either the last week of September or the first week of October.",
+      "option": [
+        "(A) make",
+        "(B) turn",
+        "(C) be",
+        "(D) do"
+      ],
+      "translation": "【問題文訳】「公園の木の葉は9月の最後の週か10月の最初の週に鮮やかな赤に紅葉する」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとのbright redという表現がポイント。そして、主語（The leaves of the trees throughout the park）とbright redの関係を考えると、＜主語＝述語＞のいわゆる「第3文型」になっていることが分かる。選択肢の中で第3文型になるのは(B)のturnと(C)のbeだけ。この中で、あとのduring以降の意味とも合うのはturnだけである。したがって(B)が正解。"
+    }
+  ],
+  [
+    "1560",
+    {
+      "question": "The members of the poetry club have a habit of getting together for lunch ——- Friday at the Italian restaurant on Park Avenue.",
+      "option": [
+        "(A) any",
+        "(B) none",
+        "(C) some",
+        "(D) every"
+      ],
+      "translation": "【問題文訳】「その詩歌クラブのメンバーたちは、パーク・アベニューにあるイタリア料理店で毎週金曜日に昼食を一緒にとることにしている」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとの曜日を表す語（Friday）がポイント。まず、Fridayになじまないのは、(B)のnoneである。あとの3つの選択肢は、いずれも、文法上そして意味上当てはまるが、have a habit of getting togetherという「習慣性」を表す表現を考えると、「毎週金曜日」という(D)のeveryしか正解にならない。(A)のanyや(C)のsomeでは期日が定まらないので、have a habit of …と適合しない。"
+    }
+  ],
+  [
+    "1562",
+    {
+      "question": "No one could have imagined ——- a close finish to the election with all the polls showing an easy win for the incumbent.",
+      "option": [
+        "(A) much",
+        "(B) such",
+        "(C) more",
+        "(D) so"
+      ],
+      "translation": "【問題文訳】「すべての世論調査が現職の圧勝を示していたので、そのような接戦になるとは誰も予想できなかった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとにa close finishが続いていることがポイント。このfinishは「終わり、終結」という意味の名詞。選択肢の中で、あとに＜a＋形容詞＋名詞＞が続くのは(B)のsuchだけである。「そのような…」という意味になる。同じような意味で(D)のsoも使われるが、＜so＋形容詞＋a＋名詞＞の語順になり、改まった表現になる。"
+    }
+  ],
+  [
+    "1564",
+    {
+      "question": "With only a little bit of practice, you can ——- to recognize birds by their calls and greatly enhance your bird-watching experience.",
+      "option": [
+        "(A) understand",
+        "(B) find",
+        "(C) learn",
+        "(D) discover"
+      ],
+      "translation": "【問題文訳】「ほんの少しの練習で、さえずりで何の鳥かを判断できるようになり、バードウォッチングの経験をさらに高められるのです」",
+      "answer": "【解答】C",
+      "explanation": "【解説】似た意味あるいは紛らわしい意味合いの動詞が並んでいる。文全体の意味から考えよう。空所のあとにrecognize birds by their callsとあることがポイント。「姿ではなく泣き声で分かる」と言っている。したがって、視覚が必要な(B)のfindと(D)のdiscoverはそぐわない。(A)のunderstandには、あとにto不定詞を続けて「…するようになる」という用法はない。learn to …で「…するようになる」という意味になる(C)のlearnが当てはまる。"
+    }
+  ],
+  [
+    "1566",
+    {
+      "question": "——- itself is an attraction that has been drawing people in large numbers to Dillon Lake ever since its emergence as a resort late in the 19th century.",
+      "option": [
+        "(A) To a boat",
+        "(B) Is boating",
+        "(C) To boat",
+        "(D) Boating"
+      ],
+      "translation": "【問題文訳】「19世紀終わりにディロン湖がリゾート地としての道を歩み始めて以来ずっと、ボート遊び自体は多くの人々を惹きつ\nけてきた呼び物である」",
+      "answer": "【解答】D",
+      "explanation": "【解説】同じ語（boat）の変化形が選択肢に並んでいるので、文法的に空所の役割を考える。空所の直後にitselfという再帰代名詞が続いているが、そのあとにisがあるので、空所とitselfで、文全体の主語になっている。単数を表す主語の可能性があるのは(C)のTo boatと(D)のBoatingのみ。不定詞のTo boatは、このように再帰代名詞を続けることはできないので、(D)が正解。"
+    }
+  ],
+  [
+    "1568",
+    {
+      "question": "——- teams played well prior to the halftime break with the lead changing hands seven times.",
+      "option": [
+        "(A) Both",
+        "(B) Each",
+        "(C) Every",
+        "(D) Either"
+      ],
+      "translation": "【問題文訳】「両チームとも、試合のハーフタイムで中断するまで、7回もリードを奪い合いながらよく戦った」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとの名詞（teams）が複数形になっていることに注目すること。複数形が続くのは(A)のBothのみである。(D)のEitherは、either side of the street（道路の両端に）のように複数の意味を表すことがあるが、その場合でも、eitherのあとには名詞の単数形が続く。"
+    }
+  ],
+  [
+    "1570",
+    {
+      "question": "Every year at this time, people become frustrated filing their tax returns and ask themselves the same question, “——- do tax forms have to be this complicated?”",
+      "option": [
+        "(A) What",
+        "(B) Why",
+        "(C) When",
+        "(D) Where"
+      ],
+      "translation": "【問題文訳】「毎年この時期になると、人は税金申告書の記入で悩まされ同じ質問で自問する。『確定申告書はどうしてこんなにやっかいなんだ？』と」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとのtax formsやcomplicatedなどから判断する。(A)のwhatだと、構文上this complicatedが余分になる。(B)のwhyがcomplicatedの理由をたずねていることになり、適切である。クォーテーションマークにくくられた文の中には「時」を示す表現がないので、(C)のwhenでは意味を成さない。(D)のwhereも、同じ理由から意味を成さない。"
+    }
+  ],
+  [
+    "1572",
+    {
+      "question": "If you should discover any mistake with this order, please call the number listed ——-.",
+      "option": [
+        "(A) down",
+        "(B) under",
+        "(C) after",
+        "(D) below"
+      ],
+      "translation": "【問題文訳】「もしこの注文に間違いを発見された場合は、下記の電話番号にご連絡ください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】慣用表現の問題。「下記に記された…」と言うような場合に使われる。空所に当てはまる語（副詞）を伴って、listedがうしろからthe numberを修飾している。「用紙の下部に示す」というような場合は、副詞にはbelowを使う。したがって(D)が正解。(A)のdownは「下へ」という方向性と動きを示すので、すでに示されている場合は使えない。(B)のunderは、物理的に何かの下のほうにある場合に使う。(C)のafterは時間的にあるいは動きが「あとに」なっている場合に使う。したがって、below以外はすべて不適切。"
+    }
+  ],
+  [
+    "1574",
+    {
+      "question": "The turnout was surprisingly strong with the band selling out four performances in the 3,000-seat arena, despite weak sales ——- on the tour.",
+      "option": [
+        "(A) nowhere",
+        "(B) somewhere",
+        "(C) elsewhere",
+        "(D) anywhere"
+      ],
+      "translation": "【問題文訳】「その観客数は予想外に多く、そのバンドは、他の場所のツアーでは低調だったにもかかわらず、その3,000人収容できるアリーナでの4回の公演を売り切った」",
+      "answer": "【解答】C",
+      "explanation": "【解説】このアリーナ（3,000席収容できる）では4つの公演ともチケットが売り切れたのだが、文尾ではdespite weak salesと言っている。売れ行きが思わしくなかった場所があったのである。(A)のnowhereでは「どこも売れ行きが思わしくないところはなかったのに」となり、(B)のsomewhereも「あるところでは」となり、最初のほうのsurprisinglyの意味合いに合わない。「この場所以外では売れ行きがよくなかったのに、思いの外ここでは売れた」という意味になる(C)のelsewhereが適している。(D)のanywhereでは「どこでも売れ行きが思わしくなかったのに」となって、売れ行きがよかった前半との意味がちぐはぐになる。"
+    }
+  ],
+  [
+    "1576",
+    {
+      "question": "Many of the items on the meeting’s agenda are of ——- to everyone as they involve the move to the new office.",
+      "option": [
+        "(A) concerns",
+        "(B) concerning",
+        "(C) concerned",
+        "(D) concern"
+      ],
+      "translation": "【問題文訳】「その会議の議題の多くは、新しいオフィスへの引越しに関することなので、みんなの心配の種だ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前にare ofがあることに注意。したがって、空所には名詞が当てはまることになる。動詞の形（過去形・過去分詞）である(C)のconcernedは、まず除外できる。(B)のconcerningを使ったbe of concerning to …という使い方はないので、(B)も不可。そして、be ofのあとには単数形のconcernが続く。be of concernで「心配の種だ」という意味を表す。したがって、(D)が正解。"
+    }
+  ],
+  [
+    "1578",
+    {
+      "question": "Littering on state highways is ——- by a $500 fine and possibly up to 100 hours of community service work for repeat offenders.",
+      "option": [
+        "(A) punishment",
+        "(B) punishable",
+        "(C) punishing",
+        "(D) punish"
+      ],
+      "translation": "【問題文訳】「州道にゴミを捨てることは罰金500ドルに値し、常習者には100時間までの社会奉仕活動の可能性がある」",
+      "answer": "【解答】B",
+      "explanation": "【解説】be動詞のあとで、by …の前である。通常であれば「受動態」になるが、選択肢には過去分詞がない。そこで、選択肢を1つずつチェックしてみよう。(A)のpunishmentは「罰すること、罰」という名詞。by …に修飾される形にはならない。(B)のpunishableは形容詞だが、あとにby …を続け、「…の処罰に値する」という意味を表す。これが正解。(C)のpunishingは「苦痛を与える、疲労困ぱいさせる」という意味で、意味を成さない。(D)のpunishは動詞の原形なので、be動詞のあとには続かない。"
+    }
+  ],
+  [
+    "1580",
+    {
+      "question": "Parents often have very high ——- for their children, especially if they had goals they never achieved in their own youth.",
+      "option": [
+        "(A) expectations",
+        "(B) expectant",
+        "(C) expectancy",
+        "(D) expect"
+      ],
+      "translation": "【問題文訳】「両親は子供に非常に高い期待を抱くものだ。自分の若いときに成し遂げられなかった目標があれば尚更である」",
+      "answer": "【解答】A",
+      "explanation": "【解説】形容詞が前にあり、あとにofという所属を表す前置詞があるので、空所には名詞が入ると判断できる。したがって、動詞の(D) expectはまず除外できる。残りのうち、(B)のexpectantは「期待している人、候補者」という「人」を表す。(C)のexpectancyは「見込み、期待される対象」のこと。(A)のexpectationが「期待」という意味で、文章の意味に合う。"
+    }
+  ],
+  [
+    "1582",
+    {
+      "question": "By walking behind him, the detective was able to ——- observe the suspect without being noticed.",
+      "option": [
+        "(A) close",
+        "(B) closer",
+        "(C) closely",
+        "(D) closes"
+      ],
+      "translation": "【問題文訳】「彼のあとを付けることによって、刑事は容疑者に気付かれずに細かく観察できた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にbe able toがあること、そして、あとにobserveという動詞が続いていることから判断する。つまり、動詞を修飾する品詞が当てはまる。動詞を修飾するのは、(C)のclosely（細かく、念入りに）という副詞である。"
+    }
+  ],
+  [
+    "1584",
+    {
+      "question": "A good ballet dancer leaps through the air ——- giving the impression that she has the power of flight.",
+      "option": [
+        "(A) easy",
+        "(B) easily",
+        "(C) in ease",
+        "(D) at ease"
+      ],
+      "translation": "【問題文訳】「優れたバレエダンサーは空中を楽に舞い、彼女に飛ぶ力があるという印象を与える」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所のあとのgiving以降は分詞構文である。分詞構文の分詞はもともと動詞であるから、その動詞を修飾するのは副詞である。したがって、「楽に」という意味の副詞である(B)のeasilyが適切である。(C)のin easeは「楽に」という意味になりそうだが、前置詞が違う。with easeなら正しい表現である。"
+    }
+  ],
+  [
+    "1586",
+    {
+      "question": "Somebody should be able to come into the office to help with the financial statements and ——- the necessary Customs documents.",
+      "option": [
+        "(A) can write",
+        "(B) write",
+        "(C) wrote",
+        "(D) written"
+      ],
+      "translation": "【問題文訳】「誰かがオフィスに来て財務表の手伝いをしたり必要な通関書類を書くことができるでしょう」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文の構成をしっかりと見極めよう。主語はSomebodyである。述語がshould be able to …である。そして、and以降は、このshould be able toに続くものである。したがって、動詞の原形である(B)のwriteが適切である。構文をしっかりと把握しないと、適切な語が判断できない。"
+    }
+  ],
+  [
+    "1588",
+    {
+      "question": "The hiring committee has finished the vast majority of the interviews, but they are scheduled to do ——- tomorrow.",
+      "option": [
+        "(A) the rest",
+        "(B) rest",
+        "(C) a rest",
+        "(D) restful"
+      ],
+      "translation": "【問題文訳】「雇用委員会はほとんどすべての面接を終わらせたが、明日残りを面接する予定である」",
+      "answer": "【解答】A",
+      "explanation": "【解説】選択肢のrestという名詞の意味と用法を理解しよう。この語は「残り」という意味なので、必ず、定冠詞のtheをつけて使う。したがって、(A)のthe restが正解。(D)のrestfulは形容詞。restful tomorrowは意味のある語句にはならないので、これも不可。"
+    }
+  ],
+  [
+    "1590",
+    {
+      "question": "—— often happen between teenage boys over the simplest problems, but they are soon forgotten as new situations develop.",
+      "option": [
+        "(A) Fighting",
+        "(B) Fought",
+        "(C) Fighter",
+        "(D) Fights"
+      ],
+      "translation": "【問題文訳】「十代の少年たちは、よく単純なことでケンカをするが、新しいことが起きるとすぐに忘れる」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所には文全体の主語が当てはまることを理解しよう。そして、oftenのあとの動詞がhappenとなっており、「3単現のs」が付いていない。したがって、主語は複数形になる。複数形の名詞は(D)のFightsである。"
+    }
+  ],
+  [
+    "1592",
+    {
+      "question": "Conservative ——- indicate that sales of the new videogame may well go over $10 million next quarter.",
+      "option": [
+        "(A) estimating",
+        "(B) estimate",
+        "(C) estimates",
+        "(D) estimated"
+      ],
+      "translation": "【問題文訳】「控え目な見積もりでも、次の四半期の新しいテレビゲームの売り上げは1,000万ドルを越えそうだ」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のConservativeは「控え目な」という意味の形容詞である。そして、空所のあとのindicateが動詞。that以降は目的語になる名詞節である。つまり、空所に当てはまるのは、名詞の複数形ということになり、(C)のestimatesが正解となる。"
+    }
+  ],
+  [
+    "1594",
+    {
+      "question": "The amount of money spent on advertising campaigns is not something generally ——- with people outside of the firm.",
+      "option": [
+        "(A) disgusted",
+        "(B) discussed",
+        "(C) disguised",
+        "(D) distributed"
+      ],
+      "translation": "【問題文訳】「その広告キャンペーンに使われた全額は、社外の人たちが通常話題にするようなものではなかった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文の意味から、空所には「何かを話し合う」という意味の動詞（過去分詞）が当てはまると判断される。「話し合う」という意味を表すのは、(B)のdiscussである。(A)のdisgustは「うんざりさせる」、(C)のdisguiseは「変装させる」、(D)のdistributeは「分配する」という意味で、いずれも合わない。discussという動詞は他動詞で、talk aboutの意味になる。そして、aboutなどの前置詞を付けないで使う。We discussed the problem.のように、目的語が直接続く。この文でも、空所の語の目的語になっているのは、空所に続くwith people …ではなくsomethingである。"
+    }
+  ],
+  [
+    "1596",
+    {
+      "question": "During the “After Christmas Sale,” all merchandise in the store will be ——- by 25%.",
+      "option": [
+        "(A) redeemed",
+        "(B) reduced",
+        "(C) restored",
+        "(D) reassessed"
+      ],
+      "translation": "【問題文訳】「アフター・クリスマス・セールのあいだ、店内の全商品が25%引きになります」",
+      "answer": "【解答】B",
+      "explanation": "【解説】商品の値段が下げられるわけだから、「少なくする」という意味の(B) reduceが適切である。そして、受動態を表す(B)のreducedになる。(A)のredeemは「買い戻す」という意味だが、「セール中に買い戻される」はおかしい。(C)のrestoreは「元に戻す」で、これも合わない。(D)のreassessは「再評価する」で、これもセールの話題とは合わない。"
+    }
+  ],
+  [
+    "1598",
+    {
+      "question": "The economy is ——- to fall into a severe recession within the next two business quarters.",
+      "option": [
+        "(A) like",
+        "(B) liked",
+        "(C) likable",
+        "(D) likely"
+      ],
+      "translation": "【問題文訳】「経済は次の2期四半期のうちに厳しい不況に陥りそうな気配だ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前にbe動詞があり、あとにto不定詞が続いている。選択肢の種類から構文を考えよう。(D)のlikelyを使い、be likely to …という表現にする。「…しそうである」という意味を表す。空所のあとのto不定詞に惑わされてlike to …（…するのが好きだ）と早とちりしないこと。(C)のlikableは「かわいげがある、感じのよい」という形容詞である。"
+    }
+  ],
+  [
+    "1600",
+    {
+      "question": "Although the performer was used to being on stage, her ——- was that of an ordinary person.",
+      "option": [
+        "(A) conduce",
+        "(B) conduct",
+        "(C) conductor",
+        "(D) conductive"
+      ],
+      "translation": "【問題文訳】「その演奏家は舞台慣れしていたが、日頃の行いはふつうの人と同じだった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前に代名詞の所有格があり、あとにbe動詞が続いているので、空所には名詞が入り、主語を形成すると判断できる。あとのthat of an ordinary person（ふつうの人と同じ）という内容も参考にすること。「人格」や「人柄」を表す名詞だと推測できる。よって、(B)のconductが「行為、日頃の行い」という意味で適切である。(A)のconduceは「ある結果をもたらす」という動詞。(C)は名詞だが、「指揮者」という意味でつながらない。(D)のconductiveは「電熱性の」という意味の形容詞。"
+    }
+  ],
+  [
+    "1602",
+    {
+      "question": "In the morning Toronto News, the bank was accused of ——- a large sum of its customers’ money.",
+      "option": [
+        "(A) mishandling",
+        "(B) misleading",
+        "(C) mistaking",
+        "(D) misgiving"
+      ],
+      "translation": "【問題文訳】「今朝の『トロントニュース』紙に、その銀行が莫大な顧客の金を不正流用したと糾弾されていた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前のwas accused ofがポイント。そして、続くa large sum of …から、高額の金を不正処理して糾弾されたという内容が読み取れる。(A)のmishandleが「不正処理する」という意味で当てはまる。(B)のmisleadは「誤解を生ませる」、(C)のmistakeは「間違いを犯す」、(D)のmisgiveは「（人に）不安を抱かせる」という意味で、いずれも文の意味と合わない。"
+    }
+  ],
+  [
+    "1604",
+    {
+      "question": "Although the restaurant was very small and served fairly ——- food, its excellent location caused it to be crowded every night of the week.",
+      "option": [
+        "(A) mediate",
+        "(B) medium",
+        "(C) mediocre",
+        "(D) meditative"
+      ],
+      "translation": "【問題文訳】「そのレストランは小さくて割と平凡な料理を出したが、素晴らしい立地のおかげで平日は毎晩混雑していた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所のあとにfoodがあることから、食べ物に関する形容詞が当てはまることが判断できる。(A)のmediateは「仲介の」という意味で、食べ物には使わない。(B)のmediumは「中くらいの、中間の」という意味だが、大きさについて言うので、ここでは当てはまらない。(C)のmediocreが「ほどほどの、平凡な」という意味で、料理の質や味について言う。これが正解。(D)のmeditativeは「瞑想にふける」という意味なので、食べ物には使わない。"
+    }
+  ],
+  [
+    "1606",
+    {
+      "question": "The woman reported her handbag was either stolen or ——- when she went to the train station that morning.",
+      "option": [
+        "(A) replaced",
+        "(B) placed",
+        "(C) misplaced",
+        "(D) displaced"
+      ],
+      "translation": "【問題文訳】「女性は、その日の朝駅に行ったとき彼女のハンドバッグは盗まれたか置き忘れたかのどちらかだと報告した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】ハンドバッグが話題になっていること、空所の語はstolenという語と対比して使われていることなどから考える。「間違ったところに置く、置き忘れる」という意味を表す(C)のmisplaceが適切である。(A)のreplaceは「交換する」、(B)のplaceは「置く」、(D)のdisplaceは「置き換える、取り替える」という意味で、いずれも「置き忘れる」という意味はないので、適切ではない。"
+    }
+  ],
+  [
+    "1608",
+    {
+      "question": "The company employed a number of economic indicators to ——- its likely profits beforehand.",
+      "option": [
+        "(A) deduce",
+        "(B) define",
+        "(C) deny",
+        "(D) dedicate"
+      ],
+      "translation": "【問題文訳】「その会社は数多くの経済指標を用いて、見込み利益をはじき出した」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文の最後のbeforehandがキーワード。「前もって」という意味である。(A)のdeduceが「…を計算する、…を推論する」という意味で、前もって行うことなので、これが正解。(B)のdefineは「定義する」で、関係がない。(C)のdenyは「否定する」、(D)のdedicateは「捧げる、献身する」という意味で、いずれも前もって行うという状況と合わない。"
+    }
+  ],
+  [
+    "1610",
+    {
+      "question": "The librarian ——- the books from the cart and placed them one by one on the appropriate shelves.",
+      "option": [
+        "(A) replaced",
+        "(B) relocated",
+        "(C) relayed",
+        "(D) removed"
+      ],
+      "translation": "【問題文訳】「司書はカートから本を取り出し、1冊ずつ所定の棚に置いていった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢のそれぞれの動詞に付いているre- には「再び…する」という意味がある。(A)のreplaceは「取り替える」で、棚の中の本を他の本と取り替えることになり、合わない。(B)のrelocateは、箱と他の箱、1つの本棚と別の本棚のように同じ種類のものの間を移動することを意味するので、これも合わない。(C)のrelay は「つなぐ」。日本語の「リレー」で、これも関係がない。(D)のremoveが「取り出す」という意味で、あとのplacedと関連し、この文の意味に合う。"
+    }
+  ],
+  [
+    "1612",
+    {
+      "question": "When the cassette player ——-, it ruined the tape inside it, so now the owner has to replace both of them.",
+      "option": [
+        "(A) breaker",
+        "(B) broke",
+        "(C) broken",
+        "(D) break"
+      ],
+      "translation": "【問題文訳】「カセットプレーヤーが壊れて中のテープもダメになり、持ち主は両方とも取り替える羽目になった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文の構成を考えよう。whenに導かれる節で、the cassette playerが主語で、空所には動詞が当てはまる。述語として使われる動詞の形である。it ruinedの部分が過去形なので、when節の中も過去形がよい。動詞の過去形は(B)のbrokeである。so now以降は現在のことを述べているので、現在形でよい。"
+    }
+  ],
+  [
+    "1614",
+    {
+      "question": "The spokesperson for the administration had to ——- the President’s speech when news of the Vice-President’s death arrived.",
+      "option": [
+        "(A) intervene",
+        "(B) intersect",
+        "(C) interrupt",
+        "(D) interpret"
+      ],
+      "translation": "【問題文訳】「政府の広報官は、副大統領の訃報が届いたため、大統領の演説を一時中断しなければならなかった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「…の間に、相互に」の意味を表す接頭辞inter-が付いている。選択肢のそれぞれの語の意味と文の意味を見ていこう。(A)はinter＋venire（間に入る）より「取りなす、干渉する」という意味になる。(B)はinter＋sect（切る）より「交差する」という意味。(C)はinter＋rupt（壊す）より「遮断する、中断する」という意味。(D)はinter＋preta（価をつける）より「解釈する、通訳する」という意味。これから考えると、(C)のinterruptが「中断する」で当てはまる。"
+    }
+  ],
+  [
+    "1616",
+    {
+      "question": "Elephants have ——- long noses called trunks which have a level of dexterity one would associate with a person’s arm.",
+      "option": [
+        "(A) extreme",
+        "(B) extremist",
+        "(C) extremity",
+        "(D) extremely"
+      ],
+      "translation": "【問題文訳】「ゾウはトランクと呼ばれる非常に長い鼻を持っており、それには人間の腕と同じくらいの器用さがある」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとが＜形容詞＋名詞＞になっていることから判断する。called以降は前のnosesを修飾する過去分詞句。空所には、longという形容詞を修飾する副詞が適している。(A)のextreme は「非常な」という意味の形容詞。(B)のextremistは「過激論者」という意味の名詞。(C)のextremityは「極み、極端さ」という意味の名詞。(D)のextremelyが「非常に」という副詞で、正解。"
+    }
+  ],
+  [
+    "1618",
+    {
+      "question": "The photographs on this page were all taken on the ——- day of the Kansas City Jazz Festival.",
+      "option": [
+        "(A) less",
+        "(B) least",
+        "(C) last",
+        "(D) late"
+      ],
+      "translation": "【問題文訳】「このページの写真はすべて、カンザスシティ・ジャズフェスティバルの最終日に撮られたものです」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前に定冠詞のtheがあり、あとに名詞が続いているので、空所には形容詞が当てはまると判断できる。そして、文の内容から「最終日に」という意味が適切だと思われ、(C)のlastを当てはめて考えると、文全体の意味が通る。"
+    }
+  ],
+  [
+    "1620",
+    {
+      "question": "The car rental office has ten ——- vans, but none of them were available on that date.",
+      "option": [
+        "(A) eight-passenger",
+        "(B) eight-passengers",
+        "(C) eight of passengers",
+        "(D) passengers"
+      ],
+      "translation": "【問題文訳】「そのレンタカー店には8人乗りのバンが10台あるが、その日は1台も空いていなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】数を表す語が名詞を伴って他の名詞を修飾する場合、＜数詞＋ハイフン＋単数名詞＞の形になる。したがって、(A)のeight-passengerが正解。(B)のように複数形にならないので注意。「8人乗りの車が10台ある」ということ。"
+    }
+  ],
+  [
+    "1622",
+    {
+      "question": "Rachel is such a ——- person that she often gets her feelings hurt by other people’s offhand comments.",
+      "option": [
+        "(A) sensible",
+        "(B) sensitive",
+        "(C) sensual",
+        "(D) sensuous"
+      ],
+      "translation": "【問題文訳】「レイチェルは非常に繊細な人で、他人の何気ない一言によく傷つく」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢の語は、いずれもsense（感覚）に関係したものである。それぞれの語と文全体の意味から考えてみよう。(A)のsensibleは「良識のある、趣味の良い」、(B)のsensitiveは「感受性の強い、神経質な」、(C)のsensualは「官能的な」、(D)のsensuousは「感覚に訴える」で、空所に続くpersonに適切なのは、(B)のsensitiveである。"
+    }
+  ],
+  [
+    "1624",
+    {
+      "question": "The constant rain caused a steady rise in the lake level which led to the water ——- the top of the dam.",
+      "option": [
+        "(A) overtaking",
+        "(B) overcoming",
+        "(C) overpowering",
+        "(D) overflowing"
+      ],
+      "translation": "【問題文訳】「雨が降り続けて湖の水位が着実に上昇し、ダムの水があふれる結果になった」",
+      "answer": "【解答】D",
+      "explanation": "【解説】選択肢の個々の単語の意味を再確認しながら考えよう。(A)のovertakeは「…に追いつく」、(B)のovercomeは「…を克服する、…に打ち勝つ」、(C)のoverpowerは「人を深く感動させる、（機械などを）酷使する」という意味、(D)のoverflowが「あふれる」という意味で、空所の前のthe waterやthe damに合う。これが正解。"
+    }
+  ],
+  [
+    "1626",
+    {
+      "question": "The continent of Australia is ——- for such exotic wildlife as kangaroos and koala bears.",
+      "option": [
+        "(A) ferocious",
+        "(B) favorite",
+        "(C) financial",
+        "(D) famous"
+      ],
+      "translation": "【問題文訳】「オーストラリア大陸は、カンガルーやコアラといった珍しい野生動物で有名だ」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとにfor …があることもヒントになる。(D)のfamousが、be famous for …の形で「…で有名である」という意味を表す。これが正解。(A)のferociousは「凶暴な」という意味。あとに名詞が続くことが多い。(B)のfavoriteは「お気に入りの」、(C)のfinancialは「金融の、財政の」なので、いずれも意味が合わない。"
+    }
+  ],
+  [
+    "1628",
+    {
+      "question": "The most ——- means of travel within the city is the subway system, which now has 12 different lines.",
+      "option": [
+        "(A) economic",
+        "(B) economy",
+        "(C) economical",
+        "(D) economized"
+      ],
+      "translation": "【問題文訳】「市内を移動するいちばん安い方法は地下鉄で、現在12の路線がある」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にThe mostという最上級を表す表現があり、あとにmeans（方法、手段）という名詞が続いているので、空所には形容詞の原級（the mostのあとには最上級は続かない）が当てはまる。適する形容詞は(C)のeconomical（経済的な、安い）である。(A)のeconomicも形容詞だが、「経済の」という意味で、「安い」という意味を伝えている内容に合わない。(D)のeconomizedは過去分詞だが、形容詞の意味と用法がある。「倹約された」という意味なので、これも合わない。"
+    }
+  ],
+  [
+    "1630",
+    {
+      "question": "——– the tiger, the lion is a member of the feline family, and they are both commonly exhibited at zoos.",
+      "option": [
+        "(A) Like",
+        "(B) To like",
+        "(C) Liking",
+        "(D) Liked"
+      ],
+      "translation": "【問題文訳】「トラと同様、ライオンはネコ科の一種であり、両方とも動物園でふつうに見られる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとに定冠詞のtheを伴う名詞が続いている。つまり前置詞の用法の語が当てはまる。(A)のlikeが「…と同じように」という意味を表し、この空所に適している。likeのほかの形では、文法的に不適切である。"
+    }
+  ],
+  [
+    "1632",
+    {
+      "question": "The ——- rule in a wide number of religious traditions is to treat others as you would want to be treated yourself.",
+      "option": [
+        "(A) principal",
+        "(B) primitive",
+        "(C) precise",
+        "(D) precarious"
+      ],
+      "translation": "【問題文訳】「非常に数多くの宗教的伝統に見られる基本ルールは、自分がしてもらいたいように人に接することである」",
+      "answer": "【解答】A",
+      "explanation": "【解説】紛らわしい語形の形容詞が並んでいるので、意味から考えよう。空所のあとのruleを修飾できる形容詞である。(A)のprincipalが「主要な、基本的な」という意味でruleにつながり、「基本的な規則、ルール」となる。(B)のprimitiveは「原始的な」で、現在のことを述べている文に合わない。(C)のpreciseは「詳細な」、(D)のprecariousは「不安定な」なので、この2つも文の意味に合わない。"
+    }
+  ],
+  [
+    "1634",
+    {
+      "question": "Ice in the swimming pool put ——- on the sides and caused them to crack.",
+      "option": [
+        "(A) strength",
+        "(B) strain",
+        "(C) stain",
+        "(D) stream"
+      ],
+      "translation": "【問題文訳】「スイミングプールの氷が端の方に負荷をかけ、それがひび割れの原因となった」",
+      "answer": "【解答】B",
+      "explanation": "【解説】caused them to crackのthemはthe sidesを指す。つまり、「プールの側壁に氷でひびが入った」のである。「力、負荷」という意味の名詞が当てはまる。(B)のstrainが「緊張、負荷」という意味で、この文の意味と合う。(A)のstrengthはstrongの名詞形で「力強さ」という意味。「力強さ」だけではひび割れの原因にはならない。(C)のstainは「しみ」である。(D)のstreamは「流れ」で、いずれもひび割れの原因としては意味を持たないので、この空所には当てはまらない。"
+    }
+  ],
+  [
+    "1636",
+    {
+      "question": "The staff in the accounting section are asked to attend the annual employee recognition ——-.",
+      "option": [
+        "(A) bouquet",
+        "(B) banquet",
+        "(C) banner",
+        "(D) bounty"
+      ],
+      "translation": "【問題文訳】「会計課の社員は全員、年に1度の社員表彰会に出席するように言われている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】attend（出席する）という動詞が使われていること、そして、空所の前のthe annual employee recognitionという表現から、空所には「パーティー、宴会、催し」などを意味する語が当てはまると判断できる。選択肢の中では、(B)のbanquetが「宴会」という意味で適切である。(D)のbountyは「奨励金」という意味だが、宴会のニュアンスはない。"
+    }
+  ],
+  [
+    "1638",
+    {
+      "question": "The college ——- thought that the primary mistake of the college’s founders was the acceptance of fraternities.",
+      "option": [
+        "(A) council",
+        "(B) compressor",
+        "(C) compilation",
+        "(D) consulate"
+      ],
+      "translation": "【問題文訳】「大学評議会は、創立者たちの初期の誤りは男子学生の友愛会を承認したことだと考えた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前のThe collegeと、文尾のfraternities（男子学生の友愛会、同窓会）などから、(A)のcouncil（評議会）が当てはまると判断できる。(B)のcompressorは「コンプレッサー、圧縮機」である。(C)のcompilationは「編集」。compile（編集する）の名詞形である。(D)のconsulateは「領事館」で、いずれも合わない。fraternityはアメリカの大学にある男子の社交クラブで、女子のクラブはsororityと言う。"
+    }
+  ],
+  [
+    "1640",
+    {
+      "question": "The applicant hoped to be granted an interview at the ——- of the human resources director.",
+      "option": [
+        "(A) consequence",
+        "(B) conscience",
+        "(C) convenience",
+        "(D) consistence"
+      ],
+      "translation": "【問題文訳】「その応募者は人事部長の都合のよい時に面接をしてもらえるだろうと期待した」",
+      "answer": "【解答】C",
+      "explanation": "【解説】選択肢の語に使われている接頭辞のcon-はtogetherの意味を表す。(A)はcon＋sequi（従う）で「あとに従って起こるもの」となり、「結果・結論」を表す。(B)はcon＋scire（知っている）より「良心」。(C)はcon＋venire（来る）より「便利」、(D)はcon＋sist（立つ）より「…から成る、密度、一致」という意味になる。この中からat theのあとに続き、文の意味に合うのは(C)のconvenienceである。at the convenienceで「都合のよいときに」という意味を表す。"
+    }
+  ],
+  [
+    "1642",
+    {
+      "question": "The dentist advises all her patients that ——- regularly is the key to good dental health.",
+      "option": [
+        "(A) brushed",
+        "(B) brushing",
+        "(C) brushes",
+        "(D) is brushing"
+      ],
+      "translation": "【問題文訳】「その歯科医は、規則正しく歯磨きをすることが歯を健康に保つ秘訣であるとすべての患者にアドバイスしている]",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のthatがどういう役割なのかを考えよう。これはadvisesの目的語になる名詞節を作る接続詞のthatである。したがって、空所の語あるいは語句とregularlyの組み合わせで主語になっている。isが動詞である。選択肢の中で主語になれる名詞を形成するのは、動名詞の(B) brushingだけである。したがって(B)が正解。"
+    }
+  ],
+  [
+    "1644",
+    {
+      "question": "Compact digital cameras with the latest features have been particularly ——- with consumers in the 30- to 39-age bracket.",
+      "option": [
+        "(A) popularly",
+        "(B) popularity",
+        "(C) populous",
+        "(D) popular"
+      ],
+      "translation": "【問題文訳】「最新の機能をそなえた小型のデジタルカメラは、30歳から39歳の年齢層のお客様に特に人気があります」",
+      "answer": "【解答】D",
+      "explanation": "【解説】同じ単語の派生形が並んでいる。したがって、文法的に考えるとよい。空所の直前はparticularly（特に、とりわけ）という副詞だが、その前にhave beenという現在完了形があることに注目しよう。beのあとに当てはまるのは、形容詞の(D) popularである。(A)のpopularlyは副詞、(B)のpopularityは名詞で、空所に合わない。(C)のpopulousは形容詞だが、「人口の多い」という意味なので、意味が合わない。"
+    }
+  ],
+  [
+    "1646",
+    {
+      "question": "All contest entries must be postmarked no ——- than June 30 to be eligible for the grand drawing.",
+      "option": [
+        "(A) late",
+        "(B) later",
+        "(C) latest",
+        "(D) lately"
+      ],
+      "translation": "【問題文訳】「コンテストの出場申込書は、抽選会の資格を得るために6月30日までの消印が必要です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にnoがあることと、あとにthanが続いていることから判断する。no later than …（遅くとも…までに）というイディオムが含まれている。このイディオムを知らなくても、thanがあることから、比較級の(B) later以外は当てはまらないことを判断しよう。"
+    }
+  ],
+  [
+    "1648",
+    {
+      "question": "Read about the Firebirds’ ——- championship loss in Martin Cook’s column on Page 24 of The San Antonio Chronicle.",
+      "option": [
+        "(A) devastating",
+        "(B) devastated",
+        "(C) devastatingly",
+        "(D) devastation"
+      ],
+      "translation": "【問題文訳】「『ザ・サン・アントニオ・クロニクルズ』の24ページにあるマーティン・クック氏のコラムで、ファイアーバーズの\n選手権での惨敗を読んでください」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所を含む意味は、「ファイアーバーズの選手権での惨敗」となる。空所の前のthe Firebirds’が形容詞の働きをしており、championship lossに続くので、空所にも形容詞が入る。選択肢の中で形容詞は、(A)のdevastating（ひどい）だけである。"
+    }
+  ],
+  [
+    "1650",
+    {
+      "question": "The chief ——- officer could lose control of the board of directors due to the record-breaking company losses.",
+      "option": [
+        "(A) executor",
+        "(B) execute",
+        "(C) executive",
+        "(D) execution"
+      ],
+      "translation": "【問題文訳】「その最高経営責任者は、会社の記録的な赤字で役員会の支配権を失いかねない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前にchiefがあること、そして、officerが続いていることから判断する。最近よく経済ニュースで目にするCEO（最高経営責任者）のchief executive officerになる。したがって、(C)のexecutiveが当てはまる。(A)のexecutorは「執行人」、(B)のexecuteは、この動詞形で「執行する」、(D)のexecutionは名詞形の1つで「執行」である。ちなみにexecutionはほとどの場合「死刑執行」という意味でしか使われない。"
+    }
+  ],
+  [
+    "1652",
+    {
+      "question": "The article posted on the bulletin board provides ——- statistics about comparisons between the German and Italian economies.",
+      "option": [
+        "(A) fascinate",
+        "(B) fascinating",
+        "(C) fascinated",
+        "(D) fascination"
+      ],
+      "translation": "【問題文訳】「掲示板に提示された記事は、ドイツとイタリアの経済比較に関する興味深い統計についてである」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にprovides（提供する、提示する）という動詞があり、あとにstatisticsという名詞が続いている。したがって、空所には形容詞が当てはまると判断できる。形容詞の働きをするのは(B)のfascinating（魅了する）と(C)のfascinated（魅了された）である。「魅了する」のが記事で、「魅了される」のは読者である。したがって、ここでは(B)のfascinatingが正解。"
+    }
+  ],
+  [
+    "1654",
+    {
+      "question": "The corporation has taken drastic ——- to return to profitability, including cutting salaries across the board by ten percent.",
+      "option": [
+        "(A) measuring",
+        "(B) measurements",
+        "(C) measurable",
+        "(D) measures"
+      ],
+      "translation": "【問題文訳】「その会社は収益を取り戻すために、給料の一律10％カットを含む思い切った方法を採った」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前が形容詞で、あとには不定詞が続いているので、空所には名詞が入るべきだと考える。よって、まず、形容詞である(C)のmeasurable（測定できる）が除外できる。ほかの選択肢はすべて名詞になれる。(A)のmeasuringは「測定すること」、(B)のmeasurementは「測定」、(D)のmeasureが「方法」という意味なので、この空所にはmeasureが当てはまる。"
+    }
+  ],
+  [
+    "1656",
+    {
+      "question": "A controversy ——- over which singers were entitled to royalties from the album and how much their royalties would be.",
+      "option": [
+        "(A) eruption",
+        "(B) erupting",
+        "(C) erupted",
+        "(D) eruptive"
+      ],
+      "translation": "【問題文訳】「どの歌手にそのアルバムの印税をもらう権利があるのか、また、印税はいくらになるのかという問題が起きた」",
+      "answer": "【解答】C",
+      "explanation": "【解説】A controversyという主語のあとに続き、あとにoverという前置詞を従えていることから、overを使った句動詞が当てはまると判断できる。つまり、空所には動詞形が入る。eruptの過去形である(C)のeruptedが適切である。"
+    }
+  ],
+  [
+    "1658",
+    {
+      "question": "Customers at fast-food restaurants are prone to leaving ——- scattered about the dining area.",
+      "option": [
+        "(A) literacy",
+        "(B) litter",
+        "(C) literature",
+        "(D) litigation"
+      ],
+      "translation": "【問題文訳】「ファーストフード店の客は食事をする場所にゴミを散らかしたままにする傾向がある」",
+      "answer": "【解答】B",
+      "explanation": "【解説】紛らわしい語形の語が並んでいる。意味から考えよう。空所のあとにscattered（散らかった）という意味の過去分詞（形容詞の意味を持つ）がある。この意味から考えると、(B)のlitter（ゴミ）が適切である。(A)のliteracyは「読み書き能力」のことである。(C)のliteratureは「文学」、(D)のlitigationは「訴訟」という意味で、いずれも合わない。"
+    }
+  ],
+  [
+    "1660",
+    {
+      "question": "Our highly ——- portable audio players are marketed to younger buyers and other customers with limited disposable income.",
+      "option": [
+        "(A) profiteering",
+        "(B) profit",
+        "(C) profitably",
+        "(D) profitable"
+      ],
+      "translation": "【問題文訳】「当社で高収益を上げているポータブル・プレーヤーは、若い人たちや手取り収入が限られた人たちが購買層です」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前後の修飾関係を見ると、＜highly→空所→portable audio players＞のようになっている。したがって、空所には形容詞が入ることが分かる。文尾のlimited disposable income（限られた手取り収入）の意味から、ビジネスの意味を持つ(D)のprofitableが適切であると判断できる。highlyは(A)のprofiteeringのように否定的な語を修飾するときには使わない。(B)のprofitは名詞、(C)のprofitablyは副詞で、空所に合わない。"
+    }
+  ],
+  [
+    "1662",
+    {
+      "question": "The lawyer was pronounced ——- negligent when the court decision was reversed by the appellate court.",
+      "option": [
+        "(A) profession",
+        "(B) professional",
+        "(C) professionally",
+        "(D) professed"
+      ],
+      "translation": "【問題文訳】「控訴審で判決が逆転し、その弁護士は職務怠慢だと断言された」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前が受動態になっていること、そして、あとのnegligentが形容詞であることなどから、文の構成をしっかり見極める。whenの前は＜主語＋述語＋主格補語＞の構文になっている。つまり、＜The lawyer＝negligent＞の関係である。この空所の位置で形容詞を修飾できるのは、(C)のprofessionally（職務的に）という副詞だけである。(D)のprofessedは「公言した」という意味の形容詞（過去分詞）である。"
+    }
+  ],
+  [
+    "1664",
+    {
+      "question": "Laws have been enacted against ——- advertising practices such as photographs of products superior to the actual ones on sale.",
+      "option": [
+        "(A) deceptive",
+        "(B) deceptiveness",
+        "(C) deceptively",
+        "(D) deception"
+      ],
+      "translation": "【問題文訳】「商品の写真が実際に販売されているものよりよく見えるような、虚偽の広告の仕方を規制する法律が施行された」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとのadvertising practicesは名詞句である。名詞句を修飾するのは形容詞で、形容詞の意味を持つのは「人をだますような」という意味の(A) deceptiveである。(B)のdeceptivenessはdeceptiveの名詞形で、「ごまかし」、(C)のdeceptivelyは副詞で「一見」、(D)のdeceptionは名詞で、「詐欺行為」である。"
+    }
+  ],
+  [
+    "1666",
+    {
+      "question": "The company will have to lay people off, if business stays as ——- in the upcoming fiscal year as it was in the one now ending.",
+      "option": [
+        "(A) slow",
+        "(B) slowly",
+        "(C) slowing",
+        "(D) slowed"
+      ],
+      "translation": "【問題文訳】「次期会計年度の業績が期末を迎えた今期と同等に不振であったら、会社は人員削減をせざるを得ない」",
+      "answer": "【解答】A",
+      "explanation": "【解説】＜stay＋補語＞で「…の状態にとどまる」という意味になる。選択肢のうち補語になり得るのは形容詞の(A) slowのみである。空所の前のasは… year asとで＜as … as＞の構文を形成している。"
+    }
+  ],
+  [
+    "1668",
+    {
+      "question": "The politician’s standing ——- when the scandal of bribes offered to receive preferential treatment became public knowledge.",
+      "option": [
+        "(A) was declined",
+        "(B) have declined",
+        "(C) declined",
+        "(D) to be declining"
+      ],
+      "translation": "【問題文訳】「優遇措置を受けるために提供された収賄汚職が公になり、その政治家の立場が危うくなった」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のstandingは動名詞で、「立場」という意味を表している。そして、when以降の述語はbecameで過去を表している。つまり、空所にも過去形が当てはまる。「立場は危うくなる」ので、受動態である(A)のwas declinedではなく、ふつうの過去形の(C) declinedがよい。"
+    }
+  ],
+  [
+    "1670",
+    {
+      "question": "All movies shown at that movie theater ——- awards in the years they first appeared.",
+      "option": [
+        "(A) reception",
+        "(B) received",
+        "(C) receptive",
+        "(D) receiving"
+      ],
+      "translation": "【問題文訳】「その映画館で上映される映画は、すべて封切りの年の受賞作品です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文頭から空所の前までが主語である。そして、空所のあとに目的語のawardsが続いているので、動詞の(B) receivedが適する。"
+    }
+  ],
+  [
+    "1672",
+    {
+      "question": "The city is considering ——- more buses to reduce traffic congestion on streets clogged with private cars.",
+      "option": [
+        "(A) orders",
+        "(B) ordered",
+        "(C) to order",
+        "(D) ordering"
+      ],
+      "translation": "【問題文訳】「市は自家用車で混み合う道路の渋滞緩和のため、バスを追加発注しようと考えている」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前の動詞がconsiderであることがポイント。この動詞は、目的語として動名詞をとる。したがって、(D)のorderingが適している。「…することを考慮している」という意味を表す。"
+    }
+  ],
+  [
+    "1674",
+    {
+      "question": "Investing can be a very complicated ——- because there are so many factors to bear in mind.",
+      "option": [
+        "(A) process",
+        "(B) processing",
+        "(C) procession",
+        "(D) proceed"
+      ],
+      "translation": "【問題文訳】「投資には注意すべき点が非常に多いので、かなり複雑な手続きになる」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前が＜a very＋形容詞（complicated）＞担っているので、空所には名詞が当てはまる。(D)のproceed（進む）以外には、すべて名詞の用法がある。しかし、ここでは「工程、作業、手続き」という意味の名詞である(A)のprocessが入る。(B)のprocessingは「処理」という意味を表し、ここでは合わない。(C)のprocessionは「行列」である。"
+    }
+  ],
+  [
+    "1676",
+    {
+      "question": "The flood caused ——- of over one hundred million dollars in low-lying areas of the county.",
+      "option": [
+        "(A) losing",
+        "(B) lost",
+        "(C) losses",
+        "(D) being lost"
+      ],
+      "translation": "【問題文訳】「洪水はその郡の低平地に1億ドル以上の損害をもたらした」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前に動詞のcausedがあり、あとにofが続いている。causedに続く語句は目的語に当たると判断されるため、空所には名詞が適切である。名詞は(C)のlossesで、ここでは複数形になっている。(A)のlosingは動名詞で名詞の働きをするが、ここでは合わない。動名詞には動詞の意味や用法も残っているが、この空所には動詞の意味合いはない。純粋に「損害」という意味である。"
+    }
+  ],
+  [
+    "1678",
+    {
+      "question": "The two celebrities got ——- in June, but the relationship was difficult and they were divorced before the year was out.",
+      "option": [
+        "(A) marry",
+        "(B) marrying",
+        "(C) marriage",
+        "(D) married"
+      ],
+      "translation": "【問題文訳】「その2人の有名人は6月に結婚したが、関係がこじれて年内に離婚した」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前にgotがあることがポイント。選択肢にあるmarryの派生形の中では、(D)のmarriedが当てはまり、get marriedで「結婚する」という意味になる。gotと過去形になっているのは、but以降の節の時制に合わせたからである。(A)のmarryは「…と結婚する」という他動詞。あとに目的語が直接続く。(B)のmarryingは「結婚しそうな」という意味の形容詞、(C)のmarriageは「結婚」という意味の名詞である。"
+    }
+  ],
+  [
+    "1680",
+    {
+      "question": "Rules governing the incorporation of the company require a complete financial ——- be published for the annual meeting.",
+      "option": [
+        "(A) state",
+        "(B) statement",
+        "(C) stately",
+        "(D) stating"
+      ],
+      "translation": "【問題文訳】「会社設立に関する法律では、年次総会で完全な財務報告書を出すことが必要だとしている」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前に形容詞のfinancialがある。そして、空所のあとのbe publishedは＜a complete financial＋空所の語＞を主語とする述語である。つまり、空所には名詞が適している。(C)のstatelyは「荘重に」という意味の副詞または「風格のある」という形容詞で、名詞の用法はないので、除外する。あとの3つは名詞の用法を持つ。(A)のstateは、名詞では「州、国家、状態」という意味で、ここでは使えない。(B)のstatementが「声明、説明書」で、この空所に当てはまる。(D)のstatingは「主張すること」なので、これも合わない。"
+    }
+  ],
+  [
+    "1682",
+    {
+      "question": "Customers at the video rental ——- borrowed items on the counter during business hours and drop them into a box after business hours.",
+      "option": [
+        "(A) lie",
+        "(B) laid",
+        "(C) lay",
+        "(D) lying"
+      ],
+      "translation": "【問題文訳】「そのレンタルビデオ店の客は、借りた品物を営業時間内はカウンターに置き、営業時間後は回収ボックスに入れる」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の語を含む部分の構成をしっかり理解すること。文頭からrentalまでが主語である。rentalは、ここでは「レンタル店」という名詞である。そして、空所のあとのborrowedは過去分詞で「借りた」という意味。borrowed itemsで「借りた商品」ということ。空所には動詞が入り、borrowed itemsが目的語なので、目的語を必要とする「他動詞」が当てはまる。「…を置く」という意味の(C) layが適切である。(A)のlieは「横たわる」という意味の自動詞。(B)のlaidはlayの過去形。あとにdropという現在形があるので、過去形は間違いである。(D)のlyingはlieの現在分詞である。"
+    }
+  ],
+  [
+    "1684",
+    {
+      "question": "The police department’s ——- budget showed a five percent increase when compared to the previous year’s level.",
+      "option": [
+        "(A) estimated",
+        "(B) estimator",
+        "(C) estimation",
+        "(D) estimative"
+      ],
+      "translation": "【問題文訳】「警察署の見積り予算は、昨年の水準と比べて5パーセント増えていた」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前が所有格で、あとにbudgetという名詞が続いている。空所にはbudgetにかかる形容詞が当てはまる。形容詞は(A)のestimatedと(D)のestimativeであるが、estimativeは「評価力のある」という意味で、合わない。estimatedが「見積もられた」で、budgetに合う。"
+    }
+  ],
+  [
+    "1686",
+    {
+      "question": "Companies consciously try to project ——- images by contributing to worthwhile local charities.",
+      "option": [
+        "(A) respectful",
+        "(B) respectable",
+        "(C) respective",
+        "(D) respecting"
+      ],
+      "translation": "【問題文訳】「価値ある地元の慈善事業に貢献することによって、会社は意識的に尊敬できるイメージを作ろうとする」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のprojectはto不定詞を作っている動詞。そして、あとに名詞のimageが続いている。したがって、空所には、それを修飾する形容詞が当てはまる。(D)のrespectingは「…に関する」という前置詞だが、ほかの選択肢はすべて形容詞なので、それぞれの意味から判断する。imageにつながる意味のものを探す。(A)のrespectfulは「敬意を表する」、(B)のrespectableは「尊敬すべき」、(C)のrespectiveは「各自の」という意味。この中から、(B)のrespectableがimageと意味がつながる。"
+    }
+  ],
+  [
+    "1688",
+    {
+      "question": "——- advertising largely pays for itself through increased sales and a higher level of product awareness.",
+      "option": [
+        "(A) Imaginarily",
+        "(B) Imaginary",
+        "(C) Imaginative",
+        "(D) Imagination"
+      ],
+      "translation": "【問題文訳】「創意に富む広告は、売り上げを増やしたり商品の認知度をより高く上げたりするので、十分に元が取れる」",
+      "answer": "【解答】C",
+      "explanation": "【解説】文頭が空所になっている問題では、特に、文の構成をしっかり見極めて語形や品詞を決めよう。動詞がpaysである。そして、largelyは「主として、概して」という意味の副詞で、paysを修飾している。つまり、文頭とadvertisingで主語を形成している。名詞のadvertisingを修飾しているので、形容詞が適切。(B)のimaginaryと(C)のimaginativeが形容詞だが、imaginaryは「想像上の」という意味なので、advertisingにはつながらない。(C)が正解。"
+    }
+  ],
+  [
+    "1690",
+    {
+      "question": "Production could not match demand for the ——- popular music compact disk.",
+      "option": [
+        "(A) enormously",
+        "(B) enormousness",
+        "(C) enormity",
+        "(D) enormous"
+      ],
+      "translation": "【問題文訳】「非常に人気の出たその音楽CDの需要に対して、生産が追いつかなかった」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所のあとのpopularが形容詞で、続くmusic compact diskを修飾している。空所にはpopularを修飾する副詞がふさわしいと判断できる。(A)のenormouslyが「非常に」という意味の副詞である。これが正解。(B)のenormousnessは「巨大さ」という名詞である。(C)のenormityも名詞で「極悪非道」という意味。(D)のenormousは「巨大な」という意味の形容詞である。"
+    }
+  ],
+  [
+    "1692",
+    {
+      "question": "Each ——- at the conflict resolution workshop will give a 10-minute presentation on a problem that person helped solve.",
+      "option": [
+        "(A) participates",
+        "(B) participant",
+        "(C) participation",
+        "(D) participatory"
+      ],
+      "translation": "【問題文訳】「摩擦解決研修会にご参加の方は、ご自身が解決の手助けをした問題に関して、それぞれ10分間のプレゼンテーション\nをお願いします」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前のeachは形容詞。あとにはat …という前置詞句が続いているので、空所には名詞が当てはまる。そして、文の意味から考えて、空所には「人」を表す語が入ると判断できる。つまり、「参加者」になる。「参加者」という意味の名詞は、(B)のparticipantである。(A)のparticipateは「参加する」という動詞。(C)のparticipationは「参加」という名詞。(D)のparticipatoryは「参加の」という形容詞である。"
+    }
+  ],
+  [
+    "1694",
+    {
+      "question": "The advertisement was ——- drawn with rough letters to appeal to children.",
+      "option": [
+        "(A) intent",
+        "(B) intention",
+        "(C) intended",
+        "(D) intentionally"
+      ],
+      "translation": "【問題文訳】「その広告は、子供たちにアピールするために意図的に乱暴な字で書かれていた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所に入るのは直後のdrawnを修飾できる品詞、すなわち副詞である。したがって、正解は(D)のintentionally（意図的に）である。空所の直前のbe動詞から安易に受動態を作ろうと思わないこと。(C)のintendedを選ぶと、そのあとのdrawnがおさまらなくなってしまう。"
+    }
+  ],
+  [
+    "1696",
+    {
+      "question": "Switching computer systems caused ——- during the transition period while employees learned to use functions of the new software.",
+      "option": [
+        "(A) confidence",
+        "(B) conclusion",
+        "(C) convention",
+        "(D) confusion"
+      ],
+      "translation": "【問題文訳】「コンピューターシステムを変更したため、社員が新しいソフトの機能を覚える移行期間中混乱が生じた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所にはcausedの目的語が入る。選択肢を眺めるとすべてが名詞なので、意味から判断する。「コンピューターシステムの変更がもたらしたもの」を考える。(D)のconfusion（混乱）が適切である。during the transition periodは「移行期間中に」という意味の副詞句で独立した意味を持つ。(A)のconfidenceは「信頼」、(B)のconclusionは「結末」、(C)のconventionは「会議」という意味。"
+    }
+  ],
+  [
+    "1698",
+    {
+      "question": "——- in the total number of days that ski resorts enjoy a sufficient snow cover each year greatly affect profitability.",
+      "option": [
+        "(A) Variations",
+        "(B) Varieties",
+        "(C) Variables",
+        "(D) Verifications"
+      ],
+      "translation": "【問題文訳】「毎年、スキーリゾートで十分な積雪量を楽しめる合計日数の変化が収益に大きく影響する」",
+      "answer": "【解答】A",
+      "explanation": "【解説】前置詞句によって修飾される空所には、この文の主語の中心となる語が入る。主語は、文頭からeach yearまでである。そして、affectが動詞で、greatlyが動詞を修飾している。主語は「…するトータル日数の変動」という意味である。中心となる語は「変動」なので、(A)のvariationが当てはまる。これが正解。(B)のvarietyは「変化」、(C)のvariables（複数形がふつう）は「貴重品」、(D)のverificationは「根拠」という意味で、いずれも合わない。"
+    }
+  ],
+  [
+    "1700",
+    {
+      "question": "——- modified cotton has been successfully created to grow in high salt content soil such as seen in irrigated areas.",
+      "option": [
+        "(A) Genetic",
+        "(B) Genetically",
+        "(C) Genetics",
+        "(D) Gene"
+      ],
+      "translation": "【問題文訳】「遺伝子組み替えの綿は、灌漑地に見られる高い塩分を含む土壌でも育つように開発に成功した」",
+      "answer": "【解答】B",
+      "explanation": "【解説】主語は文頭からcottonまで。has been successfully createdが述部である。空所のあとにmodifiedという過去分詞（形容詞）があるので、空所には副詞が当てはまる。副詞は(B)のgeneticallyである。genetically modified cottonで「遺伝子組み替えの綿」という意味になる。"
+    }
+  ],
+  [
+    "1702",
+    {
+      "question": "Harrison Winkler was ——- to the Toronto branch where he now serves as the assistant production manager.",
+      "option": [
+        "(A) transmitted",
+        "(B) transpired",
+        "(C) transferred",
+        "(D) transformed"
+      ],
+      "translation": "【問題文訳】「ハリソン・ウィンクラー氏はトロント支社に異動し、そこで生産副部長として勤務している」",
+      "answer": "【解答】C",
+      "explanation": "【解説】「人」を表すHarrison Winklerが主語で、あとが受動態になっているので、「人を…する」という意味を表す動詞の過去分詞が当てはまる。空所のあとに「支店名」が続いているので、「異動させる」という意味の(C) transferが正解である。"
+    }
+  ],
+  [
+    "1704",
+    {
+      "question": "Medical ——- are required before personnel appointments take effect to guard the company from excessive personnel expenses.",
+      "option": [
+        "(A) executions",
+        "(B) examinations",
+        "(C) expirations",
+        "(D) exaggerations"
+      ],
+      "translation": "【問題文訳】「会社に過度の人件費負担とならないようにするため、採用辞令を出す前に健康診断が必要です」",
+      "answer": "【解答】B",
+      "explanation": "【解説】これは、健康診断を受けるように会社から新入社員に要請している文である。空所のあとのrequiredから、新入社員が要請されることを考える。空所の前のmedicalと組んで意味を成すのは(B)のexaminationである。「健康診断」である。"
+    }
+  ],
+  [
+    "1706",
+    {
+      "question": "The firm lacks the management ——- to open the six new stores the expansion plans calls for this quarter.",
+      "option": [
+        "(A) personalize",
+        "(B) personal",
+        "(C) personnel",
+        "(B) personify"
+      ],
+      "translation": "【問題文訳】「この四半期の目標である6店の新店舗計画を実現するには、その会社には店長が足りない」",
+      "answer": "【解答】C",
+      "explanation": "【解説】The firmのあとにあるlacksは「…を欠いている」という意味である。つまり、空所にはその「足りないもの」が入る。空所に続く内容の「新店舗をオープンさせる」ために必要となるものとして、適切なのは(C) personnel（人員）である。the management personnelで「店長」という意味を表す。personnel以外はすべて名詞ではないので、この点から考えることもできる。"
+    }
+  ],
+  [
+    "1708",
+    {
+      "question": "Some of the passengers described the air as ——- and asked for blankets from the flight attendants.",
+      "option": [
+        "(A) chilly",
+        "(B) chilled",
+        "(C) chilling",
+        "(D) chill"
+      ],
+      "translation": "【問題文訳】「その便の乗客の何人かが寒さを訴え、客室乗務員に毛布を頼んだ」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文の構成と、describeという動詞の持つ意味と用法を考えよう。空所の前にasがあるので、describe … as～が「…を～と描写する」という意味になると判断できる。つまり、空所にはthe airを描写する形容詞が当てはまる。「空気が寒い」という意味を表すのは(A)のchillyである。"
+    }
+  ],
+  [
+    "1710",
+    {
+      "question": "A significant number of passengers ——- luggage stolen from the arrival area until a computerized tag checking system was instituted.",
+      "option": [
+        "(A) reputed",
+        "(B) repented",
+        "(C) repeated",
+        "(D) reported"
+      ],
+      "translation": "【問題文訳】「タグチェックシステムがコンピューター化されるまでは、非常に多くの乗客が到着ロビーで手荷物が盗まれたと報告\nしていた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所のあとの「手荷物の盗難」、「コンピューターシステムが導入された」という内容から考えよう。(D)のreported（通報してきた）が意味的につながる。(A)のreputeは「評価する」、(B)のrepentは「悔やむ」、(C)のrepeatは「繰り返す」である。\n【重要語句】\nsignificant「大幅な、多くの」\nluggage「手荷物」\ncomputerized「コンピューター化された」\ninstitute「設ける」\nrepute「…を評する」\nrepent「悔やむ」"
+    }
+  ],
+  [
+    "1712",
+    {
+      "question": "Presently, the company’s board of directors ——- only two sites for the new plant, a Mexican one and one in Malaysia.",
+      "option": [
+        "(A) is considering",
+        "(B) to consider",
+        "(C) is considered",
+        "(D) considered"
+      ],
+      "translation": "【問題文訳】「現在、その会社の取締役会は新工場の予定地としてメキシコとマレーシアの2か所だけを考えている」",
+      "answer": "【解答】A",
+      "explanation": "【解説】文頭にPresentlyという語があるので、現在形あるいは現在進行形を用いるべきであると判断できる。(A)のis consideringが現在進行形で「…のことを考えている」という意味になり、会社の取締役会が考えていることとして適切である。(C)のis consideredも現在形だが、「考慮される」という意味になるので、「するもの」と「されるもの」が逆になってしまう。"
+    }
+  ],
+  [
+    "1714",
+    {
+      "question": "The rain, which fell during the night, made the grass and even the trees ——- fresh.",
+      "option": [
+        "(A) smelled",
+        "(B) smell",
+        "(C) smelly",
+        "(D) smelling"
+      ],
+      "translation": "【問題文訳】「夜のあいだに降った雨で、芝生や樹木まで新鮮な匂いがした」",
+      "answer": "【解答】B",
+      "explanation": "【解説】文の中ほどに使役動詞のmakeが使われていることに注目。makeは、〈make＋目的語＋原形不定詞〉という形をとって、「…させる」という意味になる。この文では、makeの目的語が長くなっている（the grassからtreesまで）ので、文の構造が把握しにくいが、しっかり見極めよう。原形不定詞とは動詞の原形であるから、当てはまるのは(B)のsmellだけである。なお、smellは自動詞であとに形容詞を伴い、「…の匂いがする」という意味になる。"
+    }
+  ],
+  [
+    "1716",
+    {
+      "question": "The city has had difficulty ——- a location for the new high school due to the amount of traffic the new school would produce.",
+      "option": [
+        "(A) to determine",
+        "(B) determining",
+        "(C) determined",
+        "(D) being determined"
+      ],
+      "translation": "【問題文訳】「新しい学校が生み出す交通渋滞のため、新設高校予定地の選定に市は苦労している」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にhas had difficultyがあることに気付くことがポイント。have difficulty (in) …ing はイディオムで「…するのに苦労する」という意味を表す。この文では、difficultyのあとにinが省略された形になっている。このinは省略されることが多い。文法的には、inがある状態では …ing形は動名詞とみなされるが、inがない構文では現在分詞と考えられている。選択肢では、(B)のdeterminingと(D)のbeing determinedが…ing形になっている。市は「選定する側」なので、(B)のdeterminingが適切である。"
+    }
+  ],
+  [
+    "1718",
+    {
+      "question": "The crowd shouted its ——- when the candidate criticized the government’s relaxed pollution standards.",
+      "option": [
+        "(A) applause",
+        "(B) appoints",
+        "(C) apology",
+        "(D) approval"
+      ],
+      "translation": "【問題文訳】「政府の改訂汚染緩衝基準案をその候補者が批判すると、聴衆は賛同の声を上げた」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前に所有格のitsがある。空所には名詞が当てはまる。選択肢はすべて名詞なので、意味から考える。主語のcrowdが叫ぶものを考える。(A)のapplauseにshoutは使わない。通常、giveを使う。(B)のappointは「指名する」という動詞である。(C)のapologyは「謝罪」という意味なので、ここでは合わない。(D)のapprovalが「賛同の声」という意味で、動詞にはshoutを使う。"
+    }
+  ],
+  [
+    "1720",
+    {
+      "question": "One obligation of new employees is to fill out the ——- tax forms to ensure the correct amount of deductions are made.",
+      "option": [
+        "(A) approachable",
+        "(B) approximate",
+        "(C) appropriate",
+        "(D) approved"
+      ],
+      "translation": "【問題文訳】「新入社員の義務の1つは、正確な控除が確実になされるように適切な納税用紙に記入することです」",
+      "answer": "【解答】C",
+      "explanation": "【解説】定冠詞のtheのあとで、taxという名詞の前なので、形容詞が入る。選択肢はすべて形容詞である。意味から判断しよう。tax formsを修飾できる形容詞が必要である。(A)のapproachableは「接近しやすい」なので、tax formには合わない。(B)のapproximateも「およその」なので、意味が合わない。(C)のappropriateが「適切な」という意味でtax formに合う。(D)のapprovedも「認定された」という意味でtax formに合うが、全体の意味から、認定した機関なども出てこないので唐突な用法になり、ここでは使えない。"
+    }
+  ],
+  [
+    "1722",
+    {
+      "question": "Public ——- in the safety of air flight is one reason why evacuation notices are prominently displayed throughout aircraft.",
+      "option": [
+        "(A) confidence",
+        "(B) consequence",
+        "(C) convergence",
+        "(D) convenience"
+      ],
+      "translation": "【問題文訳】「空の旅の安全性に対する一般の信頼は、避難に関する注意書きが機内いたるところに目立つように提示してあるため\nである」",
+      "answer": "【解答】A",
+      "explanation": "【解説】空所の前にpublicという形容詞がある。続くin the safety of air flight（飛行便の安全に対する）という内容から考える。(A)のconfidenceが「信頼性」という意味で適切である。"
+    }
+  ],
+  [
+    "1724",
+    {
+      "question": "Even though your resume shows you are highly ——-, we have no openings to consider you for at this time.",
+      "option": [
+        "(A) qualifying",
+        "(B) qualified",
+        "(C) qualifier",
+        "(D) qualification"
+      ],
+      "translation": "【問題文訳】「貴殿は高度な資質をお持ちですが、現時点で貴殿に適する職の空きがないのです」",
+      "answer": "【解答】B",
+      "explanation": "【解説】選択肢にqualifyの派生形が並んでいる。副詞のhighlyの前にbe動詞がある。したがって、空所には形容詞が当てはまると判断できる。(B)のqualifiedが「資格を与える」という動詞qualifyの過去分詞形で、「資格のある」という形容詞としての用法もある。これが正解。(A)のqualifyingも現在分詞で形容詞の働きがあるが、「資格を与える」という意味なので、逆になる。"
+    }
+  ],
+  [
+    "1726",
+    {
+      "question": "Vincent earned his ——- as an actor despite his parents’ initial opposition to employment on the stage.",
+      "option": [
+        "(A) livelihood",
+        "(B) lively",
+        "(C) live",
+        "(D) life"
+      ],
+      "translation": "【問題文訳】「ビンセントは演劇の世界で生きていくことを最初親に反対されたが、役者として生計を立てた」",
+      "answer": "【解答】A ",
+      "explanation": "【解説】空所の前に代名詞の所有格がある。したがって、空所には名詞が入る。名詞として使えるのは、(A)のlivelihoodと(D)のlifeである。動詞がearn（稼ぐ）なので、「生計の手段」という意味を表す(A)のlivelihoodが当てはまる。lifeは「生活、生命」なので、動詞にearnは使えない。"
+    }
+  ],
+  [
+    "1728",
+    {
+      "question": "State of Idaho driver’s licenses are up for renewal during the month prior to their ——-.",
+      "option": [
+        "(A) exploration",
+        "(B) expression",
+        "(C) expedition",
+        "(D) expiration"
+      ],
+      "translation": "【問題文訳】「アイダホ州の運転免許証は期限が切れる前1か月間で更新する必要がある」",
+      "answer": "【解答】D",
+      "explanation": "【解説】空所の前のtheirが何を指すのかを考えよう。driver’s licenses are …のように、免許証を複数形で表現しているので、このtheirは「免許証」である。したがって、「期限切れ」という意味を表す(D)のexpirationが適している。"
+    }
+  ],
+  [
+    "1730",
+    {
+      "question": "The price of our economy fares need to be ——- less than our competitor’s to attract customers.",
+      "option": [
+        "(A) somewhere",
+        "(B) somewhat",
+        "(C) sometime",
+        "(D) somebody"
+      ],
+      "translation": "【問題文訳】「お客様を引き付けるために、ライバル会社より当社のエコノミー席の料金をいくらか安くする必要があります」",
+      "answer": "【解答】B",
+      "explanation": "【解説】空所の前にbe動詞がある。そして、あとには述語に相当するless than …が続いている。これを修飾できるのは、副詞で「いくらか、ある程度」という意味を表すsomewhatである。"
+    }
+  ],
+  [
+    "1732",
+    {
+      "question": "To find the park, walk along Blanchard Avenue until you ——- a sharp turn to the left.",
+      "option": [
+        "(A) enclose",
+        "(B) endorse",
+        "(C) encourage",
+        "(D) encounter"
+      ],
+      "translation": "【問題文訳】「その公園に行くには、ブランチャード通りに沿って左に急カーブするまで歩いてください」",
+      "answer": "【解答】D",
+      "explanation": "【解説】道順を説明している文である。道路を歩いている状況を考えよう。untilが使われているので、「…するまで歩く」ということになる。「…にぶつかる、出会う、遭遇する」という意味を表す(D)のencounterが適している。"
+    }
+  ],
+  [
+    "1734",
+    {
+      "question": "Futura’s newest model ——- an existing Futura laptop, but its weight has been reduced by half a pound.",
+      "option": [
+        "(A) is resembled with",
+        "(B) resembles to",
+        "(C) resembles",
+        "(D) resembled"
+      ],
+      "translation": "【問題文訳】「フーツラの最新機種は、現在のフーツラのノートパソコンに似ていますが、重量が0.5ポンド軽くなりました」",
+      "answer": "【解答】C",
+      "explanation": "【解説】空所の前のmodelまでが主語で、空所にはその述語が入る。あとに目的語が直接続いていることがポイント。「…に似ている」というのは、resembleという動詞1語で表現する。他動詞で、あとには目的語が直接続く。現在のことを述べているので、現在形の(C) resembleが適切である。"
+    }
+  ]
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>English Quiz</title>
+		<!-- knockout -->
+		<script type="text/javascript" src="http://knockoutjs.com/downloads/knockout-3.3.0.js"></script>
+  		<!-- jQuery -->
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  		<link rel="stylesheet" href="./quiz.css">
+  		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script src="https://raw.githubusercontent.com/dinbror/bpopup/master/jquery.bpopup.min.js"></script>
+
+		
+		
+		<script type="text/javascript" src="./quiz.js" ></script>
+	</head>
+	<body>
+		<div class='container-fluid' id='container'>
+			<div id='title'><p data-bind="text:questionCountdownView"></p></div>
+  			<div id='quiz'></div>
+    		<button class='btn btn-default btn-sm active' id='prev' data-bind="enable: true, click: goPrev" >Prev</button>
+    		<button class='btn btn-default btn-sm active' id='next' data-bind="enable: true, click: goNext" >Next</button>
+    	</div>
+		<br/>
+		<div class='center-block'>
+			<button class="btn btn-danger btn-lg" data-bind="click: giveUp ">give up</button>
+		</div>
+		<br/>
+		<table class="table table-bordered table-striped" id="answers" style="width: 100%;" cellspacing="1">
+    		<thead>
+   			    <tr>
+   			    	<td style="width: 5%;">ID</td>
+   			        <td style="width: 25%;">Question</td>
+   			        <td style="width: 15%;">Options</td>
+   			        <td style="width: 5%;">Your selection</td>
+   			        <td style="width: 5%;">Result</td>
+   			        <td style="width: 5%;">Answer</td>
+   			        <td style="width: 40%;">Explanation</td>
+   			    </tr>
+   			</thead>
+   			<tbody>
+   			</tbody>
+		</table>
+	</body>
+
+</html>
